@@ -1,8 +1,13 @@
 
 <img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
 
-<h1 align="center">Welcome, I'm Joan Simonutti</h1>
-<h3 align="center">A Full Stack Web Developer</h3>
+<h1 align="center">Bienvenido, soy Joan Simonutti</h1>
+<h3 align="center">Desarrollador Web Full Stack</h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,linux,html,css,js,react,py,jest,figma" />
+  </a>
+</p>
 
 
 
