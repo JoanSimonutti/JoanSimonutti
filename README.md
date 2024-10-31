@@ -5,9 +5,11 @@
 <h3 align="center">Soy desarrollador de aplicaciones web.<br/>Mi compromiso es brindar soluciones sencillas, elegantes y eficientes que cumplan con las necesidades del proyecto.<br/>Estas son algunas de las tecnologias que utilizo:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,py,jest,git,github,figma" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,py,jest,git,figma" />
   </a>
 </p>
+<h3 align="center">Contacto: joansimonutticode@gmail.com</h3>
+
 
 
 
