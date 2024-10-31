@@ -5,7 +5,7 @@
 <h3 align="center">Soy desarrollador web full stack y éstas son algunas de las tecnologias que utilizo:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,html,css,js,react,py,jest,linux,figma" />
+    <img src="https://skillicons.dev/icons?i=git,github,html,css,js,react,py,jest,bash" />
   </a>
 </p>
 
