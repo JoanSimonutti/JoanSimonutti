@@ -8,7 +8,7 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,react,py,jest,git,figma" />
   </a>
-</ph3>
+</h3>
 </h2>
 <h3 align="center">Contacto: joansimonutticode@gmail.com</h3>
 
