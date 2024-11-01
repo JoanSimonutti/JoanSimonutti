@@ -4,11 +4,11 @@
 <h1 align="center">Bienvenido.<br/>Mi nombre es Joan Simonutti</h1>
 <h2 align="center">Soy desarrollador de aplicaciones web.<br/>Mi compromiso es brindar soluciones sencillas, elegantes y
   eficientes que cumplan con las necesidades del proyecto.<br/>Estas son algunas de las tecnologias que utilizo:
-<h3 align="center">
+<p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,react,py,jest,git,figma" />
   </a>
-</h3>
+</p>
 </h2>
 <h3 align="center">Contacto: joansimonutticode@gmail.com</h3>
 
