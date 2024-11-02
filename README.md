@@ -5,7 +5,7 @@
 <h2 align="center">Soy desarrollador de aplicaciones web.<br/>Mi compromiso es brindar soluciones sencillas, elegantes y
   eficientes que cumplan con las necesidades del proyecto.<br/>Algunas de las tecnologias que utilizo:
 <p align="center">
-  <a href="https://skillicons.dev">
+  <a href="https://skillicons.dev"> <br/>
     <img src="https://skillicons.dev/icons?i=html,css,js,react,py,jest,git,figma,linux" />
   </a>
 </p>
