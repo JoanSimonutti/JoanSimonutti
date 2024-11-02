@@ -12,7 +12,7 @@
   </a>
 </p>
 </h2>
-<h3 align="center">Contacto: joansimonutticode@gmail.com</h3>
+<h2 align="center">Contacto: joansimonutticode@gmail.com</h2>
 
 
 
