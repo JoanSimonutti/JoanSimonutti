@@ -6,7 +6,7 @@
   eficientes que cumplan con las necesidades del proyecto.<br/>Algunas de las tecnologias que utilizo:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,py,jest,git,figma" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,py,jest,git,figma,linux" />
   </a>
 </p>
 </h2>
