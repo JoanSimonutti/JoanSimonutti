@@ -1,4 +1,3 @@
-<head>
 <style>
         body {
             font-family: Arial, sans-serif;
@@ -53,7 +52,6 @@
             text-decoration: underline;
         }
     </style>
-</head>
 <body>
     <div class="container">
         <h1>¡Hola!</h1>
