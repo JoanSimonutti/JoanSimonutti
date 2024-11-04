@@ -1,3 +1,4 @@
+<h1 strong>Este perfil se encuentra en proceso de actualización</h1>
 <style>
         body {
             font-family: Arial, sans-serif;
