@@ -1,5 +1,6 @@
- <h1>¡Hola!</h1>
+ <h1>¡Hola!
     <p>Mi nombre es Joan Simonutti y soy desarrollador especializado en aplicaciones web.</p>
+  </h1>
     <p>Mi enfoque profesional se centra en ofrecer soluciones optimizadas, elegantes y escalables que respondan a las necesidades específicas de cada proyecto. Mi prioridad es lograr un balance entre funcionalidad, estética y eficiencia, garantizando una experiencia de usuario de alto nivel.</p>
     <h2>Tecnologías y herramientas principales:</h2>
     <ul>
