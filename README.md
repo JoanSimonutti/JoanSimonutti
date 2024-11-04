@@ -9,7 +9,7 @@
   <p>React (Html-Css-Javascript), Python, Git, entre otras.</p>
 <p align="center">
   <a href="https://skillicons.dev"> <br/>
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,py,jest,git,figma,linux" />
+    <img src="https://skillicons.dev/icons?i=react,html,css,js,py,git,jest,figma,linux" />
   </a>
 </p>
 </h2>
