@@ -5,7 +5,7 @@
 <h2 align="center">Soy desarrollador de aplicaciones web.<br/><br/>
   Mi compromiso es brindar soluciones sencillas, elegantes y
   eficientes que cumplan con las necesidades del proyecto.<br/><br/>
-  Algunas de las tecnologias que utilizo:
+  Tecnologias que utilizo:
   <p>React (Html-Css-Javascript), Python, Git, entre otras.</p>
 <p align="center">
   <a href="https://skillicons.dev"> <br/>
