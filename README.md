@@ -1,9 +1,9 @@
-<p style="text-align:center">**¡Bienvenido!**</p>
+**¡Bienvenido!**
 
 **Mi nombre es Joan Simonutti y soy desarrollador especializado en aplicaciones web.**
 
-<p style="color:blue">Mi compromiso es brindar soluciones simples, elegantes y eficientes que satisfagan las necesidades de cada proyecto.
-Estoy comprometido con la mejora continua y la búsqueda de soluciones innovadoras que impulsen el éxito de los proyectos en los que colaboro.</p>
+Mi compromiso es brindar soluciones simples, elegantes y eficientes que satisfagan las necesidades de cada proyecto.
+Estoy comprometido con la mejora continua y la búsqueda de soluciones innovadoras que impulsen el éxito de los proyectos en los que colaboro.
 
 ---
 
