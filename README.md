@@ -1,4 +1,4 @@
-<p style="color:blue" style="text-align:center"> **¡Bienvenido!**
+<p style="color:blue" style="text-align:center"> **¡Bienvenido!** </p>
 
 **Mi nombre es Joan Simonutti y soy desarrollador especializado en aplicaciones web.**
 
@@ -14,4 +14,4 @@ Estoy comprometido con la mejora continua y la búsqueda de soluciones innovador
 - Y otras herramientas que potencian la calidad y eficiencia del desarrollo.
  
 ---
-Puedes contactarme en [joansimonutticode@gmail.com](mailto:joansimonutticode@gmail.com) </p>
+Puedes contactarme en [joansimonutticode@gmail.com](mailto:joansimonutticode@gmail.com)
