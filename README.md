@@ -2,8 +2,7 @@
 
 **Mi nombre es Joan Simonutti y soy desarrollador especializado en aplicaciones web.**
 
-Mi compromiso es brindar soluciones simples, elegantes y eficientes que satisfagan las necesidades de cada proyecto.
-Estoy comprometido con la mejora continua y la búsqueda de soluciones innovadoras que impulsen el éxito de los proyectos en los que colaboro.
+Me comprometo a ofrecer soluciones simples, elegantes y eficientes que cubran las necesidades de cada proyecto, buscando siempre mejorar e innovar para asegurar su éxito.
 
 ---
 
