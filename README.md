@@ -1,10 +1,10 @@
 # ¡Hola, bienvenido!
 
-Soy **Joan Simonutti**, desarrollador de aplicaciones web, apasionado por crear soluciones eficientes. Con un enfoque en la simplicidad y el rendimiento, me comprometo a construir aplicaciones escalables y fáciles de mantener, utilizando las mejores prácticas de la industria para asegurar un código de alta calidad.<br/>Trabajo bien de forma autónoma y colaborativa, ya que poseo una solida habilidad comunicativa y buena inteligencia emocional. Tengo una mentalidad de aprendizaje continuo y me adapto fácilmente a nuevos entornos y desafíos.
+Soy **Joan Simonutti**, desarrollador de aplicaciones web, apasionado por crear soluciones eficientes. Con un enfoque en la simplicidad y el rendimiento, me comprometo a construir aplicaciones escalables y fáciles de mantener, utilizando las mejores prácticas de la industria para asegurar un código de alta calidad.<br/>Trabajo bien de forma autónoma y colaborativa, ya que poseo una sólida habilidad comunicativa y buena inteligencia emocional. Tengo una mentalidad de aprendizaje continuo y me adapto fácilmente a nuevos entornos y desafíos.
 
 ---
 
-## Tecnologías y herramientas clave:
+## Tecnologías y herramientas claves:
 
 - **Frontend:** React, JavaScript, HTML, CSS.
 - **Backend y scripting:** Python.
@@ -12,4 +12,4 @@ Soy **Joan Simonutti**, desarrollador de aplicaciones web, apasionado por crear 
 
 ---
 
-¿Buscas un desarrollador comprometido con el éxito de tus proyectos? **Contáctarme**: [joansimonutticode@gmail.com](mailto:joansimonutticode@gmail.com)
+¿Buscas un desarrollador comprometido con el éxito de tus proyectos? **Contáctame**: [joansimonutticode@gmail.com](mailto:joansimonutticode@gmail.com)
