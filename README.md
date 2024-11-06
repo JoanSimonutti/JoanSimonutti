@@ -10,7 +10,6 @@ Me comprometo a ofrecer soluciones simples, elegantes y eficientes que cubran la
 - Frontend: React (HTML, CSS, JavaScript)
 - Backend y scripting: Python
 - Control de versiones: Git
-- Y otras herramientas que potencian la calidad y eficiencia del desarrollo.
  
 ---
 Puedes contactarme en [joansimonutticode@gmail.com](mailto:joansimonutticode@gmail.com)
