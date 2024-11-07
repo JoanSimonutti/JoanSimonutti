@@ -12,7 +12,9 @@ Soy **Joan Simonutti**, desarrollador de aplicaciones web, apasionado por crear 
 
 ---
 
-### ¿Buscas un desarrollador comprometido con el éxito de tus proyectos?<br/>**Contáctame**: [joansimonutticode@gmail.com](mailto:joansimonutticode@gmail.com)
+### ¿Buscas un desarrollador comprometido con el éxito de tus proyectos? 
+<br/>**Contáctame**: [joansimonutticode@gmail.com]
+(mailto:joansimonutticode@gmail.com)
 
 # ¡Hola, bienvenido!
 
@@ -33,23 +35,3 @@ Trabajo eficazmente tanto de forma autónoma como en equipo, y me destaco por un
 ### ¿Buscas un desarrollador comprometido con el éxito de tus proyectos?
 
 📧 **Contáctame**: [joansimonutticode@gmail.com](mailto:joansimonutticode@gmail.com)
-
-# ¡Hola! Soy Joan Simonutti
-
-Soy desarrollador web, enfocado en crear aplicaciones escalables, eficientes y fáciles de mantener. Me apasiona el diseño simple y el rendimiento, y sigo las mejores prácticas para asegurar un código de alta calidad.
-
-Trabajo bien en equipo y de forma independiente, con buena comunicación y adaptabilidad a nuevos retos. Siempre busco aprender y mejorar para aportar más valor a cada proyecto.
-
----
-
-## Tecnologías principales
-
-- **Frontend:** React, JavaScript, HTML, CSS
-- **Backend:** Python
-- **Control de versiones:** Git
-
----
-
-### ¿Te interesa trabajar conmigo?
-
-📧 **Contacto**: [joansimonutticode@gmail.com](mailto:joansimonutticode@gmail.com)
