@@ -6,7 +6,7 @@ Destaco por mi capacidad para trabajar con eficacia tanto de manera independient
 
 ---
 
-## Tecnologías y herramientas claves:
+## Tecnologías:
 
 - **Frontend:** React, JavaScript, HTML, CSS.
 - **Backend y scripting:** Python.
