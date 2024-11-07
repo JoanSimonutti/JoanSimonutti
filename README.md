@@ -1,10 +1,8 @@
 # ¡Hola, bienvenido!
 
-Mi nombre es **Joan Simonutti**
+Soy **Joan Simonutti**, desarrollador de aplicaciones web comprometido con la creación de soluciones eficientes y de alto rendimiento. Con una visión centrada en la simplicidad, aplico las mejores prácticas de la industria para garantizar un código limpio, estructurado y sostenible.
 
-Soy desarrollador de aplicaciones web, apasionado por crear soluciones eficientes con un enfoque en la simplicidad y el rendimiento. Me comprometo a utilizar las mejores prácticas de la industria para asegurar un código limpio y de alta calidad.
-
-Trabajo con eficacia tanto de forma autónoma como en equipo, respaldado por una sólida habilidad comunicativa y una elevada inteligencia emocional. Poseo una mentalidad de aprendizaje continuo que facilita mi adaptación a nuevos entornos y desafíos.
+Destaco por mi capacidad para trabajar con eficacia tanto de manera independiente como en equipo, gracias a una sólida habilidad comunicativa y un desarrollado sentido de inteligencia emocional. Mi dedicación al aprendizaje continuo me permite adaptarme rápidamente a nuevos entornos y desafíos, contribuyendo siempre al éxito de los proyectos en los que participo.
 
 ---
 
