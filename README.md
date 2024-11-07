@@ -13,8 +13,7 @@ Soy **Joan Simonutti**, desarrollador de aplicaciones web, apasionado por crear 
 ---
 
 ### ¿Buscas un desarrollador comprometido con el éxito de tus proyectos? 
-<br/>**Contáctame**: [joansimonutticode@gmail.com]
-(mailto:joansimonutticode@gmail.com)
+<br/>**Contáctame**: [joansimonutticode@gmail.com](mailto:joansimonutticode@gmail.com)
 
 # ¡Hola, bienvenido!
 
