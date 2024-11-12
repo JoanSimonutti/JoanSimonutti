@@ -1,4 +1,4 @@
-# ¡Hola, bienvenido!!
+# ¡Hola, bienvenido!
 
 Soy **Joan Simonutti**, desarrollador de aplicaciones web comprometido con la creación de soluciones eficientes y de alto rendimiento. Con una visión centrada en la simplicidad, aplico las mejores prácticas de la industria para garantizar un código limpio, estructurado y sostenible.
 
@@ -16,4 +16,5 @@ Destaco por mi capacidad para trabajar con eficacia tanto de manera independient
 
 ### ¿Buscas un desarrollador comprometido con el éxito de tus proyectos? 
 **Contáctame**: [joansimonutticode@gmail.com](mailto:joansimonutticode@gmail.com)
+<a>url:https://www.linkedin.com/in/joan-simonutti-3ab037338/<a/>
 
