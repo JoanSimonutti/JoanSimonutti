@@ -15,6 +15,5 @@ Destaco por mi capacidad para trabajar con eficacia tanto de manera independient
 ---
 
 ### ¿Buscas un desarrollador comprometido con el éxito de tus proyectos? 
-**Contáctame**: [joansimonutticode@gmail.com](mailto:joansimonutticode@gmail.com)<br/>
-<a>https://www.linkedin.com/in/joan-simonutti-3ab037338/<a/>
+**Contáctame**: [joansimonutticode@gmail.com](mailto:joansimonutticode@gmail.com)
 
