@@ -11,7 +11,7 @@ Destaco por mi capacidad para trabajar con eficacia tanto de manera independient
 - **Frontend:** React, JavaScript, HTML, CSS.
 - **Backend:** Python.
 - **Control de versiones:** Git.
-asd
+
 ---
 
 ### ¿Buscas un desarrollador comprometido con el éxito de tus proyectos? 
