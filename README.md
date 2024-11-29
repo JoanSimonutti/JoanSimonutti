@@ -1,4 +1,4 @@
-# ¡Hola, bienvenido!dddadadadadw
+# ¡Hola, bienvenido!dddadadad
 
 Soy **Joan Simonutti**, desarrollador de aplicaciones web comprometido con la creación de soluciones eficientes y de alto rendimiento. Con una visión centrada en la simplicidad, aplico las mejores prácticas de la industria para garantizar un código limpio, estructurado y sostenible.
 
