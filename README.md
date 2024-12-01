@@ -8,7 +8,7 @@ Destaco por mi capacidad para trabajar con eficacia tanto de manera independient
 ## Tecnologías:
 
 - **Frontend:** React, JavaScript, HTML, CSS.
-- **Backend:** Python.
+- **Backend:** Flask, Python.
 - **Control de versiones:** Git.
 
 ---
