@@ -11,6 +11,6 @@ Soy **Joan Simonutti**, desarrollador de aplicaciones web comprometido con la cr
 
 ---
 
-### ¿Buscas un desarrollador comprometido con el éxito de tus proyectos? 
+### 
 **Contáctame**: [joansimonutticode@gmail.com](mailto:joansimonutticode@gmail.com)
 
