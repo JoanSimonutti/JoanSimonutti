@@ -1,5 +1,5 @@
-# ¡Hola, bienvenido!
-Soy **Joan Simonutti**, desarrollador de aplicaciones web comprometido con la creación de soluciones eficiente.
+# Hola, mi nobre es **Joan Simonutti**
+Soy desarrollador web full-stack.
 
 ---
 
