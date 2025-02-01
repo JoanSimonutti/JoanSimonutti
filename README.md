@@ -5,8 +5,8 @@ Soy desarrollador web full-stack.
 
 ## Tecnologías:
 
-- **Frontend:** React, JavaScript, HTML, CSS.
-- **Backend:** Flask, Python.
+- **Frontend:** HTML, CSS, JavaScript, React, Bootstrap.
+- **Backend:** Python, Flask.
 - **Control de versiones:** Git.
 
 ---
