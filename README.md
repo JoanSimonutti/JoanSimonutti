@@ -12,5 +12,5 @@ Soy desarrollador web full-stack.
 ---
 
 ### 
-**Contáctame**: [joansimonutticode@gmail.com](mailto:joansimonutticode@gmail.com)
+**Escríbeme**: [joansimonutticode@gmail.com](mailto:joansimonutticode@gmail.com)
 
