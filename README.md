@@ -1,5 +1,5 @@
 # ¡Hola, bienvenido!
-Soy **Joan Simonutti**, desarrollador junior de aplicaciones web comprometido con la creación de soluciones eficiente.
+Soy **Joan Simonutti**, desarrollador de aplicaciones web comprometido con la creación de soluciones eficiente.
 
 ---
 
