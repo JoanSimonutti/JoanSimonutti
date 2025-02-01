@@ -1,4 +1,4 @@
-# Hola, mi nombre es **Joan Simonutti**
+# Hola, mi nombre es **Joan Simonutti**.
 Soy desarrollador web full-stack.
 
 ---
