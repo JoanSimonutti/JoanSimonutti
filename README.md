@@ -1,8 +1,7 @@
 # Hola, mi nombre es **Joan Simonutti**.
 
-### **Soy desarrollador web full-stack** y utilizo las siguientes tecnologías:
- - **Frontend:** HTML, CSS, JavaScript, React, Bootstrap.
- - **Backend:** Python, Flask. 
-  
+### **Soy Desarrollador Full Stack Junior** y tengo habilidades con las siguientes tecnologías:
+HTML - CSS - JavaScript - TypeScript - React - Bootstrap - Tailwind - Python - Flask -
+SQLAlchemy - Git - Linux
 ### **Escríbeme:** [joansimonutticode@gmail.com](mailto:joansimonutticode@gmail.com)
 
