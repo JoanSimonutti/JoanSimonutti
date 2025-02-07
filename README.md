@@ -1,4 +1,4 @@
-# Hola, mi nombre es **Joan Simonutti**. sadsad
+# Hola, mi nombre es **Joan Simonutti**. sads
 
 ### **Soy desarrollador web full-stack** y utilizo las siguientes tecnologías:
  - **Frontend:** HTML, CSS, JavaScript, React, Bootstrap.
