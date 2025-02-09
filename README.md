@@ -2,6 +2,6 @@
 
 ### **Soy Desarrollador Full Stack Junior** y tengo habilidades con las siguientes tecnologías:
 HTML - CSS - JavaScript - TypeScript - React - Bootstrap - Tailwind - Python - Flask -
-SQLAlchemy - Git - Linux dadasddawdwadad
+SQLAlchemy - Git - Linux dadasddaw
 ### **Escríbeme:** [joansimonutticode@gmail.com](mailto:joansimonutticode@gmail.com)
 
