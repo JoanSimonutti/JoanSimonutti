@@ -1,7 +1,7 @@
-# Hola, mi nombre es **Joan Simonutti**. sadsaddasdasdsadsadsadsads
+# Hola, mi nombre es **Joan Simonutti**. sadsaddasdasdsadsadsads
 
 ### **Soy Desarrollador Full Stack** y tengo habilidades con las siguientes tecnologías:
 HTML - CSS - JavaScript - TypeScript - React - Bootstrap - Tailwind - Python - Flask -
 SQLAlchemy - Git - Linux.
-### **Escríbeme:** [joansimonutticode@gmail.com](mailto:joansimonutticode@gmail.com)
+### **Mi correo:** [joansimonutticode@gmail.com](mailto:joansimonutticode@gmail.com)
 
