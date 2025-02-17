@@ -4,6 +4,4 @@
 JavaScript & React | Python & Flask | SQLAlchemy | APIs | HTML | CSS | GIT
 
 ### **Perfil de Linkedin:** [linkedin.com/in/joansimonutti](https://www.linkedin.com/in/joansimonutti/)
-### **Email de contacto:** [joansimonutticode@gmail.com](mailto:joansimonutticode@gmail.com) 
-
-#100daysofcode
+### **Email de contacto:** [joansimonutticode@gmail.com](mailto:joansimonutticode@gmail.com)
