@@ -3,5 +3,5 @@
 ### **Soy Desarrollador Full Stack Junior** y tengo habilidades con las siguientes tecnologías:
 JavaScript | React | Python | Flask | SQLAlchemy | API REST | Base de datos | HTML | CSS | GIT
 ### **LinkedIn:** [linkedin.com/in/joansimonutti](https://www.linkedin.com/in/joansimonutti/)
-### **Email:** [joansimonutticode@gmail.com](mailto:joansimonutticode@gmail.com)  
+### **Escribeme:** [joansimonutticode@gmail.com](mailto:joansimonutticode@gmail.com)  
 
