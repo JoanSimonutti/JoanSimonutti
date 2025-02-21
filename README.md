@@ -1,4 +1,4 @@
-# Hola, mi nombre es **Joan Simonutti**. a
+# Hola, mi nombre es **Joan Simonutti**.
 
 ### Soy Desarrollador de Software Full Stack y tengo habilidades con las siguientes tecnologías: 
 JavaScript | React | Python | Flask | SQLAlchemy | APIs | HTML | CSS | Bootstrap | GIT
