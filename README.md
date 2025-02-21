@@ -1,4 +1,4 @@
-# Hola, mi nombre es **Joan Simonutti**. asdsada
+# Hola, mi nombre es **Joan Simonutti**. asds
 
 ### Soy Desarrollador de Software Full Stack y tengo habilidades con las siguientes tecnologías: 
 JavaScript | React | Python | Flask | SQLAlchemy | APIs | HTML | CSS | Bootstrap | GIT
