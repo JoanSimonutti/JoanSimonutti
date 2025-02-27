@@ -1,4 +1,4 @@
-# Hola, mi nombre es **Joan Simonutti**. asdsadsadsadas
+# Hola, mi nombre es **Joan Simonutti**. asdsadsa
 
 ### Soy Desarrollador de Software Full Stack Junior. 
 
