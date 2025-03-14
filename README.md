@@ -1,5 +1,5 @@
 # Hola, mi nombre es **Joan Simonutti**.
-15515115
+
 ### Soy Desarrollador de Software Full Stack Junior. 
 
 Me apasiona la programación y busco aplicar mis habilidades en un entorno colaborativo, donde pueda seguir aprendiendo.
