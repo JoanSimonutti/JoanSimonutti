@@ -1,11 +1,10 @@
-### Hola, mi nombre es Joan Simonutti  
-### Soy Desarrollador de Software Full Stack Junior  
+### Hola, soy Joan Simonutti, Desarrollador Full Stack Junior  
 
-Me apasiona la programación y busco aplicar mis habilidades en un entorno colaborativo, donde pueda seguir aprendiendo. <br/>  
-Me destaco por mi proactividad, aprendizaje rápido y capacidad para resolver problemas, siempre esforzándome por superar las expectativas. <br/>  
-La comunicación efectiva y el trabajo en equipo son clave en mi forma de trabajar.  
+Me apasiona la programación y el hardware, especialmente el ensamblaje y mantenimiento de PCs.  
+Me caracterizo por mi proactividad, aprendizaje rápido y capacidad para resolver problemas, siempre buscando superar expectativas.  
+Valoro la comunicación efectiva y el trabajo en equipo, fundamentales en mi forma de trabajar.  
 
-🏷️ HTML5 | 🎨 CSS3 | 💻 JavaScript | ⚛️ React | 🐍 Python | 🌐 Flask | 🖥️ Node.JS | 🗃️ SQL | 🔑 JWT | 🕓 GIT  
+🏷️ HTML5 | 🎨 CSS3 | 💻 JavaScript | ⚛️ React | 🐍 Python | 🌐 Flask | 🖥️ Node.js | 🗃️ SQL | 🔑 JWT | 🕓 Git  
 
-**Perfil de Linkedin:** [linkedin.com/in/joansimonutti](https://www.linkedin.com/in/joansimonutti/) <br/>  
-**Email de contacto:** [joansimonutticode@gmail.com](mailto:joansimonutticode@gmail.com) 
+**Perfil de LinkedIn:** [linkedin.com/in/joansimonutti](https://www.linkedin.com/in/joansimonutti/)  
+**Email de contacto:** [joansimonutticode@gmail.com](mailto:joansimonutticode@gmail.com)  
