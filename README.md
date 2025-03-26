@@ -1,5 +1,6 @@
-# Hola, mi nombre es **Joan Simonutti**.
-### Soy Desarrollador de Software Full Stack Junior. 
+# Hola, mi nombre es **Joan Simonutti** 
+
+### Soy Desarrollador de Software Full Stack Junior 
 
 Me apasiona la programación y busco aplicar mis habilidades en un entorno colaborativo, donde pueda seguir aprendiendo.
 Me destaco por mi proactividad, aprendizaje rápido y capacidad para resolver problemas, siempre esforzándome por superar las expectativas. 
