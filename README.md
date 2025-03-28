@@ -1,4 +1,4 @@
-### Hola, mi nombre es Joan Simonutti y soy Desarrollador Full Stack. adsa
+### Hola, mi nombre es Joan Simonutti y soy Desarrollador Full Stack.
 
 Me apasiona la programación y el hardware.  <br/>  
 Me caracterizo por mi proactividad, aprendizaje rápido y capacidad para resolver problemas, siempre buscando superar las expectativas. <br/>   
