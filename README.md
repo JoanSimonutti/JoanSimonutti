@@ -7,8 +7,8 @@ Cuento con una **comunicación efectiva** y un fuerte compromiso con el **trabaj
 **Tecnologías que utilizo:** <br/>  
 💻 JavaScript | ⚛️ React | 🖥️ Node.js | 🐍 Python | 🌐 Flask | 🗃️ SQL | 🔑 JWT | 🕓 GIT <br/>  
 
-**Mi perfil de LinkedIn:** [linkedin.com/in/joansimonutti](https://www.linkedin.com/in/joansimonutti/)  <br/>  
-**Email de contacto:** [joansimonutticode@gmail.com](mailto:joansimonutticode@gmail.com)  <br/>  
+**Email de contacto:** [joansimonutticode@gmail.com](mailto:joansimonutticode@gmail.com)  <br/>
+**Mi perfil de LinkedIn:** [linkedin.com/in/joansimonutti](https://www.linkedin.com/in/joansimonutti/)  <br/>    
 
 Estoy abierto a nuevas oportunidades y colaboraciones. **¡No dudes en escribirme!** <br/>  
 Saludos!
