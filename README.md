@@ -4,7 +4,7 @@ Me destaco por un **enfoque proactivo, aprendizaje rápido y habilidades para la
 
 Cuento con una **comunicación efectiva** y un fuerte compromiso con el **trabajo en equipo**, siempre orientado a la **mejora continua**. <br/>   **Apasionado** por la programación, busco entornos colaborativos que me desafíen y me permitan seguir **creciendo profesionalmente**. <br/>  
 
-**Tecnologías que utilizo:**
+**Tecnologías:**
 💻 JavaScript | ⚛️ React | 🖥️ Node.js | 🐍 Python | 🌐 Flask | 🗃️ SQL | 🔑 JWT | 🕓 GIT <br/>  
 
 **Email:** [joansimonutticode@gmail.com](mailto:joansimonutticode@gmail.com)  <br/>
