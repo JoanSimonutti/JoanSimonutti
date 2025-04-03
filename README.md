@@ -12,3 +12,4 @@ Me destaco por un **enfoque proactivo, aprendizaje rápido y habilidades para la
 
 Estoy abierto a nuevas oportunidades y colaboraciones. **¡No dudes en escribirme!** <br/>  
 Saludos!
+dsad
