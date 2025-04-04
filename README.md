@@ -6,9 +6,9 @@ Me destaco por un **enfoque proactivo, aprendizaje rápido y habilidades para la
 **Tecnologías:**
 💻 JavaScript | ⚛️ React | 🖥️ Node.js | 🐍 Python | 🌐 Flask | 🗃️ SQL | 🔑 JWT | 🕓 GIT <br/>  
 
-**Email:** [joansimonutticode@gmail.com](mailto:joansimonutticode@gmail.com)  <br/>
+**LinkedIn:** [linkedin.com/in/joansimonutti](https://www.linkedin.com/in/joansimonutti/)  <br/>
 
-**LinkedIn:** [linkedin.com/in/joansimonutti](https://www.linkedin.com/in/joansimonutti/)  <br/>    
+**Email:** [joansimonutticode@gmail.com](mailto:joansimonutticode@gmail.com)  <br/>    
 
 Estoy abierto a nuevas oportunidades y colaboraciones. **¡No dudes en escribirme!** <br/>  
 Saludos!
