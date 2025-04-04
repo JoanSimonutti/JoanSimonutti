@@ -9,6 +9,5 @@ Me destaco por un **enfoque proactivo, aprendizaje rápido y habilidades para la
 **LinkedIn:** [linkedin.com/in/joansimonutti](https://www.linkedin.com/in/joansimonutti/)  <br/>
 
 **Email:** [joansimonutticode@gmail.com](mailto:joansimonutticode@gmail.com)  <br/>    
-
-Estoy abierto a nuevas oportunidades y colaboraciones. **¡No dudes en escribirme!** <br/>  
+**¡No dudes en escribirme!** <br/>  
 Saludos!
