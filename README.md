@@ -10,4 +10,3 @@ Me destaco por un **enfoque proactivo, aprendizaje rápido y habilidades para la
 **Apasionado** por la programación, busco entornos colaborativos que me desafíen y me permitan seguir **creciendo profesionalmente**. <br/> 
 **¡No dudes en escribirme!** <br/>  
 Saludos!
-as
