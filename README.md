@@ -8,5 +8,6 @@ Me destaco por un **enfoque proactivo, aprendizaje rápido y habilidades para la
 **Email:** [joansimonutticode@gmail.com](mailto:joansimonutticode@gmail.com)  <br/>
 
 **Apasionado** por la programación, busco entornos colaborativos que me desafíen y me permitan seguir **creciendo profesionalmente**. <br/> <br/> 
+
 **¡No dudes en escribirme!** <br/>  
 Saludos!
