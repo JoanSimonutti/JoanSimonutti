@@ -12,3 +12,4 @@ Me destaco por un **enfoque proactivo, aprendizaje rápido y habilidades para la
 **Email:** [joansimonutticode@gmail.com](mailto:joansimonutticode@gmail.com)  <br/>
 
 **¡No dudes en escribirme!** <br/>
+asdsasdas
