@@ -1,4 +1,4 @@
-# 👋 ¡Hola, soy Joan Simonutti!
+## 👋 ¡Hola, soy Joan Simonutti!
 
 **Desarrollador de Software Junior** con experiencia en gestión comercial y liderazgo de equipos. <br/>
 
