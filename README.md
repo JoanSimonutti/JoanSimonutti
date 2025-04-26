@@ -16,15 +16,15 @@ Me destaco por un **enfoque proactivo, aprendizaje rápido y habilidades para la
 
 # 👋 ¡Hola, soy Joan Simonutti!
 
-**Desarrollador de Software Junior** con experiencia en gestión comercial, atención al cliente y liderazgo de equipos.
+**Desarrollador de Software Junior** con experiencia en gestión comercial, atención al cliente y liderazgo de equipos. <br/>
+Apasionado por la programación, busco **entornos colaborativos** que me desafíen y me permitan seguir **creciendo profesionalmente**. <br/>
 
-## 🚀 Tecnologías que utilizo
-💻 JavaScript | ⚛️ React | 🖥️ Node.js | 🐍 Python | 🌐 Flask | 🗃️ SQL | 🔑 JWT | 🕓 GIT 
+**Tecnologías:**
+💻 JavaScript | ⚛️ React | 🖥️ Node.js | 🐍 Python | 🌐 Flask | 🗃️ SQL | 🔑 JWT | 🕓 GIT <br/>  
 
 
 📫 **Conectemos**:
 - [LinkedIn](https://www.linkedin.com/in/joansimonutti/)
 - [Email](mailto:joansimonutticode@gmail.com)
   
-Apasionado por la programación, busco **entornos colaborativos** que me desafíen y me permitan seguir **creciendo profesionalmente**.
  **¡No dudes en escribirme!**
