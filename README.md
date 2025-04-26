@@ -7,8 +7,8 @@ Busco aportar mis ideas, contribuir al éxito de los proyectos y seguir creciend
 **Tecnologías que utilizo:**<br/>
 💻 JavaScript | ⚛️ React | 🖥️ Node.js | 🐍 Python | 🌐 Flask | 🗃️ SQL | 🔑 JWT | 🕓 GIT <br/>  
 
-📫 **Conectemos:**
-[LinkedIn](https://www.linkedin.com/in/joansimonutti/)
-[Email](mailto:joansimonutticode@gmail.com)
+📫 **Conectemos:** <br/>
+🔗 [LinkedIn](https://www.linkedin.com/in/joansimonutti/) <br/>
+✉️ [Email](mailto:joansimonutticode@gmail.com) <br/>
   
  **¡No dudes en escribirme!**
