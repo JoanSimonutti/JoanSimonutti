@@ -9,7 +9,7 @@ Me apasiona construir soluciones eficientes, trabajar en equipo y aprender nueva
 
 HTML5, CSS3, JavaScript, TypeScript, React, Bootstrap, Flask, Python, SQL, Jest, Git, Linux.
 
---
+
 
 ### Conectemos
 
