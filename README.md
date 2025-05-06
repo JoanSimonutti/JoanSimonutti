@@ -14,6 +14,5 @@ HTML5, CSS3, JavaScript, TypeScript, React, Bootstrap, Flask, Python, SQL, Jest,
 ### 🤝 Conectemos
 
 - [LinkedIn](https://www.linkedin.com/in/joansimonutti/)
-- [joansimonutticode@gmail.com](mailto:joansimonutticode@gmail.com)
 
 **Estoy abierto a nuevas oportunidades y proyectos ¡No dudes en escribirme!**
