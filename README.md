@@ -1,12 +1,9 @@
-# ¡Hola! Soy **Joan Simonutti**
-
-## **Desarrollador Full Stack** especializado en **JavaScript** y **Python**.
-
+### ¡Hola! Soy **Joan Simonutti**
+**Desarrollador Full Stack** especializado en **JavaScript** y **Python**.
 Apasionado por la programación, busco entornos colaborativos que me desafíen y me permitan seguir creciendo profesionalmente. Disfruto enfrentándome a nuevos retos y optimizando soluciones tecnológicas.
 
 ### **Tecnologías que domino:**
 HTML/CSS - JavaScript - TypeScript - React - Bootstrap - Flask - Python - SQL - Jest - Git - Linux
 
 ### **Conéctemos:** [Mi LinkedIn](https://www.linkedin.com/in/joansimonutti/)
-
 ¡No dudes en escribirme!
