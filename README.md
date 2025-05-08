@@ -1,18 +1,16 @@
 ### ¡Hola! Soy Joan Simonutti
 
-**Desarrollador de Software Junior** con experiencia en gestión comercial y liderazgo de equipos.  
-Me apasiona construir soluciones eficientes, trabajar en equipo y aprender nuevas tecnologías.  
+**Desarrollador Full Stack** especializado en **JavaScript** y **Python**.
 
+Soy un apasionado por la programación, busco entornos colaborativos que me desafíen y me permitan seguir creciendo profesionalmente.
 
 
 ### Tecnologías y herramientas:
 
-HTML5, CSS3, JavaScript, TypeScript, React, Bootstrap, Flask, Python, SQL, Jest, Git, Linux.
-
-
+HTML5, CSS3, JavaScript, TypeScript, React, Bootstrap, Flask, Python, SQL, Jest, Git, Linux, Bla, Bla, Bla.
 
 ### Conectemos
 
 [LinkedIn](https://www.linkedin.com/in/joansimonutti/)
 
-**Estoy abierto a nuevas oportunidades y proyectos ¡No dudes en escribirme!**
+**¡No dudes en escribirme!**
