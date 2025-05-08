@@ -8,4 +8,4 @@ HTML, CSS, JavaScript, TypeScript, React, Bootstrap, Flask, Python, SQL, Jest, G
 
 Este es [mi LinkedIn](https://www.linkedin.com/in/joansimonutti/) **¡No dudes en escribirme!**
 
-### Saludos!!!
+Saludos!!!
