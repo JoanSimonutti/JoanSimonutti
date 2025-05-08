@@ -6,6 +6,6 @@ Soy un apasionado por la programación, busco entornos colaborativos que me desa
 
 HTML, CSS, JavaScript, TypeScript, React, Bootstrap, Flask, Python, SQL, Jest, Git, Linux, Bla, Bla, Bla.
 
-Este es [mi LinkedIn](https://www.linkedin.com/in/joansimonutti/) **¡No dudes en escribirme!**
+**Este es [mi LinkedIn](https://www.linkedin.com/in/joansimonutti/) ¡No dudes en escribirme!**
 
-Saludos!!!
+Saludos!
