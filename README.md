@@ -1,4 +1,4 @@
-### ¡Hola! Soy Joan Simonutti
+### ¡Hola! Soy Joan Simonutti saasasasaassasa
 
 **Desarrollador de Software Junior** con experiencia en gestión comercial y liderazgo de equipos.  
 Me apasiona construir soluciones eficientes, trabajar en equipo y aprender nuevas tecnologías.  
