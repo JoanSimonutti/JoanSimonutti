@@ -26,5 +26,3 @@ Jest · Git · GitHub
 📎 [LinkedIn](https://www.linkedin.com/in/joansimonutti/)  
 
 📬 joansimonutticode@gmail.com
-
-https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDRuMDB3a3IyMzUydnlzejgwNWk2d3kxaHRnZHpxenIzODhxbXk3ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/s2qXK8wAvkHTO/giphy.gif
