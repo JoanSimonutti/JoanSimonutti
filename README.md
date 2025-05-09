@@ -27,4 +27,4 @@ Jest · Git · GitHub
 📬 joansimonutticode@gmail.com
 
 
-![Trabajando duro](https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif)
+![Trabajando duro](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDN1Y2VkendzYzFtYmxjcXNrdWdlZWRyaG80dmt2bjczNzNpN28xNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif)
