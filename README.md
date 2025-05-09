@@ -12,16 +12,17 @@ Actualmente estoy explorando más sobre backend avanzado, optimización de rendi
 
 ### Tecnologías con las que trabajo:
 
-JavaScript · React · TypeScript · Node.js · HTML · CSS · Bootstrap
+JavaScript · TypeScript · React · Node.js · HTML · CSS · Bootstrap
 
 Python · Flask · Django · APIs REST
 
-SQL · MySQL · SQLAlchemy · SQLite
+SQL · SQLAlchemy · MySQL · SQLite
 
-Git · GitHub · Jest
+Jest · Git · GitHub
 
 ### ¿Charlamos?
 
 📎 [LinkedIn](https://www.linkedin.com/in/joansimonutti/)  
+
 📬 joansimonutticode@gmail.com
 
