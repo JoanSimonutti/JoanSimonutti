@@ -22,9 +22,6 @@ SQL · SQLAlchemy · MySQL · SQLite
 Jest · Git · GitHub
 
 ### ¿Charlamos?
-
 📎 [LinkedIn](https://www.linkedin.com/in/joansimonutti/)  
 
 📬 joansimonutticode@gmail.com
-
-![Hasta pronto!]([URL_del_GIF](https://tenor.com/es/view/ngoding-mulu-gif-1747207714643625346))
