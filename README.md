@@ -6,6 +6,7 @@
 # 👋 ¡Hey! Soy Joan Simonutti
 
 **Desarrollador Full Stack** con especial foco en **JavaScript** y **Python**.  
+
 Me apasiona construir cosas útiles, aprender tecnologías nuevas y compartir el camino con otros desarrolladores.
 
 Actualmente estoy explorando más sobre backend avanzado, optimización de rendimiento y todo lo que me lleve a ser mejor cada día.
