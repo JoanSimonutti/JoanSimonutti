@@ -34,16 +34,16 @@ Actualmente estoy explorando más sobre backend avanzado, optimización de rendi
 ## 🛠️ Tecnologías con las que trabajo
 
 **Frontend:**  
-React · TypeScript · JavaScript · HTML5 · CSS3 · Tailwind · Bootstrap
+JavaScript · React · TypeScript · Node.js · HTML · CSS · Bootstrap
 
 **Backend:**  
-Python · Flask · Django · Node.js · Express · APIs REST
+Python · Flask · Django · APIs REST
 
 **Bases de datos:**  
 SQL · MySQL · SQLAlchemy · SQLite
 
 **Testing y otros:**  
-Jest · Git · GitHub · SCRUM · Linux
+Jest · Git · GitHub · SCRUM
 
 ---
 
