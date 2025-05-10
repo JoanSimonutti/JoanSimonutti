@@ -3,7 +3,7 @@
 <!-- Decoración opcional tipo ASCII -->
 <!-- Podés agregar emojis, arte ASCII o dejarlo minimalista -->
 
-## 👋 Hola! Mi nombre es Joan. Soy **Desarrollador Full Stack** con especial foco en **JavaScript** y **Python**.  
+## 👋 Hola! Mi nombre es Joan.<br/>Soy **Desarrollador Full Stack** con especial foco en **JavaScript** y **Python**.  
 
 Me apasiona la informatica, aprender tecnologías nuevas y comer pizzas con otros desarrolladores.
 
