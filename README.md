@@ -11,7 +11,7 @@ Soy **Desarrollador Full Stack** con especial foco en **JavaScript** y **Python*
 
 Me apasiona la informática y comer pizzas con otros desarrolladores 🍕👨‍💻<br/>
 
-### JavaScript · TypeScript · React · Node.js · HTML · CSS · Bootstrap · Python · Flask · Django · APIs REST · SQL · SQLAlchemy · MySQL · SQLite · Jest · Git · GitHub
+JavaScript · TypeScript · React · Node.js · HTML · CSS · Bootstrap · Python · Flask · Django · APIs REST · SQL · SQLAlchemy · MySQL · SQLite · Jest · Git · GitHub
 
 ### Estoy abierto a nuevas colaboraciones, proyectos desafiantes y oportunidades para seguir aprendiendo ¿Charlamos? joansimonutticode@gmail.com
 
