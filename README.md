@@ -4,7 +4,7 @@
 <!-- Podés agregar emojis, arte ASCII o dejarlo minimalista -->
 <img src="https://camo.githubusercontent.com/525201e24fcf0d7d87f167b8f972bf33242f0588d8bb426b7df5e2911bcc609a/68747470733a2f2f7777772e616e696d61746564696d616765732e6f72672f646174612f6d656469612f3536322f616e696d617465642d6c696e652d696d6167652d303138342e676966" alt="Barra" width="100%" />
 
-<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" alt="github" width="40"/> <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" alt="pacman" width="75%"/> <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" alt="JS" width="40"/> <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" alt="python" width="40"/> 
+<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" alt="github" width="50"/> <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" alt="pacman" width="60%"/> <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" alt="JS" width="50"/> <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" alt="python" width="50"/> 
  
  
 ### ¡Hey! Soy Joan, Desarrollador Full Stack con foco en JavaScript y Python. <br/><br/>Apasionado por la informática, el código limpio y las cheesseburgers!
@@ -12,9 +12,10 @@
  <img src="https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif" alt="skills" width="15"/> **Skills:** JavaScript · TypeScript · React · Node.js · HTML · CSS · Bootstrap <br/>Python · Flask · Django · APIs REST · SQL · SQLAlchemy · MySQL · SQLite · Jest · Git · GitHub
 
 <img src="https://user-images.githubusercontent.com/74038190/216112957-034e1f8b-5468-4857-8512-9cd2bac35bb6.png" alt="python" width="15"/> **Busco nuevas colaboraciones, proyectos desafiantes y oportunidades para seguir aprendiendo <br/>¿Charlamos? joansimonutticode@gmail.com**
-<img src="https://camo.githubusercontent.com/525201e24fcf0d7d87f167b8f972bf33242f0588d8bb426b7df5e2911bcc609a/68747470733a2f2f7777772e616e696d61746564696d616765732e6f72672f646174612f6d656469612f3536322f616e696d617465642d6c696e652d696d6167652d303138342e676966" alt="Barra" width="100%" />
 
 ![MarioDev](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
+
+<img src="https://camo.githubusercontent.com/525201e24fcf0d7d87f167b8f972bf33242f0588d8bb426b7df5e2911bcc609a/68747470733a2f2f7777772e616e696d61746564696d616765732e6f72672f646174612f6d656469612f3536322f616e696d617465642d6c696e652d696d6167652d303138342e676966" alt="Barra" width="100%" />
 <!--![Trabajando duro]()-->
 <!--![Trabajando duro]()-->
 <!--!![Trabajando duro](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExem9mZm9rYzNnaGNjcDQxeG1weWc4MHhmcGwweWZhNTY1NzA4bW5oaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UPNV6BECISuMo/giphy.gif)-->
