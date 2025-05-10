@@ -7,9 +7,9 @@
  
 ### 👋 Hola! Mi nombre es Joan          
 
-### Soy **Desarrollador Full Stack** con especial foco en **JavaScript** y **Python**
+Soy **Desarrollador Full Stack** con especial foco en **JavaScript** y **Python**
 
-### Me apasiona la informática y comer pizzas con otros desarrolladores 🍕👨‍💻<br/>
+Me apasiona la informática y comer pizzas con otros desarrolladores 🍕👨‍💻<br/>
 
 ### JavaScript · TypeScript · React · Node.js · HTML · CSS · Bootstrap · Python · Flask · Django · APIs REST · SQL · SQLAlchemy · MySQL · SQLite · Jest · Git · GitHub
 
