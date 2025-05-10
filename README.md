@@ -9,9 +9,9 @@
  
 ### ¡Hey! Soy Joan, Desarrollador Full Stack con foco en JavaScript y Python <br/>apasionado por la informática, el código limpio y las cheesseburgers!
 
- <img src="https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif" alt="skills" width="15"/> **Skills: JavaScript · TypeScript · React · Node.js · HTML · CSS · Bootstrap <br/>Python · Flask · Django · APIs REST · Postman <br/>SQL · SQLAlchemy · MySQL · SQLite · Jest · Git · GitHub**
+**Skills: JavaScript · TypeScript · React · Node.js · HTML · CSS · Bootstrap <br/>Python · Flask · Django · APIs REST · Postman · SQL · SQLAlchemy · MySQL · SQLite · Jest · Git · GitHub**
 
-<img src="https://user-images.githubusercontent.com/74038190/216112957-034e1f8b-5468-4857-8512-9cd2bac35bb6.png" alt="python" width="15"/> **Busco nuevas colaboraciones, proyectos desafiantes y oportunidades para seguir aprendiendo <br/>¿Charlamos? joansimonutticode@gmail.com**
+**Busco nuevas colaboraciones, proyectos desafiantes y oportunidades para seguir aprendiendo <br/>¿Charlamos? joansimonutticode@gmail.com**
 
 ![MarioDev](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
 
