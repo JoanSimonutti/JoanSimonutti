@@ -5,15 +5,13 @@
 
 **![Pacman](https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif)**
  
-### 👋 Hola! Mi nombre es Joan          
+### 🎮 ¡Hey! Soy Joan, Desarrollador Full Stack con foco en JavaScript y Python.       
 
-Soy **Desarrollador Full Stack** con especial foco en **JavaScript** y **Python**
+Apasionado por la informática, el código limpio y las noches de estrategia con pizza en mano.<br/>
 
-Me apasiona la informática y comer pizzas con otros desarrolladores 🍕👨‍💻<br/>
+🧰 JavaScript · TypeScript · React · Node.js · HTML · CSS · Bootstrap · Python · Flask · Django · APIs REST · SQL · SQLAlchemy · MySQL · SQLite · Jest · Git · GitHub
 
-JavaScript · TypeScript · React · Node.js · HTML · CSS · Bootstrap · Python · Flask · Django · APIs REST · SQL · SQLAlchemy · MySQL · SQLite · Jest · Git · GitHub
-
-### Estoy abierto a nuevas colaboraciones, proyectos desafiantes y oportunidades para seguir aprendiendo ¿Charlamos? joansimonutticode@gmail.com
+### Busco nuevas colaboraciones, proyectos desafiantes y oportunidades para seguir aprendiendo ¿Charlamos? joansimonutticode@gmail.com
 
 ![MarioDev](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
 <!--![Trabajando duro]()-->
