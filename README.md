@@ -13,7 +13,7 @@
 
 **Busco nuevas colaboraciones, proyectos desafiantes y oportunidades para seguir aprendiendo <br/>¿Charlamos? joansimonutticode@gmail.com**
 
-**Algunos de mis proyectos:**
+**Algunos de mis proyectos:**(click derecho y abrir enlace en una nueva pestaña)
 - [Pizzagram](https://pizzagram-mauve.vercel.app/) HTML y CSS puro, sin utilizar JavaScript ni frameworks.
 
 
