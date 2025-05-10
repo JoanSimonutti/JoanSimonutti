@@ -13,7 +13,7 @@
 
 **Busco nuevas colaboraciones, proyectos desafiantes y oportunidades para seguir aprendiendo <br/>¿Charlamos? joansimonutticode@gmail.com**
 
-**Algunos de mis proyectos:**(click derecho y abrir enlace en una nueva pestaña)
+**Algunos de mis proyectos:** (click derecho y abrir enlace en una nueva pestaña)
 - [Pizzagram](https://pizzagram-mauve.vercel.app/) HTML y CSS puro, sin utilizar JavaScript ni frameworks.
 
 
@@ -21,8 +21,8 @@
 
 
 ![MarioDev](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
-/>-->
-<img src="https://camo.githubusercontent.com/525201e24fcf0d7d87f167b8f972bf33242f0588d8bb426b7df5e2911bcc609a/68747470733a2f2f7777772e616e696d61746564696d616765732e6f72672f646174612f6d656469612f3536322f616e696d617465642d6c696e652d696d6167652d303138342e676966" alt="Barra" width="100%" />
+
+<img src="https://camo.githubusercontent.com/525201e24fcf0d7d87f167b8f972bf33242f0588d8bb426b7df5e2911bcc609a/68747470733a2f2f7777772e616e696d61746564696d616765732e6f72672f646174612f6d656469612f3536322f616e696d617465642d6c696e652d696d6167652d303138342e676966" alt="Barra" width="100%" />/>-->
 <!--![Trabajando duro]()-->
 <!--![Trabajando duro]()-->
 <!--!![Trabajando duro](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExem9mZm9rYzNnaGNjcDQxeG1weWc4MHhmcGwweWZhNTY1NzA4bW5oaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UPNV6BECISuMo/giphy.gif)-->
