@@ -11,7 +11,7 @@
 
 ### ¿Charlamos? joansimonutticode@gmail.com
 
-[Trabajando duro](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHRtcmsydjA4YW01Z2gxa3E2aHB5Znl4bjRmcWpmNzZ6Nm9kOTVtaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jBOOXxSJfG8kqMxT11/giphy.gif)
+![Trabajando duro](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
 <!--![Trabajando duro]()-->
 <!--![Trabajando duro]()-->
 <!--!![Trabajando duro](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExem9mZm9rYzNnaGNjcDQxeG1weWc4MHhmcGwweWZhNTY1NzA4bW5oaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UPNV6BECISuMo/giphy.gif)-->
