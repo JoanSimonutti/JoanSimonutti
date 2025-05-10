@@ -9,7 +9,7 @@
  
 ### ¡Hey! Soy Joan, Desarrollador Full Stack con foco en JavaScript y Python <br/>apasionado por la informática, el código limpio y las cheesseburgers!
 
-**Skills: JavaScript · TypeScript · React · Node.js · HTML · CSS · Bootstrap <br/>Python · Flask · Django · APIs REST · Postman · SQL · SQLAlchemy · MySQL · SQLite · Jest · Git · GitHub**
+**JavaScript · TypeScript · React · Node.js · HTML · CSS · Bootstrap · Python · Flask · Django <br/>APIs REST · Postman · SQL · SQLAlchemy · MySQL · SQLite · Jest · Git · GitHub**
 
 **Busco nuevas colaboraciones, proyectos desafiantes y oportunidades para seguir aprendiendo <br/>¿Charlamos? joansimonutticode@gmail.com**
 
