@@ -10,7 +10,7 @@
 
 Apasionado por la informática, el código limpio y las cheesseburgers.
 
-JavaScript · TypeScript · React · Node.js · HTML · CSS · Bootstrap · Python · Flask · Django · APIs REST · SQL · SQLAlchemy · MySQL · SQLite · Jest · Git · GitHub
+JavaScript · TypeScript · React · Node.js · HTML · CSS · Bootstrap <br/>Python · Flask · Django · APIs REST · SQL · SQLAlchemy · MySQL · SQLite · Jest · Git · GitHub
 
 **Busco nuevas colaboraciones, proyectos desafiantes y oportunidades para seguir aprendiendo <br/>¿Charlamos? joansimonutticode@gmail.com**
 
