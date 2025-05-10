@@ -7,7 +7,7 @@
 
 ### Me apasiona la informatica y comer pizzas con otros desarrolladores.<br/>
 
-### Tecnologías con las que trabajo: JavaScript · TypeScript · React · Node.js · HTML · CSS · Bootstrap · Python · Flask · Django · APIs REST · SQL · SQLAlchemy · MySQL · SQLite · Jest · Git · GitHub
+### JavaScript · TypeScript · React · Node.js · HTML · CSS · Bootstrap · Python · Flask · Django · APIs REST · SQL · SQLAlchemy · MySQL · SQLite · Jest · Git · GitHub
 
 ### ¿Charlamos? joansimonutticode@gmail.com
 
