@@ -11,10 +11,10 @@
 
 **JavaScript · TypeScript · React · Node.js · HTML · CSS · Bootstrap · Python · Flask · Django <br/>APIs REST · Postman · SQL · SQLAlchemy · MySQL · SQLite · Jest · Git · GitHub**
 
-**Busco nuevas colaboraciones, proyectos desafiantes y oportunidades para seguir aprendiendo <br/>¿Charlamos? joansimonutticode@gmail.com**
-
 **Algunos de mis proyectos:** (click derecho y abrir enlace en una nueva pestaña)
 - [Pizzagram](https://pizzagram-mauve.vercel.app/) HTML y CSS puro, sin utilizar JavaScript ni frameworks.
+
+**Busco nuevas colaboraciones, proyectos desafiantes y oportunidades para seguir aprendiendo <br/>¿Charlamos? joansimonutticode@gmail.com**
 
 
 <!--<img src="https://camo.githubusercontent.com/525201e24fcf0d7d87f167b8f972bf33242f0588d8bb426b7df5e2911bcc609a/68747470733a2f2f7777772e616e696d61746564696d616765732e6f72672f646174612f6d656469612f3536322f616e696d617465642d6c696e652d696d6167652d303138342e676966" alt="Barra" width="100%" 
