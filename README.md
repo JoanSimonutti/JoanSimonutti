@@ -9,7 +9,7 @@
  
 ### ¡Hey! Soy Joan, Desarrollador Full Stack con foco en JavaScript y Python <br/>apasionado por la informática, el código limpio y las cheesseburgers!
 
-**JavaScript · TypeScript · React · Node.js · HTML · CSS · Bootstrap · Python · Flask · Django <br/>APIs REST · Postman · SQL · SQLAlchemy · MySQL · SQLite · Jest · Git · GitHub**
+**JavaScript · TypeScript · React · Node.js · HTML · CSS · Bootstrap · Python · Flask · Django <br/> SQL · SQLAlchemy · APIs REST · Postman · Jest · Git · GitHub**
 
 **Algunos de mis proyectos:** (click derecho y abrir enlace en una nueva pestaña)
 - [Foodie](https://page-01-navy.vercel.app/) Web responsiva (adaptable a moviles) utilizando React.
