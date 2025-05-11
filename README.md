@@ -11,7 +11,7 @@
 
 **JavaScript · TypeScript · React · Node.js · HTML · CSS · Bootstrap · Python · Flask · Django <br/> SQL · SQLAlchemy · APIs REST · Postman · Jest · Git · GitHub**
 
-## **Algunos de mis proyectos:** (click derecho y abrir enlace en una nueva pestaña)
+### **Algunos de mis proyectos:** (click derecho y abrir enlace en una nueva pestaña)
 - [Foodie](https://page-01-navy.vercel.app/) Web responsiva (adaptable a moviles) utilizando React.
 - [Pizzagram](https://pizzagram-mauve.vercel.app/) HTML y CSS puro, sin utilizar JavaScript ni frameworks.
 
