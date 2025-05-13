@@ -15,7 +15,7 @@
 - [Foodie](https://page-01-navy.vercel.app/) Web responsiva (adaptable a moviles) utilizando React.
 - [Pizzagram](https://pizzagram-mauve.vercel.app/) HTML y CSS puro, sin utilizar JavaScript ni frameworks.
 
-
+adawdwadwad
 
 **Busco nuevas colaboraciones, proyectos desafiantes y oportunidades para seguir aprendiendo <br/>¿Charlamos? joansimonutticode@gmail.com**
 
