@@ -9,7 +9,7 @@
  
 ## ¡Hey! Soy Joan, Desarrollador Full Stack con foco en JavaScript y Python
 
-**Stack tech: JavaScript · TypeScript · React · Node.js · HTML · CSS · Bootstrap <br/>Python · Flask · Django · SQL · SQLAlchemy · APIs REST · Postman · Jest · Git · GitHub**
+**JavaScript · TypeScript · React · Node.js · HTML · CSS · Bootstrap <br/>Python · Flask · Django · SQL · SQLAlchemy · APIs REST · Postman · Jest · Git · GitHub**
 
 ### **Algunos de mis proyectos:**
 - [Star Wars Blog](https://star-wars-blog-navy.vercel.app/) Blog de Star Wars usando React y SW-API.
