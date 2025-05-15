@@ -11,8 +11,7 @@
 
 **JavaScript · TypeScript · React · Node.js · HTML · CSS · Bootstrap <br/>Python · Flask · Django · SQL · SQLAlchemy · APIs REST · Postman · Jest · Git · GitHub**
 
-### **Algunos de mis proyectos:**
-(click derecho y abrir enlace en una nueva pestaña)
+**Algunos de mis proyectos:** <br/>click derecho y abrir enlace en una nueva pestaña
 - [Star Wars Blog](https://star-wars-blog-navy.vercel.app/) Blog de Star Wars usando React y SW-API.
 - [Agenda de Contactos](https://agenda-de-contactos-seven.vercel.app/) Agenda de Contactos utilizando React.
 - [Foodie](https://page-01-navy.vercel.app/) Web responsiva (adaptable a moviles) utilizando React.
