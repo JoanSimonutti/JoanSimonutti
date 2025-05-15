@@ -15,7 +15,7 @@
 - [Star Wars Blog](https://star-wars-blog-navy.vercel.app/) Blog de Star Wars usando React y SW-API.
 - [Agenda de Contactos](https://agenda-de-contactos-seven.vercel.app/) Agenda de Contactos utilizando React.
 - [Foodie](https://page-01-navy.vercel.app/) Web responsiva (adaptable a moviles) utilizando React.
-- [Pizzagram](https://pizzagram-mauve.vercel.app/) HTML y CSS puro, sin utilizar JavaScript ni frameworks.
+<!--- [Pizzagram](https://pizzagram-mauve.vercel.app/) HTML y CSS puro, sin utilizar JavaScript ni frameworks.-->
 
 **Busco nuevas colaboraciones, proyectos desafiantes y oportunidades para seguir aprendiendo <br/>¿Charlamos? joansimonutticode@gmail.com**
 
