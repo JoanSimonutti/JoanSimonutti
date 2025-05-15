@@ -7,11 +7,12 @@
 <!--<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" alt="github" width="42"/> <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" alt="pacman" width="58%"/> <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" alt="JS" width="42"/> <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" alt="python" width="42"/> -->
  
  
-## ¡Hey! Soy Joan, Desarrollador Full Stack con foco en JavaScript y Python <br/>apasionado por la informática, el código limpio y las milanesas con papafritas!
+## ¡Hey! Soy Joan, Desarrollador Full Stack con foco en JavaScript y Python
 
 **JavaScript · TypeScript · React · Node.js · HTML · CSS · Bootstrap <br/>Python · Flask · Django · SQL · SQLAlchemy · APIs REST · Postman · Jest · Git · GitHub**
 
 ### **Algunos de mis proyectos:** (click derecho y abrir enlace en una nueva pestaña)
+- [Star Wars Blog](https://star-wars-blog-navy.vercel.app/) Blog de Star Wars usando React y SW-API.
 - [Agenda de Contactos](https://agenda-de-contactos-seven.vercel.app/) Agenda de Contactos utilizando React.
 - [Foodie](https://page-01-navy.vercel.app/) Web responsiva (adaptable a moviles) utilizando React.
 - [Pizzagram](https://pizzagram-mauve.vercel.app/) HTML y CSS puro, sin utilizar JavaScript ni frameworks.
