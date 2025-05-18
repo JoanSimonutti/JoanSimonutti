@@ -8,7 +8,7 @@
  
  
 ## ¡Hey! Soy Joan, Desarrollador Full Stack enfocado en JavaScript y Python.<br/>Me encanta convertir ideas en productos reales que sumen valor.
-
+asdsadadsadsad
 
 **JavaScript · TypeScript · React · Node.js · HTML · CSS · Bootstrap <br/>Python · Flask · Django · SQL · SQLAlchemy · APIs REST · Postman · Jest · Git · GitHub**
 
