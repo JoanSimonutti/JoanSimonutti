@@ -13,9 +13,9 @@
   <!-- <a href="https://pizzagram-mauve.vercel.app/">🍕 Pizzagram</a> — HTML y CSS puro, sin utilizar JavaScript ni frameworks. -->
 ### <div align="center">¡Hey! Soy Joan<br/>Desarrollador Full Stack enfocado en JavaScript y Python</div>
 ---
-### <div align="center">Algunos de mis proyectos:</div>
+### <div align="start">Algunos de mis proyectos:</div>
 
-<div align="center">
+<div align="start">
 
 ### <a href="https://page-01-navy.vercel.app/"> - Foodie</a> — Página web responsiva utilizando React.<br/>
 ### <a href="https://star-wars-blog-navy.vercel.app/"> - Star Wars Blog</a> — Blog de Star Wars usando React y la API de Star Wars (SWAPI).<br/>
