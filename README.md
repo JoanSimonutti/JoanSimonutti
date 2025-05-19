@@ -11,8 +11,8 @@
     Python · Flask · Django · SQL · SQLAlchemy · APIs REST · Postman · Jest · Git · GitHub
   </strong> -->
   <!-- <a href="https://pizzagram-mauve.vercel.app/">🍕 Pizzagram</a> — HTML y CSS puro, sin utilizar JavaScript ni frameworks. -->
-### <div align="start">¡Hey! Soy Joan<br/> <br/>Desarrollador Full Stack enfocado en JavaScript y Python</div>
-
+### <div align="start">¡Hey! Soy Joan<br/>Desarrollador Full Stack enfocado en JavaScript y Python</div>
+---
 ### <div align="start">Algunos de mis proyectos:</div>
 
 <div align="start">
