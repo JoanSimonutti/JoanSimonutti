@@ -28,8 +28,8 @@
 ### ¿Charlamos? 👉 <strong>joansimonutticode@gmail.com</strong><br/><br/>Conecta conmigo 👉 <a href="https://www.linkedin.com/in/joansimonutti/" target="_blank">LinkedIn</a>
 </div>
 
-<div align="center">
-Si estás trabajando en algo emocionante o simplemente querés intercambiar ideas, ¡no dudes en escribirme!<br/>
+<div align="start">
+PD: Si estás trabajando en algo emocionante o simplemente querés intercambiar ideas, ¡no dudes en escribirme!<br/>
 </div>
 
 
