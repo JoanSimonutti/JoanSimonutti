@@ -27,7 +27,7 @@
 
 <div align="start">
 
-### Si estás trabajando en algo emocionante y necesitás ayuda o simplemente querés intercambiar ideas, ¡escribime!<br/>
+### Si estás trabajando en algo emocionante y necesitás ayuda<br/>o simplemente querés intercambiar ideas, ¡escribime!<br/>
 ### ¿Charlamos? 👉 <strong>joansimonutticode@gmail.com</strong><br/><br/>Conecta conmigo 👉 <a href="https://www.linkedin.com/in/joansimonutti/" target="_blank">LinkedIn</a>
 
 </div>
