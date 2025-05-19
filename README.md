@@ -27,8 +27,7 @@
 
 <div align="center">
 
- ### Estoy interesado en colaboraciones, proyectos desafiantes<br/>y oportunidades para seguir aprendiendo.<br/><br/>
-
+ ### Estoy interesado en colaboraciones, proyectos desafiantes<br/>y oportunidades para seguir aprendiendo.<br/>
 ### ¿Charlamos? 👉 <strong>joansimonutticode@gmail.com</strong><br/><br/>Conecta conmigo 👉 <a href="https://www.linkedin.com/in/joansimonutti/" target="_blank">LinkedIn</a>
 </div>
 
