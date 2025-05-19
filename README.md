@@ -15,7 +15,7 @@
 ---
 ### <div align="start">Algunos de mis proyectos:</div>
 
-<div align="start">
+<div align="center">
 
 ### <a href="https://page-01-navy.vercel.app/"> - Foodie</a> — Landing page responsiva utilizando React.<br/>
 ### <a href="https://star-wars-blog-navy.vercel.app/"> - Star Wars Blog</a> — Blog de Star Wars usando React y SW-API.<br/>
@@ -23,7 +23,7 @@
 
 </div>
 ---
-<div align="start">
+<div align="center">
 
  ### Si estás trabajando en algo emocionante y necesitas ayuda <br/>o simplemente quieres intercambiar ideas, ¡no dudes en escribirme!<br/>
 ### ¿Charlamos? 👉 <strong>joansimonutticode@gmail.com</strong><br/><br/>Conecta conmigo 👉 <a href="https://www.linkedin.com/in/joansimonutti/" target="_blank">LinkedIn</a>
