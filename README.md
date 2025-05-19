@@ -17,8 +17,8 @@
 
 <div align="center">
 
-### <a href="https://page-01-navy.vercel.app/"> - Foodie</a> — Landing page responsiva utilizando React.<br/>
-### <a href="https://star-wars-blog-navy.vercel.app/"> - Star Wars Blog</a> — Blog de Star Wars usando React y SW-API.<br/>
+### <a href="https://page-01-navy.vercel.app/"> - Foodie</a> — Página web responsiva utilizando React.<br/>
+### <a href="https://star-wars-blog-navy.vercel.app/"> - Star Wars Blog</a> — Blog de Star Wars usando React y la API de Star Wars (SWAPI).<br/>
 ### <a href="https://agenda-de-contactos-seven.vercel.app/"> - Agenda de Contactos</a> — Agenda de Contactos utilizando React.
 
 </div>
@@ -31,6 +31,41 @@
 ### ¿Charlamos? 👉 <strong>joansimonutticode@gmail.com</strong><br/><br/>Conecta conmigo 👉 <a href="https://www.linkedin.com/in/joansimonutti/" target="_blank">LinkedIn</a>
 </div>
 
+## <div align="center">¡Hey! Soy Joan<br/>Desarrollador Full Stack enfocado en JavaScript y Python</div>
+
+---
+
+<div align="center">
+  <strong>
+    JavaScript · TypeScript · React · Node.js · HTML · CSS · Bootstrap <br/>
+    Python · Flask · Django · SQL · SQLAlchemy · REST APIs · Postman · Jest · Git · GitHub
+  </strong>
+</div>
+
+---
+
+### <div align="center">Algunos de mis proyectos:</div>
+
+<div align="center">
+
+<a href="https://page-01-navy.vercel.app/">🥗 Foodie</a> — Landing page responsiva construida con React.<br/>
+<a href="https://star-wars-blog-navy.vercel.app/">🌌 Star Wars Blog</a> — Blog temático usando React y la API de Star Wars (SWAPI).<br/>
+<a href="https://agenda-de-contactos-seven.vercel.app/">📒 Agenda de Contactos</a> — Aplicación CRUD de contactos desarrollada en React.
+
+</div>
+
+---
+
+<div align="center">
+
+📬 Si estás trabajando en algo emocionante y necesitás ayuda,<br/>
+o simplemente querés intercambiar ideas, ¡escribime!<br/><br/>
+
+<strong>joansimonutticode@gmail.com</strong><br/><br/>
+
+🔗 Conectá conmigo en <a href="https://www.linkedin.com/in/joansimonutti/" target="_blank">LinkedIn</a>
+
+</div>
 
 <!--<img src="https://camo.githubusercontent.com/525201e24fcf0d7d87f167b8f972bf33242f0588d8bb426b7df5e2911bcc609a/68747470733a2f2f7777772e616e696d61746564696d616765732e6f72672f646174612f6d656469612f3536322f616e696d617465642d6c696e652d696d6167652d303138342e676966" alt="Barra" width="100%" 
 
