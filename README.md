@@ -11,7 +11,7 @@
     Python · Flask · Django · SQL · SQLAlchemy · APIs REST · Postman · Jest · Git · GitHub
   </strong> -->
   <!-- <a href="https://pizzagram-mauve.vercel.app/">🍕 Pizzagram</a> — HTML y CSS puro, sin utilizar JavaScript ni frameworks. -->
-## <div align="center">¡Hey, Soy Joan!<br/>Desarrollador Full Stack enfocado en JavaScript y Python</div>
+## <div align="start">¡Hey, Soy Joan!<br/>Desarrollador Full Stack enfocado en JavaScript y Python</div>
 
 ### <div align="center">Algunos de mis proyectos:</div>
 
@@ -22,7 +22,7 @@
 ### <a href="https://agenda-de-contactos-seven.vercel.app/">Agenda de Contactos</a> — Agenda de Contactos utilizando React.
 
 </div>
-<div align="center">
+<div align="start">
 
  ### Estoy interesado en colaboraciones, proyectos desafiantes<br/>y oportunidades para seguir aprendiendo.<br/>
 ### ¿Charlamos? 👉 <strong>joansimonutticode@gmail.com</strong><br/><br/>Conecta conmigo 👉 <a href="https://www.linkedin.com/in/joansimonutti/" target="_blank">LinkedIn</a>
