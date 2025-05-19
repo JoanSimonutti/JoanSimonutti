@@ -26,7 +26,8 @@
 
 <p align="center">
  <h3> Estoy interesado en colaboraciones, proyectos desafiantes y oportunidades para seguir aprendiendo.<br/>
-  ¿Charlamos? 👉 <strong>joansimonutticode@gmail.com</strong> </h3>
+  ¿Charlamos? 👉 <strong>joansimonutticode@gmail.com</strong> <br/>
+  Conecta conmigo 👉 <a href="https://www.linkedin.com/in/joansimonutti/" target="_blank">LinkedIn</a> </h3>
 </p>
 
 
