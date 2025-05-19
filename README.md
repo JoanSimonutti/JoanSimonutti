@@ -17,21 +17,19 @@
 
 <div align="center">
 
-<a href="https://page-01-navy.vercel.app/">Foodie</a> — Landing page responsiva utilizando React.<br/>
-<a href="https://star-wars-blog-navy.vercel.app/">Star Wars Blog</a> — Blog de Star Wars usando React y SW-API.<br/>
-<a href="https://agenda-de-contactos-seven.vercel.app/">Agenda de Contactos</a> — Agenda de Contactos utilizando React.
+### <a href="https://page-01-navy.vercel.app/">Foodie</a> — Landing page responsiva utilizando React.<br/>
+### <a href="https://star-wars-blog-navy.vercel.app/">Star Wars Blog</a> — Blog de Star Wars usando React y SW-API.<br/>
+### <a href="https://agenda-de-contactos-seven.vercel.app/">Agenda de Contactos</a> — Agenda de Contactos utilizando React.
 
 </div>
 
 ---
 
 <div align="center">
-  Estoy interesado en colaboraciones, proyectos desafiantes<br/>
-  y oportunidades para seguir aprendiendo.<br/><br/>
 
-  ¿Charlamos? 👉 <strong>joansimonutticode@gmail.com</strong><br/><br/>
+ ### Estoy interesado en colaboraciones, proyectos desafiantes<br/>y oportunidades para seguir aprendiendo.<br/><br/>
 
-  Conecta conmigo 👉 <a href="https://www.linkedin.com/in/joansimonutti/" target="_blank">LinkedIn</a>
+### ¿Charlamos? 👉 <strong>joansimonutticode@gmail.com</strong><br/><br/>Conecta conmigo 👉 <a href="https://www.linkedin.com/in/joansimonutti/" target="_blank">LinkedIn</a>
 </div>
 
 
