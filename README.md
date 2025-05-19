@@ -13,18 +13,22 @@
     JavaScript · TypeScript · React · Node.js · HTML · CSS · Bootstrap <br/>
     Python · Flask · Django · SQL · SQLAlchemy · APIs REST · Postman · Jest · Git · GitHub
   </strong>
+</p>
 
+<p align="center">
   <h3>Algunos de mis proyectos:</h3>
 
-  - <a href="https://page-01-navy.vercel.app/">Foodie</a> — Web responsiva (adaptable a móviles) utilizando React.<br/>
-  - <a href="https://star-wars-blog-navy.vercel.app/">Star Wars Blog</a> — Blog de Star Wars usando React y SW-API.<br/>
-  - <a href="https://agenda-de-contactos-seven.vercel.app/">Agenda de Contactos</a> — Agenda de Contactos utilizando React.
-  <!--- <a href="https://pizzagram-mauve.vercel.app/">Pizzagram</a> — HTML y CSS puro, sin utilizar JavaScript ni frameworks. -->
-
-  <br/><br/>
-  Estoy interesado en colaboraciones, proyectos desafiantes y oportunidades para seguir aprendiendo.<br/>
-  ¿Charlamos? <strong>joansimonutticode@gmail.com</strong>
+  <a href="https://page-01-navy.vercel.app/">🥗 Foodie</a> — Web responsiva (adaptable a móviles) utilizando React.<br/>
+  <a href="https://star-wars-blog-navy.vercel.app/">🌌 Star Wars Blog</a> — Blog de Star Wars usando React y SW-API.<br/>
+  <a href="https://agenda-de-contactos-seven.vercel.app/">📒 Agenda de Contactos</a> — Agenda de Contactos utilizando React.
+  <!-- <a href="https://pizzagram-mauve.vercel.app/">🍕 Pizzagram</a> — HTML y CSS puro, sin utilizar JavaScript ni frameworks. -->
 </p>
+
+<p align="center">
+  Estoy interesado en colaboraciones, proyectos desafiantes y oportunidades para seguir aprendiendo.<br/>
+  ¿Charlamos? 👉 <strong>joansimonutticode@gmail.com</strong>
+</p>
+
 
 
 <!--<img src="https://camo.githubusercontent.com/525201e24fcf0d7d87f167b8f972bf33242f0588d8bb426b7df5e2911bcc609a/68747470733a2f2f7777772e616e696d61746564696d616765732e6f72672f646174612f6d656469612f3536322f616e696d617465642d6c696e652d696d6167652d303138342e676966" alt="Barra" width="100%" 
