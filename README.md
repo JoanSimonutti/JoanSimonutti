@@ -22,9 +22,6 @@
 ### <a href="https://agenda-de-contactos-seven.vercel.app/">Agenda de Contactos</a> — Agenda de Contactos utilizando React.
 
 </div>
-
----
-
 <div align="center">
 
  ### Estoy interesado en colaboraciones, proyectos desafiantes<br/>y oportunidades para seguir aprendiendo.<br/>
