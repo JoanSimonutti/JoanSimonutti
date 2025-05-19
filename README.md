@@ -11,24 +11,30 @@
     Python · Flask · Django · SQL · SQLAlchemy · APIs REST · Postman · Jest · Git · GitHub
   </strong> -->
   <!-- <a href="https://pizzagram-mauve.vercel.app/">🍕 Pizzagram</a> — HTML y CSS puro, sin utilizar JavaScript ni frameworks. -->
-<p align="center">
-  <h2>¡Hey! Soy Joan, Desarrollador Full Stack enfocado en JavaScript y Python</h2>
-</p>
+## <div align="center">¡Hey! Soy Joan, Desarrollador Full Stack enfocado en JavaScript y Python</div>
 
-<p align="center">
-  <h3>Algunos de mis proyectos:
-  <a href="https://page-01-navy.vercel.app/">Foodie</a> — Web responsiva (adaptable a móviles) utilizando React.<br/>
-  <a href="https://star-wars-blog-navy.vercel.app/">Star Wars Blog</a> — Blog de Star Wars usando React y SW-API.<br/>
-  <a href="https://agenda-de-contactos-seven.vercel.app/">Agenda de Contactos</a> — Agenda de Contactos utilizando React.</h3>
-</p>
+---
 
-<p align="center">
- <h3> Estoy interesado en colaboraciones, proyectos desafiantes<br/>y oportunidades para seguir aprendiendo.<br/>
+### <div align="center">Algunos de mis proyectos:</div>
 
-  
-  ¿Charlamos? 👉 joansimonutticode@gmail.com<br/>
-  Conecta conmigo 👉 <a href="https://www.linkedin.com/in/joansimonutti/" target="_blank">LinkedIn</a> </h3>
-</p>
+<div align="center">
+
+<a href="https://page-01-navy.vercel.app/">Foodie</a> — Landing page responsiva utilizando React.<br/>
+<a href="https://star-wars-blog-navy.vercel.app/">Star Wars Blog</a> — Blog de Star Wars usando React y SW-API.<br/>
+<a href="https://agenda-de-contactos-seven.vercel.app/">Agenda de Contactos</a> — Agenda de Contactos utilizando React.
+
+</div>
+
+---
+
+<div align="center">
+  Estoy interesado en colaboraciones, proyectos desafiantes<br/>
+  y oportunidades para seguir aprendiendo.<br/><br/>
+
+  ¿Charlamos? 👉 <strong>joansimonutticode@gmail.com</strong><br/><br/>
+
+  Conecta conmigo 👉 <a href="https://www.linkedin.com/in/joansimonutti/" target="_blank">LinkedIn</a>
+</div>
 
 
 
