@@ -16,11 +16,11 @@
 </p>
 
 <p align="center">
-  <h3>Algunos de mis proyectos:</h3>
+  <h3>Algunos de mis proyectos:
 
   <a href="https://page-01-navy.vercel.app/">Foodie</a> — Web responsiva (adaptable a móviles) utilizando React.<br/>
   <a href="https://star-wars-blog-navy.vercel.app/">Star Wars Blog</a> — Blog de Star Wars usando React y SW-API.<br/>
-  <a href="https://agenda-de-contactos-seven.vercel.app/">Agenda de Contactos</a> — Agenda de Contactos utilizando React.
+  <a href="https://agenda-de-contactos-seven.vercel.app/">Agenda de Contactos</a> — Agenda de Contactos utilizando React.</h3>
   <!-- <a href="https://pizzagram-mauve.vercel.app/">🍕 Pizzagram</a> — HTML y CSS puro, sin utilizar JavaScript ni frameworks. -->
 </p>
 
