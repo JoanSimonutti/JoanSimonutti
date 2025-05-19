@@ -17,9 +17,9 @@
 
 <div align="center">
 
-### <a href="https://page-01-navy.vercel.app/">Foodie</a> — Landing page responsiva utilizando React.<br/>
-### <a href="https://star-wars-blog-navy.vercel.app/">Star Wars Blog</a> — Blog de Star Wars usando React y SW-API.<br/>
-### <a href="https://agenda-de-contactos-seven.vercel.app/">Agenda de Contactos</a> — Agenda de Contactos utilizando React.
+### <a href="https://page-01-navy.vercel.app/"> - Foodie</a> — Landing page responsiva utilizando React.<br/>
+### <a href="https://star-wars-blog-navy.vercel.app/"> - Star Wars Blog</a> — Blog de Star Wars usando React y SW-API.<br/>
+### <a href="https://agenda-de-contactos-seven.vercel.app/"> - Agenda de Contactos</a> — Agenda de Contactos utilizando React.
 
 </div>
 <div align="start">
