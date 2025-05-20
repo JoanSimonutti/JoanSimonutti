@@ -51,7 +51,7 @@
 ✨ *"Crear, aprender y mejorar — un paso más cerca cada día."*-->
 
 
-## 👋 ¡Hola! Soy Joan
+## 👋 Hola, Soy Joan!
 
 ### 📂 Proyectos Destacados
 
