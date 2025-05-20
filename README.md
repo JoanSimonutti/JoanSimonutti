@@ -45,6 +45,7 @@
 - 💼 [LinkedIn](https://www.linkedin.com/in/joansimonutti/)  
 - ✉️ joansimonutticode@gmail.com
 
+🔗🔗🔗
 ---
 
 ✨ *"Crear, aprender y mejorar — un paso más cerca cada día."*-->
@@ -54,9 +55,9 @@
 
 ### 📂 Proyectos Destacados
 
-- 🔗 [**Foodie**](https://page-01-navy.vercel.app/) — Página web responsiva construida con React.  
-- 🔗 [**Star Wars Blog**](https://star-wars-blog-navy.vercel.app/) — Blog basado en la saga Star Wars, utilizando React y la API SWAPI.  
-- 🔗 [**Agenda de Contactos**](https://agenda-de-contactos-seven.vercel.app/) — Aplicación web de gestión de contactos desarrollada en React.
+- [**Foodie**](https://page-01-navy.vercel.app/) — Página web responsiva construida con React.  
+- [**Star Wars Blog**](https://star-wars-blog-navy.vercel.app/) — Blog basado en la saga Star Wars, utilizando React y la API SWAPI.  
+- [**Agenda de Contactos**](https://agenda-de-contactos-seven.vercel.app/) — Aplicación web de gestión de contactos desarrollada en React.
 
 
 ### 📫 ¿Charlamos?
@@ -64,7 +65,7 @@
 Si estás trabajando en algo emocionante o simplemente querés intercambiar ideas, ¡no dudes en escribirme!
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/joansimonutti/)  
-- ✉️ Email: joansimonutticode@gmail.com
+- ✉️ joansimonutticode@gmail.com
 
 ---
 
