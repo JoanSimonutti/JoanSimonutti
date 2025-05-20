@@ -34,15 +34,13 @@
 
 # 👋 Hey, Soy Joan!
 
-### 💻 Desarrollador Full Stack enfocado en JavaScript y Python
 ### 📂 Proyectos Destacados:
 
 ### <a href="https://page-01-navy.vercel.app/"> - Foodie</a> — Página web responsiva utilizando React.<br/>
 ### <a href="https://star-wars-blog-navy.vercel.app/"> - Star Wars Blog</a> — Blog de Star Wars usando React y la API "SWAPI".<br/>
 ### <a href="https://agenda-de-contactos-seven.vercel.app/"> - Agenda de Contactos</a> — Agenda de Contactos utilizando React.
 
-### 📫 Si estás trabajando en algo emocionante y necesitás ayuda<br/>o simplemente querés intercambiar ideas, ¡no dudes en escribirme!
-
+📫 Si estás trabajando en algo emocionante y necesitás ayuda<br/>o simplemente querés intercambiar ideas, ¡no dudes en escribirme!
 - 💼 [LinkedIn](https://www.linkedin.com/in/joansimonutti/)  
 - ✉️ joansimonutticode@gmail.com
 
