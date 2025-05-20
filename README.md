@@ -32,47 +32,25 @@
 
 </div>
 
-# 👋 ¡Hola! Soy Joan Simonutti
+# 👋 Hey, Soy Joan!
 
-## 💻 Desarrollador Full Stack
-Enfocado en JavaScript y Python, transformo ideas en soluciones digitales funcionales, responsivas y centradas en el usuario.
+### 💻 Desarrollador Full Stack enfocado en JavaScript y Python
+### 🎯 Transformo ideas en soluciones funcionales, responsivas y centradas en el usuario
 
----
+### 📂 Proyectos Destacados
 
-## 🛠️ Tecnologías
+### <a href="https://page-01-navy.vercel.app/"> - Foodie</a> — Página web responsiva utilizando React.<br/>
+### <a href="https://star-wars-blog-navy.vercel.app/"> - Star Wars Blog</a> — Blog de Star Wars usando React y la API "SWAPI".<br/>
+### <a href="https://agenda-de-contactos-seven.vercel.app/"> - Agenda de Contactos</a> — Agenda de Contactos utilizando React.
 
-- **Lenguajes:** JavaScript, TypeScript, Python  
-- **Frameworks & Librerías:** React, Node.js, Flask, Django  
-- **Bases de datos & APIs:** SQL, APIs REST, Postman  
-- **Herramientas:** Git & GitHub, Jest, JWT  
-- **Diseño:** UX/UI Design, Figma
-
----
-
-## 🚀 Actualmente profundizando en
-
-- Next.js y otros frameworks modernos  
-- Accesibilidad y diseño centrado en el usuario  
-- Buenas prácticas de rendimiento, escalabilidad y código limpio
-
----
-
-## 📂 Proyectos Destacados
-
-- 🍽️ **Foodie**: Página web responsiva con React  
-- 🌌 **Star Wars Blog**: Blog construido con React y la API SWAPI  
-- 📇 **Agenda de Contactos**: Aplicación web de gestión de contactos con React
-
----
-
-## 📫 ¡Conectemos!
+### 📫 Si estás trabajando en algo emocionante y necesitás ayuda<br/>o simplemente querés intercambiar ideas, ¡no dudes en escribirme!
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/joansimonutti/)  
 - ✉️ joansimonutticode@gmail.com
 
 ---
 
-> *"Crear, aprender y mejorar — un paso más cerca cada día."*
+✨ *"Crear, aprender y mejorar — un paso más cerca cada día."*
 
 
 <!--<img src="https://camo.githubusercontent.com/525201e24fcf0d7d87f167b8f972bf33242f0588d8bb426b7df5e2911bcc609a/68747470733a2f2f7777772e616e696d61746564696d616765732e6f72672f646174612f6d656469612f3536322f616e696d617465642d6c696e652d696d6167652d303138342e676966" alt="Barra" width="100%" 
