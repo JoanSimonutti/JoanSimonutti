@@ -10,7 +10,7 @@
     JavaScript · TypeScript · React · Node.js · HTML · CSS · Bootstrap <br/>
     Python · Flask · Django · SQL · SQLAlchemy · APIs REST · Postman · Jest · Git · GitHub
   </strong> -->
-  <!-- <a href="https://pizzagram-mauve.vercel.app/">🍕 Pizzagram</a> — HTML y CSS puro, sin utilizar JavaScript ni frameworks. -->
+  <!-- <a href="https://pizzagram-mauve.vercel.app/">🍕 Pizzagram</a> — HTML y CSS puro, sin utilizar JavaScript ni frameworks. 
 ### <div align="start">👋 ¡Hey! Soy Joan, Desarrollador Full Stack enfocado en JavaScript y Python</div>
 ---
 ### <div align="start">Algunos de mis proyectos:</div>
@@ -30,14 +30,12 @@
 ### Si estás trabajando en algo emocionante y necesitás ayuda<br/>o simplemente querés intercambiar ideas, ¡no dudes en escribirme!<br/>
 ### Charlamos? 👉 <strong>joansimonutticode@gmail.com</strong><br/><br/>Conecta conmigo 👉 <a href="https://www.linkedin.com/in/joansimonutti/" target="_blank">LinkedIn</a>
 
-</div>
+</div>-->
 
 # 👋 Hey, Soy Joan!
 
 ### 💻 Desarrollador Full Stack enfocado en JavaScript y Python
-### 🎯 Transformo ideas en soluciones funcionales, responsivas y centradas en el usuario
-
-### 📂 Proyectos Destacados
+### 📂 Proyectos Destacados:
 
 ### <a href="https://page-01-navy.vercel.app/"> - Foodie</a> — Página web responsiva utilizando React.<br/>
 ### <a href="https://star-wars-blog-navy.vercel.app/"> - Star Wars Blog</a> — Blog de Star Wars usando React y la API "SWAPI".<br/>
