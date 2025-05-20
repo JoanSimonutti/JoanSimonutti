@@ -32,7 +32,7 @@
 
 </div>-->
 
-# 👋 Hey, Soy Joan!
+## 👋 Hey, Soy Joan!
 
 ### 📂 Proyectos Destacados:
 
