@@ -53,7 +53,7 @@
 
 ## 👋 Hola, Soy Joan!
 
-### 📂 Proyectos Destacados
+### 📂 Proyectos Destacados:
 
 - [**Foodie**](https://page-01-navy.vercel.app/) — Página web responsiva construida con React.  
 - [**Star Wars Blog**](https://star-wars-blog-navy.vercel.app/) — Blog basado en la saga Star Wars, utilizando React y la API SWAPI.  
