@@ -30,7 +30,7 @@
 ### Si estás trabajando en algo emocionante y necesitás ayuda<br/>o simplemente querés intercambiar ideas, ¡no dudes en escribirme!<br/>
 ### Charlamos? 👉 <strong>joansimonutticode@gmail.com</strong><br/><br/>Conecta conmigo 👉 <a href="https://www.linkedin.com/in/joansimonutti/" target="_blank">LinkedIn</a>
 
-</div>-->
+</div>
 
 ## 👋 Hey, Soy Joan!
 
@@ -47,7 +47,28 @@
 
 ---
 
-✨ *"Crear, aprender y mejorar — un paso más cerca cada día."*
+✨ *"Crear, aprender y mejorar — un paso más cerca cada día."*-->
+
+
+## 👋 ¡Hola! Soy Joan
+
+### 📂 Proyectos Destacados
+
+- 🔗 [**Foodie**](https://page-01-navy.vercel.app/) — Página web responsiva construida con React.  
+- 🔗 [**Star Wars Blog**](https://star-wars-blog-navy.vercel.app/) — Blog basado en la saga Star Wars, utilizando React y la API SWAPI.  
+- 🔗 [**Agenda de Contactos**](https://agenda-de-contactos-seven.vercel.app/) — Aplicación web de gestión de contactos desarrollada en React.
+<br/>
+
+### 📫 ¿Charlamos?
+
+Si estás trabajando en algo emocionante o simplemente querés intercambiar ideas, ¡no dudes en escribirme!
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/joansimonutti/)  
+- ✉️ Email: joansimonutticode@gmail.com
+
+---
+
+> ✨ *"Crear, aprender y mejorar — un paso más cerca cada día."*
 
 
 <!--<img src="https://camo.githubusercontent.com/525201e24fcf0d7d87f167b8f972bf33242f0588d8bb426b7df5e2911bcc609a/68747470733a2f2f7777772e616e696d61746564696d616765732e6f72672f646174612f6d656469612f3536322f616e696d617465642d6c696e652d696d6167652d303138342e676966" alt="Barra" width="100%" 
