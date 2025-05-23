@@ -55,7 +55,7 @@
 ### 📂 Proyectos Destacados:
 
 - [**Foodie**](https://page-01-navy.vercel.app/) — Página web responsiva construida con React.  
-- [**Star Wars Blog**](https://star-wars-blog-navy.vercel.app/) — Blog basado en la saga Star Wars, utilizando React y la API SWAPI.  
+- [**Star Wars Blog**](https://star-wars-blog-git-master-joans-projects-77a5f24f.vercel.app/) — Blog basado en la saga Star Wars, utilizando React y la API SWAPI.  
 - [**Agenda de Contactos**](https://agenda-de-contactos-seven.vercel.app/) — Agenda digital desarrollada con JavaScript y React.
 
 
