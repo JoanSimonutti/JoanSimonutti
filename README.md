@@ -1,6 +1,5 @@
 <!-- 🌌 Joan Simonutti's GitHub README 
-
-awdadadadadawdwaddwadwadwadadwad awdwadwad   wdadwd   -->
+-->
 
 <!-- Decoración opcional tipo ASCII -->
 <!-- Podés agregar emojis, arte ASCII o dejarlo minimalista -->
