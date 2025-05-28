@@ -1,6 +1,6 @@
 <!-- 🌌 Joan Simonutti's GitHub README 
 
-sadsadsadsadsadsad
+
 -->
 
 <!-- Decoración opcional tipo ASCII -->
