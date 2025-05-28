@@ -1,4 +1,6 @@
-<!-- 🌌 Joan Simonutti's GitHub README -->
+<!-- 🌌 Joan Simonutti's GitHub README 
+
+awdadadadadawdwaddwadwadwadadwad awdwadwad   wdadwd   -->
 
 <!-- Decoración opcional tipo ASCII -->
 <!-- Podés agregar emojis, arte ASCII o dejarlo minimalista -->
@@ -22,7 +24,7 @@
 ### <a href="https://agenda-de-contactos-seven.vercel.app/"> - Agenda de Contactos</a> — Agenda de Contactos utilizando React.
 
 </div>
-wadwadadawdwaddawdwaddwad
+
 ---
 
 <div align="start">
