@@ -1,5 +1,4 @@
 <!-- 🌌 Joan Simonutti's GitHub README 
-dadadw
 
 -->
 
