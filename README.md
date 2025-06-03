@@ -1,5 +1,5 @@
 <!-- 🌌 Joan Simonutti's GitHub README 
-adadad
+
 -->
 
 <!-- Decoración opcional tipo ASCII -->
