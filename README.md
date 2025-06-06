@@ -1,5 +1,4 @@
 <!-- 🌌 Joan Simonutti's GitHub README 
-5515151515515115
 -->
 
 <!-- Decoración opcional tipo ASCII -->
