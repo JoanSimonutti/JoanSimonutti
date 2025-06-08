@@ -55,10 +55,10 @@
 
 ### Proyectos Destacados:
 
+- [**Buscabombas**](https://buscabombas.vercel.app/) — Juego diseñado con HTML, CSS y JavaScript.
 - [**Foodie**](https://page-01-navy.vercel.app/) — Página web responsiva construida con React.
 - [**Star Wars Blog**](https://star-wars-blog-navy.vercel.app/) — Blog basado en la saga Star Wars, utilizando React y la API SWAPI.  
 - [**Agenda de Contactos**](https://agenda-de-contactos-seven.vercel.app/) — Agenda digital desarrollada con JavaScript y React.
-- [**Buscabombas**](https://buscaminas-java-script.vercel.app/) — Juego diseñado con HTML, CSS y JavaScript.
 
 
 ### ¿Charlamos?
