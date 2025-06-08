@@ -51,19 +51,19 @@
 
 ✨ *"Crear, aprender y mejorar — un paso más cerca cada día."*-->
 
-## 👋 Hola, Soy Joan!
+## 👋 ¡Hola! Soy Joan Simonutti
 
 ### Proyectos Destacados:
 
-- [**Buscabombas**](https://buscabombas.vercel.app/) — Juego diseñado con HTML, CSS y JavaScript.
-- [**Foodie**](https://page-01-navy.vercel.app/) — Página web responsiva construida con React.
-- [**Star Wars Blog**](https://star-wars-blog-navy.vercel.app/) — Blog basado en la saga Star Wars, utilizando React y SWAPI.  
+- [**Buscabombas**](https://buscabombas.vercel.app/) — Versión web del clásico Buscaminas, desarrollada con HTML, CSS y JavaScript.
+- [**Foodie**](https://page-01-navy.vercel.app/) — Sitio responsivo para amantes de la comida, construido con React.
+- [**Star Wars Blog**](https://star-wars-blog-navy.vercel.app/) — Blog temático sobre Star Wars, integrando la API pública SWAPI y React.  
 - [**Agenda de Contactos**](https://agenda-de-contactos-seven.vercel.app/) — Agenda digital desarrollada con React.
 
 
-### ¿Charlamos?
+### ¿Conectamos?
 
-Si estás trabajando en algo emocionante o simplemente querés intercambiar ideas, ¡no dudes en escribirme!
+Estoy abierto a nuevas oportunidades, colaboraciones o simplemente charlar sobre tecnología. ¡No dudes en escribirme!
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/joansimonutti/)  
 - ✉️ joansimonutticode@gmail.com
