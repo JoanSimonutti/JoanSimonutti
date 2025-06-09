@@ -14,10 +14,14 @@ Follow me on [my twitter](https://twitter.com/izmaelmag) and [Instagram](https:/
 [🐦 Dev Seagulls](https://www.instagram.com/dev_seagulls/) – Founded IT community in Makhachkala<br>
 
 👨‍💻 A lot of random web design and frontend freelance since 2013<br>
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/joansimonutti/)  
+- ✉️ joansimonutticode@gmail.com
 -->
 
 # 👾 Hola! Soy Joan Simonutti
-Desarrollador Full Stack con dominio en JavaScript y Python.
+Desarrollador Full Stack apasionado por el código, con experiencia en JavaScript y Python.
+
 ### Proyectos
 - [**Foodie**](https://page-01-navy.vercel.app/) – Sitio responsivo para amantes de la comida, construido con React.
 - [**Star Wars Blog**](https://star-wars-blog-navy.vercel.app/) – Blog temático sobre Star Wars, integrando la API pública SWAPI y React.  
@@ -26,8 +30,6 @@ Desarrollador Full Stack con dominio en JavaScript y Python.
 
 Estoy abierto a nuevas oportunidades, colaboraciones o simplemente charlar sobre tecnología.<br>
 ¡No dudes en escribirme!
-- 💼 [LinkedIn](https://www.linkedin.com/in/joansimonutti/)  
-- ✉️ joansimonutticode@gmail.com
 
 ---
 
