@@ -17,6 +17,7 @@ Follow me on [my twitter](https://twitter.com/izmaelmag) and [Instagram](https:/
 -->
 
 # 👾 Hola! Soy Joan Simonutti
+Desarrollador Full Stack con dominio en JavaScript y Python.
 ### Proyectos
 - [**Foodie**](https://page-01-navy.vercel.app/) – Sitio responsivo para amantes de la comida, construido con React.
 - [**Star Wars Blog**](https://star-wars-blog-navy.vercel.app/) – Blog temático sobre Star Wars, integrando la API pública SWAPI y React.  
