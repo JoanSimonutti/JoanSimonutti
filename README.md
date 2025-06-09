@@ -31,8 +31,8 @@ Desarrollador Full Stack apasionado por el código, con experiencia en JavaScrip
 
 <br>
 
-Estoy abierto a nuevas oportunidades, colaboraciones o simplemente charlar sobre tecnología.<br>
-**No dudes en escribirme!** [LinkedIn](https://www.linkedin.com/in/joansimonutti/)  |  joansimonutticode@gmail.com
+Siempre estoy dispuesto a conversar, compartir ideas o explorar nuevos proyectos.<br>
+**No dudes en contactarme** [LinkedIn](https://www.linkedin.com/in/joansimonutti/)  |  joansimonutticode@gmail.com
 
 ---
 
