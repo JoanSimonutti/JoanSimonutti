@@ -29,9 +29,9 @@ Desarrollador Full Stack apasionado por el código, con experiencia en JavaScrip
 - [**Agenda de Contactos**](https://agenda-de-contactos-seven.vercel.app/) – Agenda digital diseñada con React.
 - [**Buscabombas**](https://buscabombas.vercel.app/) – Juego de lógica interactivo desarrollado con HTML, CSS y JavaScript.
 
-<br><br>
+<br>
 Estoy abierto a nuevas oportunidades, colaboraciones o simplemente charlar sobre tecnología.<br>
-¡No dudes en escribirme!
+¡No dudes en escribirme! [LinkedIn](https://www.linkedin.com/in/joansimonutti/) | joansimonutticode@gmail.com
 
 ---
 
