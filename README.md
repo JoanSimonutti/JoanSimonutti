@@ -8,10 +8,10 @@ asdsadsadsaddsadsadsdsad
 
 ### Proyectos Destacados:
 
-- [**Buscabombas**](https://buscabombas.vercel.app/) — Juego de lógica interactivo desarrollado con HTML, CSS y JavaScript.
 - [**Foodie**](https://page-01-navy.vercel.app/) — Sitio responsivo para amantes de la comida, construido con React.
 - [**Star Wars Blog**](https://star-wars-blog-navy.vercel.app/) — Blog temático sobre Star Wars, integrando la API pública SWAPI y React.  
 - [**Agenda de Contactos**](https://agenda-de-contactos-seven.vercel.app/) — Agenda digital diseñada con React.
+- [**Buscabombas**](https://buscabombas.vercel.app/) — Juego de lógica interactivo desarrollado con HTML, CSS y JavaScript.
 
 
 ### ¿Conectamos?
