@@ -16,15 +16,15 @@ Follow me on [my twitter](https://twitter.com/izmaelmag) and [Instagram](https:/
 👨‍💻 A lot of random web design and frontend freelance since 2013<br>
 -->
 
-## 👾 Hola! Soy Joan Simonutti  🌌
-
+## 👾 Hola! Soy Joan Simonutti
 ### Proyectos
 - [**Foodie**](https://page-01-navy.vercel.app/) – Sitio responsivo para amantes de la comida, construido con React.
 - [**Star Wars Blog**](https://star-wars-blog-navy.vercel.app/) – Blog temático sobre Star Wars, integrando la API pública SWAPI y React.  
 - [**Agenda de Contactos**](https://agenda-de-contactos-seven.vercel.app/) – Agenda digital diseñada con React.
 - [**Buscabombas**](https://buscabombas.vercel.app/) – Juego de lógica interactivo desarrollado con HTML, CSS y JavaScript.
 
-### Estoy abierto a nuevas oportunidades, colaboraciones o simplemente charlar sobre tecnología. ¡No dudes en escribirme!
+Estoy abierto a nuevas oportunidades, colaboraciones o simplemente charlar sobre tecnología.<br>
+¡No dudes en escribirme!
 - 💼 [LinkedIn](https://www.linkedin.com/in/joansimonutti/)  
 - ✉️ joansimonutticode@gmail.com
 
