@@ -2,6 +2,31 @@
 asdsadsadsaddsadsadsdsad
 -->
 
+
+
+## 👋 ¡Hola! Soy Joan Simonutti
+
+### Proyectos Destacados:
+
+- [**Buscabombas**](https://buscabombas.vercel.app/) — Juego de lógica interactivo desarrollado con HTML, CSS y JavaScript.
+- [**Foodie**](https://page-01-navy.vercel.app/) — Sitio responsivo para amantes de la comida, construido con React.
+- [**Star Wars Blog**](https://star-wars-blog-navy.vercel.app/) — Blog temático sobre Star Wars, integrando la API pública SWAPI y React.  
+- [**Agenda de Contactos**](https://agenda-de-contactos-seven.vercel.app/) — Agenda digital diseñada con React.
+
+
+### ¿Conectamos?
+
+Estoy abierto a nuevas oportunidades, colaboraciones o simplemente charlar sobre tecnología. ¡No dudes en escribirme!
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/joansimonutti/)  
+- ✉️ joansimonutticode@gmail.com
+
+---
+
+✨ *"Impulsado por la pasión de crear, aprender y superarme continuamente."*
+
+
+
 <!-- Decoración opcional tipo ASCII -->
 <!-- Podés agregar emojis, arte ASCII o dejarlo minimalista -->
 <!--<img src="https://camo.githubusercontent.com/525201e24fcf0d7d87f167b8f972bf33242f0588d8bb426b7df5e2911bcc609a/68747470733a2f2f7777772e616e696d61746564696d616765732e6f72672f646174612f6d656469612f3536322f616e696d617465642d6c696e652d696d6167652d303138342e676966" alt="Barra" width="100%" /> -->
@@ -52,26 +77,6 @@ asdsadsadsaddsadsadsdsad
 
 ✨ *"Crear, aprender y mejorar — un paso más cerca cada día."*-->
 
-## 👋 ¡Hola! Soy Joan Simonutti
-
-### Proyectos Destacados:
-
-- [**Buscabombas**](https://buscabombas.vercel.app/) — Juego de lógica interactivo desarrollado con HTML, CSS y JavaScript.
-- [**Foodie**](https://page-01-navy.vercel.app/) — Sitio responsivo para amantes de la comida, construido con React.
-- [**Star Wars Blog**](https://star-wars-blog-navy.vercel.app/) — Blog temático sobre Star Wars, integrando la API pública SWAPI y React.  
-- [**Agenda de Contactos**](https://agenda-de-contactos-seven.vercel.app/) — Agenda digital diseñada con React.
-
-
-### ¿Conectamos?
-
-Estoy abierto a nuevas oportunidades, colaboraciones o simplemente charlar sobre tecnología. ¡No dudes en escribirme!
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/joansimonutti/)  
-- ✉️ joansimonutticode@gmail.com
-
----
-
-✨ *"Impulsado por la pasión de crear, aprender y superarme continuamente."*
 <!--<img src="https://camo.githubusercontent.com/525201e24fcf0d7d87f167b8f972bf33242f0588d8bb426b7df5e2911bcc609a/68747470733a2f2f7777772e616e696d61746564696d616765732e6f72672f646174612f6d656469612f3536322f616e696d617465642d6c696e652d696d6167652d303138342e676966" alt="Barra" width="100%" 
 
 📂
