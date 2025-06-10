@@ -28,7 +28,7 @@ Desarrollador Full Stack apasionado por el código, con experiencia en JavaScrip
 - [**Foodie**](https://page-01-navy.vercel.app/) – Sitio responsivo para amantes de la comida, construido con React.
 - [**Star Wars Blog**](https://star-wars-blog-navy.vercel.app/) – Blog temático sobre Star Wars, integrando la API pública SWAPI y React.  
 - [**Agenda de Contactos**](https://agenda-de-contactos-seven.vercel.app/) – Agenda digital diseñada con React.
-- [**Tetris**](https://tetris-javascript-flame.vercel.app/) – Versión del juego Tetris, creado con JavaScript y la librería P5.
+- [**TETRIS**](https://tetris-javascript-flame.vercel.app/) – Versión del juego Tetris, creado con JavaScript y la librería P5.
 
 <br>
 
