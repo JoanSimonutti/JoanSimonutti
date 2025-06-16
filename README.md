@@ -25,10 +25,10 @@ Follow me on [my twitter](https://twitter.com/izmaelmag) and [Instagram](https:/
 Desarrollador Full Stack apasionado por el código, con experiencia en JavaScript & Python.
 
 ### Proyectos
-- [**Foodie**](https://page-01-navy.vercel.app/) – Sitio responsivo construido con React.
+- [**Foodie**](https://page-01-navy.vercel.app/) – Sitio web responsivo construido con React.
 - [**Star Wars Blog**](https://star-wars-blog-navy.vercel.app/) – Blog temático integrando la API pública SWAPI y React.  
 - [**Agenda de Contactos**](https://agenda-de-contactos-seven.vercel.app/) – Agenda digital diseñada con React.
-- [**TETRIS**](https://tetris-javascript-flame.vercel.app/) – Versión creada con JavaScript y la biblioteca gráfica P5.
+- [**TETRIS**](https://tetris-javascript-flame.vercel.app/) – Juego creado con JavaScript y la biblioteca gráfica P5.
 
 <br>
 
