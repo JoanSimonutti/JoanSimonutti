@@ -1,5 +1,5 @@
 <!-- 🌌 Joan Simonutti's GitHub README 👋 👾
-sadsadwda
+
 # 👾 Hi! I'm Izmael
 I'm a web developer with passion to procedural graphics and animated stuff<br>Currently working at [Variant Group](https://variant.net/) as a full-stack developer
 
@@ -22,7 +22,7 @@ Follow me on [my twitter](https://twitter.com/izmaelmag) and [Instagram](https:/
 
 # 👾 Hola! Soy Joan Simonutti
 
-Desarrollador Full Stack apasionado por el código, con experiencia en JavaScript & Python.
+Desarrollador web con pasión por los gráficos procedimentales y animados, con experiencia en JavaScript & Python.
 
 ### Proyectos:
 - [**Foodie**](https://page-01-navy.vercel.app/) – Sitio web responsivo construido con React.
