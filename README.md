@@ -31,8 +31,13 @@ Desarrollador Full Stack de Apps Web, con experiencia en JavaScript & Python.
   - Permite crear, almacenar, consultar, filtrar, modificar y eliminar perfiles de prestadores, incluyendo datos de contacto y detalles sobre sus servicios.
 
 
-- [**Foodie**](https://page-01-navy.vercel.app/)<br>Sitio web responsivo desarrollado con React.js, orientado a presentar platos y recetas gastronómicas de manera visual y atractiva.<br>Implementa diseño adaptable y componentes reutilizables para lograr una navegación fluida y una experiencia de usuario consistente en distintos dispositivos.
-- [**Star Wars Blog**](https://star-wars-blog-navy.vercel.app/)<br>Blog temático desarrollado con React.js que consume datos en tiempo real desde la API pública SWAPI para mostrar información sobre personajes, naves y planetas del universo Star Wars.<br>Implementa componentes dinámicos y estilos personalizados para ofrecer una experiencia de lectura visualmente atractiva e interactiva.
+- [**Foodie**](https://page-01-navy.vercel.app/)
+  - Sitio web responsivo desarrollado con React.js, orientado a presentar platos y recetas gastronómicas de manera visual y atractiva.
+  - Implementa diseño adaptable y componentes reutilizables para lograr una navegación fluida y una experiencia de usuario consistente en distintos dispositivos.
+ 
+- [**Star Wars Blog**](https://star-wars-blog-navy.vercel.app/)
+  - Blog temático desarrollado con React.js que consume datos en tiempo real desde la API pública SWAPI para mostrar información sobre personajes, naves y planetas del universo Star Wars.
+  - Implementa componentes dinámicos y estilos personalizados para ofrecer una experiencia de lectura visualmente atractiva e interactiva.
 
  
 - [**Agenda de Contactos**](https://agenda-de-contactos-seven.vercel.app/)<br>Agenda digital diseñada con React.
