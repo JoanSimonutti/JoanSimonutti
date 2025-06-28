@@ -44,19 +44,21 @@ Desarrollador Full Stack de Apps Web, con experiencia en JavaScript & Python.
 - [**TETRIS**](https://tetris-javascript-flame.vercel.app/)
   - Versión web del clásico juego Tetris, programada en JavaScript utilizando la biblioteca gráfica p5.js.
   - Incluye la lógica completa del juego, detección de colisiones, identificación y eliminación de líneas completas, y un sistema de puntuación dinámico.
-
-<br>
-
-Siempre estoy dispuesto a compartir ideas o explorar nuevos proyectos.<br>
-**No dudes en contactarme** [LinkedIn](https://www.linkedin.com/in/joansimonutti/)  |  joansimonutticode@gmail.com
-
+ 
 ---
 
+<div align="end">
+
+Siempre estoy dispuesto a compartir ideas o explorar nuevos proyectos.<br>
+**No dudes en contactarme** [LinkedIn](https://www.linkedin.com/in/joansimonutti/)  |  joansimonutticode@gmail.com | 2025
 ✨ *"Impulsado por la pasión de crear, aprender y superarme continuamente."*
+</div>
 
 
 
 <!-- Decoración opcional tipo ASCII
+
+✨ *"Impulsado por la pasión de crear, aprender y superarme continuamente."*
 
 - [**Agenda de Contactos**](https://agenda-de-contactos-seven.vercel.app/)<br>Agenda digital diseñada con React.
 
