@@ -21,7 +21,7 @@ Follow me on [my twitter](https://twitter.com/izmaelmag) and [Instagram](https:/
 -->
 <div align="center">
   
-# 🖖 Hola! mi nombre es Joan Simonutti
+# Bienvenido! mi nombre es Joan Simonutti
 </div>
   
 **Soy Desarrollador Full Stack con experiencia en JavaScript y Python.** <br>
