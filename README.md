@@ -19,9 +19,9 @@ Follow me on [my twitter](https://twitter.com/izmaelmag) and [Instagram](https:/
 - ✉️ joansimonutticode@gmail.com
 - [**Buscabombas**](https://buscabombas.vercel.app/) – Juego de lógica interactivo desarrollado con HTML, CSS y JavaScript.
 -->
-
-# 👾 Hola! Soy Joan Simonutti
 <div align="center">
+  
+# 👾 Hola! Soy Joan Simonutti
   
 **Desarrollador Full Stack de Aplicaciones Web, con experiencia en JavaScript y Python.**
 </div>
