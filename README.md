@@ -48,7 +48,8 @@ Soy **Desarrollador Full Stack** con experiencia en **JavaScript** y **Python**.
  -->
  # 👋 ¡Bienvenido!
 
-Mi nombre es **Joan Simonutti** y soy **Desarrollador Full Stack** con experiencia en **JavaScript** y **Python**.
+Mi nombre es **Joan Simonutti**.
+Soy **Desarrollador Full Stack** con experiencia en **JavaScript** y **Python**.
 
 ### **Algunos de mis proyectos:**
 
