@@ -21,7 +21,7 @@ Follow me on [my twitter](https://twitter.com/izmaelmag) and [Instagram](https:/
 -->
 <div align="start">
   
-# 👋 ¡Bienvenido! mi nombre es Joan Simonutti.
+# 👋 ¡Bienvenido!
 </div>
   
 Mi nombre es **Joan Simonutti**.  
