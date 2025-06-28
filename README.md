@@ -66,7 +66,7 @@ Soy **Desarrollador Full Stack** con experiencia en **JavaScript** y **Python**.
   Implementa componentes dinámicos y estilos personalizados para ofrecer una experiencia de lectura visualmente atractiva e interactiva.
 
 - **[TETRIS](https://tetris-javascript-flame.vercel.app/)**  
-  Versión web del clásico juego **Tetris**, programada en **JavaScript** utilizando la biblioteca gráfica **p5.js**.  
+  Versión web del clásico juego **Tetris**, programado en **JavaScript** utilizando la biblioteca gráfica **p5.js**.  
   Incluye la lógica completa del juego, detección de colisiones, identificación y eliminación de líneas completas, y un sistema de puntuación dinámico.
 
 ---
