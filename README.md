@@ -25,6 +25,9 @@ Follow me on [my twitter](https://twitter.com/izmaelmag) and [Instagram](https:/
 Desarrollador Full Stack de Apps Web, con experiencia en JavaScript & Python.
 
 ### Proyectos:
+- [**App-Servicios**](https://app-servicios.vercel.app/)<br>Aplicación web full stack diseñada para gestionar un catálogo de prestadores de servicios y registrar interacciones de usuarios. Permite crear, almacenar, consultar, filtrar, modificar y eliminar perfiles de prestadores, incluyendo datos de contacto y detalles sobre sus servicios. Construida con React.js, Node.js y MongoDB, está orientada a brindar una experiencia eficiente tanto para administradores como para usuarios que buscan profesionales específicos.
+
+
 - [**Foodie**](https://page-01-navy.vercel.app/) – Sitio web responsivo construido con React.
 - [**Star Wars Blog**](https://star-wars-blog-navy.vercel.app/) – Blog temático integrando la API pública SWAPI y React.  
 - [**Agenda de Contactos**](https://agenda-de-contactos-seven.vercel.app/) – Agenda digital diseñada con React.
