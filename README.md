@@ -48,8 +48,8 @@ Follow me on [my twitter](https://twitter.com/izmaelmag) and [Instagram](https:/
 
 <div align="end">
 
-Siempre estoy dispuesto a compartir ideas o explorar nuevos proyectos.<br>
-**No dudes en contactarme:** [LinkedIn](https://www.linkedin.com/in/joansimonutti/)  •  joansimonutticode@gmail.com • 2025
+**Siempre estoy dispuesto a compartir ideas o explorar nuevos proyectos.** <br>
+No dudes en contactarme: **[LinkedIn](https://www.linkedin.com/in/joansimonutti/)  •  joansimonutticode@gmail.com •** 2025
 </div>
 
 
