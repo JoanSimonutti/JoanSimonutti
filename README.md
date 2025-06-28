@@ -23,7 +23,7 @@ Follow me on [my twitter](https://twitter.com/izmaelmag) and [Instagram](https:/
 # 👾 Hola! Soy Joan Simonutti
 **Desarrollador Full Stack de Apps Web, con experiencia en JavaScript y Python.**
 
-### **PROYECTOS DESTACADOS:**
+### PROYECTOS DESTACADOS:
 
 - [**App-Servicios**](https://app-servicios.vercel.app/)
   - Aplicación full stack, **mobile-first**, diseñada para gestionar un catálogo de prestadores de servicios y registrar interacciones de usuarios.
@@ -36,7 +36,6 @@ Follow me on [my twitter](https://twitter.com/izmaelmag) and [Instagram](https:/
 - [**Star Wars Blog**](https://star-wars-blog-navy.vercel.app/)
   - Blog temático desarrollado con **React.js** que consume datos en tiempo real desde la API pública **SWAPI** para mostrar información sobre personajes, naves y planetas del universo **Star Wars**.
   - Implementa componentes dinámicos y estilos personalizados para ofrecer una experiencia de lectura visualmente atractiva e interactiva.
-
  
 
 - [**TETRIS**](https://tetris-javascript-flame.vercel.app/)
@@ -46,7 +45,6 @@ Follow me on [my twitter](https://twitter.com/izmaelmag) and [Instagram](https:/
 ---
 
 <div align="end">
-
 **Siempre estoy dispuesto a compartir ideas o explorar nuevos proyectos**.<br>
 No dudes en contactarme: **[LinkedIn](https://www.linkedin.com/in/joansimonutti/)**  •  **joansimonutticode@gmail.com** • 2025
 </div>
