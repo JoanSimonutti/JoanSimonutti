@@ -26,8 +26,6 @@ Follow me on [my twitter](https://twitter.com/izmaelmag) and [Instagram](https:/
 **Desarrollador Full Stack de Aplicaciones Web, con experiencia en JavaScript y Python**
 </div>
 
----
-
 ### PROYECTOS:
 
 - **[App-Servicios](https://app-servicios.vercel.app/)**
