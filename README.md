@@ -26,9 +26,9 @@ Desarrollador Full Stack de Apps Web, con experiencia en JavaScript & Python.
 
 ### Proyectos:
 - [**App-Servicios**](https://app-servicios.vercel.app/)
- - Aplicación web full stack diseñada para gestionar un catálogo de prestadores de servicios y registrar interacciones de usuarios.
- - Construida con React.js, Node.js y MongoDB, está orientada a brindar una experiencia eficiente tanto para administradores como para usuarios que buscan profesionales específicos.
- - Permite crear, almacenar, consultar, filtrar, modificar y eliminar perfiles de prestadores, incluyendo datos de contacto y detalles sobre sus servicios.
+  - Aplicación web full stack diseñada para gestionar un catálogo de prestadores de servicios y registrar interacciones de usuarios.
+  - Construida con React.js, Node.js y MongoDB, está orientada a brindar una experiencia eficiente tanto para administradores como para usuarios que buscan profesionales específicos.
+  - Permite crear, almacenar, consultar, filtrar, modificar y eliminar perfiles de prestadores, incluyendo datos de contacto y detalles sobre sus servicios.
 
 
 - [**Foodie**](https://page-01-navy.vercel.app/)<br>Sitio web responsivo desarrollado con React.js, orientado a presentar platos y recetas gastronómicas de manera visual y atractiva.<br>Implementa diseño adaptable y componentes reutilizables para lograr una navegación fluida y una experiencia de usuario consistente en distintos dispositivos.
