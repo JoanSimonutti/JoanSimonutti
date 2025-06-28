@@ -26,7 +26,7 @@ Follow me on [my twitter](https://twitter.com/izmaelmag) and [Instagram](https:/
   
 ### Soy Desarrollador Full Stack con experiencia en JavaScript y Python. 
 
-**Aqui te muestro algunos de mis proyectos:**
+**Algunos de mis proyectos:**
 
 - **[App-Servicios](https://app-servicios.vercel.app/)**
   - Aplicación full stack, **mobile-first**, diseñada para gestionar un catálogo de prestadores de servicios y registrar interacciones de usuarios.
