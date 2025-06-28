@@ -1,4 +1,4 @@
-<!-- 🌌 Joan Simonutti's GitHub README 👋 👾
+<!-- 🌌 Joan Simonutti's GitHub README 👋 👾 🖖
 
 # 👾 Hi! I'm Izmael
 I'm a web developer with passion to procedural graphics and animated stuff<br>Currently working at [Variant Group](https://variant.net/) as a full-stack developer
@@ -21,7 +21,7 @@ Follow me on [my twitter](https://twitter.com/izmaelmag) and [Instagram](https:/
 -->
 <div align="center">
   
-# 👾 Hola! Soy Joan Simonutti
+# 🖖 Hola! Soy Joan Simonutti 👾
   
 **Desarrollador Full Stack de Aplicaciones Web, con experiencia en JavaScript y Python.**
 </div>
