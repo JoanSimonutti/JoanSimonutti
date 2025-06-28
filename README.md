@@ -50,8 +50,7 @@ Desarrollador Full Stack de Apps Web, con experiencia en JavaScript & Python.
 <div align="end">
 
 Siempre estoy dispuesto a compartir ideas o explorar nuevos proyectos.<br>
-**No dudes en contactarme** [LinkedIn](https://www.linkedin.com/in/joansimonutti/)  |  joansimonutticode@gmail.com | 2025<br>
-✨ *"Impulsado por la pasión de crear, aprender y superarme continuamente."*
+**No dudes en contactarme** [LinkedIn](https://www.linkedin.com/in/joansimonutti/)  |  joansimonutticode@gmail.com | 2025
 </div>
 
 
