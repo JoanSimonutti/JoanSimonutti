@@ -20,11 +20,11 @@ Follow me on [my twitter](https://twitter.com/izmaelmag) and [Instagram](https:/
 - [**Buscabombas**](https://buscabombas.vercel.app/) – Juego de lógica interactivo desarrollado con HTML, CSS y JavaScript.
 -->
 
-# 👾 Hola! Soy Joan Simonutti
-
-Desarrollador Full Stack de Apps Web, con experiencia en JavaScript y Python.
+# 👾 Hola! Soy Joan Simonutti<br>Desarrollador Full Stack de Apps Web, con experiencia en JavaScript y Python.
 
 ### Proyectos destacados:
+
+
 - [**App-Servicios**](https://app-servicios.vercel.app/)
   - Aplicación full stack, mobile-first, diseñada para gestionar un catálogo de prestadores de servicios y registrar interacciones de usuarios.
   - Desarrollada con React.js, Node.js y MongoDB, permite crear, consultar, filtrar y administrar perfiles de profesionales, ofreciendo una experiencia optimizada tanto para administradores como para usuarios.
