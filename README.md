@@ -28,7 +28,7 @@ Desarrollador Full Stack de Apps Web, con experiencia en JavaScript & Python.
 - [**App-Servicios**](https://app-servicios.vercel.app/)<br>Aplicación web full stack diseñada para gestionar un catálogo de prestadores de servicios y registrar interacciones de usuarios.<br>Permite crear, almacenar, consultar, filtrar, modificar y eliminar perfiles de prestadores, incluyendo datos de contacto y detalles sobre sus servicios.<br>Construida con React.js, Node.js y MongoDB, está orientada a brindar una experiencia eficiente tanto para administradores como para usuarios que buscan profesionales específicos.
 
 
-- [**Foodie**](https://page-01-navy.vercel.app/)<br>Sitio web responsivo construido con React.
+- [**Foodie**](https://page-01-navy.vercel.app/)<br>Sitio web responsivo desarrollado con React.js, orientado a presentar platos y recetas gastronómicas de manera visual y atractiva.<br>Implementa diseño adaptable y componentes reutilizables para lograr una navegación fluida y una experiencia de usuario consistente en distintos dispositivos.
 - [**Star Wars Blog**](https://star-wars-blog-navy.vercel.app/)<br>Blog temático integrando la API pública SWAPI y React.  
 - [**Agenda de Contactos**](https://agenda-de-contactos-seven.vercel.app/)<br>Agenda digital diseñada con React.
 - [**TETRIS**](https://tetris-javascript-flame.vercel.app/)<br>Juego creado con JavaScript y la biblioteca gráfica P5.
