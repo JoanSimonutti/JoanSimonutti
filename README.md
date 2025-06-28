@@ -49,7 +49,7 @@ Follow me on [my twitter](https://twitter.com/izmaelmag) and [Instagram](https:/
 <div align="end">
 
 **Siempre estoy dispuesto a compartir ideas o explorar nuevos proyectos**.<br>
-<p style=underline>No dudes en contactarme:</p> **[LinkedIn](https://www.linkedin.com/in/joansimonutti/)**  •  **joansimonutticode@gmail.com** • 2025
+<p style="text-decoration: underline;">No dudes en contactarme:</p> **[LinkedIn](https://www.linkedin.com/in/joansimonutti/)**  •  **joansimonutticode@gmail.com** • 2025
 </div>
 
 
