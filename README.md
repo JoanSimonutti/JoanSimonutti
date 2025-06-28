@@ -24,7 +24,7 @@ Follow me on [my twitter](https://twitter.com/izmaelmag) and [Instagram](https:/
 
 Desarrollador Full Stack de Apps Web, con experiencia en JavaScript y Python.
 
-## Proyectos
+### Proyectos
 - [**App-Servicios**](https://app-servicios.vercel.app/)
   - Aplicación web full stack diseñada para gestionar un catálogo de prestadores de servicios y registrar interacciones de usuarios.
   - Construida con React.js, Node.js y MongoDB, está orientada a brindar una experiencia eficiente tanto para administradores como para usuarios que buscan profesionales específicos.
