@@ -23,7 +23,7 @@ Follow me on [my twitter](https://twitter.com/izmaelmag) and [Instagram](https:/
 # 👾 Hola! Soy Joan Simonutti
 **Desarrollador Full Stack de Apps Web, con experiencia en JavaScript y Python.**
 
-### Proyectos destacados:
+### <p style="text-decoration: underline;">Proyectos destacados:</p>
 
 
 - [**App-Servicios**](https://app-servicios.vercel.app/)
