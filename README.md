@@ -25,20 +25,20 @@ Follow me on [my twitter](https://twitter.com/izmaelmag) and [Instagram](https:/
 
 ### PROYECTOS DESTACADOS:
 
-- [**App-Servicios**](https://app-servicios.vercel.app/)
+- **[App-Servicios](https://app-servicios.vercel.app/)**
   - Aplicación full stack, **mobile-first**, diseñada para gestionar un catálogo de prestadores de servicios y registrar interacciones de usuarios.
   - Desarrollada con **React.js**, **Node.js** y **MongoDB**, permite crear, consultar, filtrar y administrar perfiles de profesionales, ofreciendo una experiencia optimizada tanto para administradores como para usuarios.
  
-- [**Foodie**](https://page-01-navy.vercel.app/)
+- **[Foodie](https://page-01-navy.vercel.app/)**
   - Sitio web responsivo desarrollado con **React.js**, orientado a presentar platos y recetas gastronómicas de manera visual y atractiva.
   - Implementa diseño adaptable y componentes reutilizables para lograr una navegación fluida y una experiencia de usuario consistente en distintos dispositivos.
  
-- [**Star Wars Blog**](https://star-wars-blog-navy.vercel.app/)
+- **[Star Wars Blog](https://star-wars-blog-navy.vercel.app/)**
   - Blog temático desarrollado con **React.js** que consume datos en tiempo real desde la API pública **SWAPI** para mostrar información sobre personajes, naves y planetas del universo **Star Wars**.
   - Implementa componentes dinámicos y estilos personalizados para ofrecer una experiencia de lectura visualmente atractiva e interactiva.
  
 
-- [**TETRIS**](https://tetris-javascript-flame.vercel.app/)
+- **[TETRIS](https://tetris-javascript-flame.vercel.app/)**
   - Versión web del clásico juego **Tetris**, programada en **JavaScript** utilizando la **biblioteca gráfica p5.js**.
   - Incluye la lógica completa del juego, detección de colisiones, identificación y eliminación de líneas completas, y un sistema de puntuación dinámico.
  
