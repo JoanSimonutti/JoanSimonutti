@@ -23,7 +23,7 @@ Follow me on [my twitter](https://twitter.com/izmaelmag) and [Instagram](https:/
 # 👾 Hola! Soy Joan Simonutti
 <div align="center">
   
-✨**Desarrollador Full Stack de Aplicaciones Web, con experiencia en JavaScript y Python.**
+**Desarrollador Full Stack de Aplicaciones Web, con experiencia en JavaScript y Python.**
 </div>
 
 ### PROYECTOS:
