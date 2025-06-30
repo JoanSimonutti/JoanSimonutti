@@ -54,7 +54,7 @@ Soy **Desarrollador Full Stack** con experiencia en **JavaScript** y **Python**.
 ### **Algunos de mis proyectos:**
 
 - **[App-Servicios](https://app-servicios.vercel.app/)**  
-  Aplicación full stack, **mobile-first**, diseñada para gestionar un catálogo de prestadores de servicios y registrar interacciones de usuarios.  
+  Aplicación full stack para **Moviles**, diseñada para gestionar un catálogo de prestadores de servicios y registrar interacciones de usuarios.  
   Desarrollada con **React.js**, **Node.js** y **MongoDB**, permite crear, consultar, filtrar y administrar perfiles de profesionales, ofreciendo una experiencia optimizada tanto para administradores como para usuarios.
 
 - **[Foodie](https://page-01-navy.vercel.app/)**  
