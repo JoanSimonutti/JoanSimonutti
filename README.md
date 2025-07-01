@@ -53,7 +53,7 @@ Soy **Desarrollador Full Stack** con experiencia en **JavaScript** y **Python**.
 
 ### **Algunos de mis proyectos:**
 
-- **[App-Servicios](https://app-servicios.vercel.app/)**  
+- **[SERVIPRO](https://servipro-es.vercel.app/)**  
   Aplicación full stack para dispositivos móviles, diseñada para gestionar un catálogo de prestadores de servicios y registrar las interacciones de los usuarios.
   Desarrollada con **React.js**, **Node.js** y **MongoDB**, permite crear, consultar, filtrar y administrar perfiles de profesionales, ofreciendo una experiencia optimizada tanto para administradores como para usuarios.
 
