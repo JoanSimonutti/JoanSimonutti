@@ -54,8 +54,7 @@ Soy **Desarrollador Full Stack** con experiencia en **JavaScript** y **Python**.
 ### **Algunos de mis proyectos:**
 
 - **[SERVIPRO](https://servipro-es.vercel.app/)**  
-  Aplicación full stack para dispositivos móviles, diseñada para gestionar un catálogo de prestadores de servicios y registrar las interacciones de los usuarios.
-  Desarrollada con **React.js**, **Node.js** y **MongoDB**, permite crear, consultar, filtrar y administrar perfiles de profesionales, ofreciendo una experiencia optimizada tanto para administradores como para usuarios.
+  Aplicación full stack para dispositivos móviles, desarrollada con **React.js**, **Node.js** y **MongoDB**.<br>Diseñada para gestionar un catálogo de prestadores de servicios y registrar las interacciones de los usuarios. Permite crear, consultar, filtrar y administrar perfiles de profesionales, ofreciendo una experiencia optimizada tanto para administradores como para usuarios.
 
 - **[Foodie](https://page-01-navy.vercel.app/)**  
   Sitio web responsivo desarrollado con **React.js**, orientado a presentar platos y recetas gastronómicas de manera visual y atractiva.  
