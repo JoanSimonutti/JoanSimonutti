@@ -76,13 +76,16 @@ Soy **Desarrollador Full Stack** con experiencia en **JavaScript** y **Python**.
 No dudes en contactarme: **[LinkedIn](https://www.linkedin.com/in/joansimonutti/)**  •  **joansimonutticode@gmail.com** • 2025
 
 </div>
+
+
+- **Apasionado por construir aplicaciones web modernas, escalables y de alta calidad.**
 -->
-# 👋 ¡Bienvenido!
+# 👾 ¡Hola! Soy Joan Simonutti
 
-**Mi nombre es Joan Simonutti**  
-**Soy Desarrollador Full Stack con experiencia en JavaScript y Python**
+- **Desarrollador Full Stack especializado en **JavaScript** y **Python**.**  
 
----
+
+
 
 ### Algunos de mis proyectos
 
@@ -99,10 +102,12 @@ No dudes en contactarme: **[LinkedIn](https://www.linkedin.com/in/joansimonutti/
   Versión web del clásico juego **Tetris**, programada en **JavaScript** utilizando la biblioteca gráfica **p5.js**. Incluye la lógica completa del juego, detección de colisiones, eliminación de líneas completas y un sistema dinámico de puntuación.
 
 ---
+<div align="end">
+  
+**Siempre estoy dispuesto a compartir ideas o explorar nuevos proyectos** <br>
+No dudes en contactarme: **[LinkedIn](https://www.linkedin.com/in/joansimonutti/)**  •  **joansimonutticode@gmail.com** • 2025
 
-**Siempre estoy dispuesto a compartir ideas o explorar nuevos proyectos.**  
-No dudes en contactarme: [LinkedIn](https://www.linkedin.com/in/joansimonutti/) • joansimonutticode@gmail.com • 2025
-
+</div>
 
 
 <!-- Decoración opcional tipo ASCII
