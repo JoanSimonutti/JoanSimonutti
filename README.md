@@ -84,22 +84,24 @@ No dudes en contactarme: **[LinkedIn](https://www.linkedin.com/in/joansimonutti/
 
 - **Desarrollador Full Stack especializado en **JavaScript** y **Python**.**  
 
-
-
-
-### Algunos de mis proyectos
+### Algunos de mis proyectos:
 
 - **[SERVIPRO](https://servipro-es.vercel.app/)**  
-  Aplicación web responsiva (móvil y escritorio), desarrollada con **React.js**, **Node.js** y **MongoDB**. Diseñada para gestionar un catálogo de prestadores de servicios y registrar interacciones de los usuarios. Permite crear, consultar, filtrar y administrar perfiles de profesionales, brindando una experiencia optimizada tanto para administradores como para usuarios.
+  - Aplicación web responsiva (móvil y escritorio), desarrollada con **React.js**, **Node.js** y **MongoDB**.
+  - Diseñada para gestionar un catálogo de prestadores de servicios y registrar interacciones de los usuarios.
+  - Permite crear, consultar, filtrar y administrar perfiles de profesionales, brindando una experiencia optimizada tanto para administradores como para usuarios.
 
 - **[Foodie](https://page-01-navy.vercel.app/)**  
-  Sitio web responsivo desarrollado con **React.js**, orientado a presentar platos y recetas gastronómicas de manera visual y atractiva. Implementa diseño adaptable y componentes reutilizables para lograr una navegación fluida y una experiencia de usuario consistente en distintos dispositivos.
+  - Sitio web responsivo desarrollado con **React.js**, orientado a presentar platos y recetas gastronómicas de manera visual y atractiva.
+  - Implementa diseño adaptable y componentes reutilizables para lograr una navegación fluida y una experiencia de usuario consistente en distintos dispositivos.
 
 - **[Star Wars Blog](https://star-wars-blog-navy.vercel.app/)**  
-  Blog temático desarrollado con **React.js** que consume datos en tiempo real desde la API pública **SWAPI**, mostrando información sobre personajes, naves y planetas del universo **Star Wars**. Implementa componentes dinámicos y estilos personalizados para ofrecer una experiencia de lectura visualmente atractiva e interactiva.
+  - Blog temático desarrollado con **React.js** que consume datos en tiempo real desde la API pública **SWAPI**, mostrando información sobre personajes, naves y planetas del universo **Star Wars**.
+  - Implementa componentes dinámicos y estilos personalizados para ofrecer una experiencia de lectura visualmente atractiva e interactiva.
 
 - **[TETRIS](https://tetris-javascript-flame.vercel.app/)**  
-  Versión web del clásico juego **Tetris**, programada en **JavaScript** utilizando la biblioteca gráfica **p5.js**. Incluye la lógica completa del juego, detección de colisiones, eliminación de líneas completas y un sistema dinámico de puntuación.
+  - Versión web del clásico juego **Tetris**, programada en **JavaScript** utilizando la biblioteca gráfica **p5.js**.
+  - Incluye la lógica completa del juego, detección de colisiones, eliminación de líneas completas y un sistema dinámico de puntuación.
 
 ---
 <div align="end">
