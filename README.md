@@ -87,7 +87,7 @@ No dudes en contactarme: **[LinkedIn](https://www.linkedin.com/in/joansimonutti/
 ### Algunos de mis proyectos:
 
 - **[SERVIPRO](https://servipro-es.vercel.app/)**  
-  - Aplicación web responsiva (móvil y escritorio), desarrollada con **React.js**, **Node.js** y **MongoDB**.
+  - Aplicación web mobile-first, desarrollada con **React.js**, **Node.js** y **MongoDB**.
   - Diseñada para gestionar un catálogo de prestadores de servicios y registrar interacciones de los usuarios.
   - Permite crear, consultar, filtrar y administrar perfiles de profesionales, brindando una experiencia optimizada tanto para administradores como para usuarios.
 
