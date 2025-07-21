@@ -1,6 +1,8 @@
-<!-- 🌌 Joan Simonutti's GitHub README 👋 👾 🖖adadwadawdwdwadwad
-sadsaasdsadadawdawdawdawdad101101100
-# 👾 Hi! I'm Izmael01001010101010
+<!-- 🌌 Joan Simonutti's GitHub README 👋 👾 🖖
+
+
+
+# 👾 Hi! I'm Izmael
 I'm a web developer with passion to procedural graphics and animated stuff<br>Currently working at [Variant Group](https://variant.net/) as a full-stack developer
 
 Follow me on [my twitter](https://twitter.com/izmaelmag) and [Instagram](https://www.instagram.com/izmaelmag/)
