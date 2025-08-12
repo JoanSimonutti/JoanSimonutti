@@ -1,4 +1,4 @@
-# 👾 ¡Hola! Soy Joan Simonutti, Desarrollador Full Stack
+# 👾 ¡Hola! Soy Joan Simonutti
 
 ### 💻 Lenguajes y Frameworks
 - JavaScript (ES6+)
