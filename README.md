@@ -74,7 +74,7 @@ Soy **Desarrollador Full Stack** con experiencia en **JavaScript** y **Python**.
   
 **Siempre estoy dispuesto a compartir ideas o explorar nuevos proyectos** <br>
 No dudes en contactarme: **[LinkedIn](https://www.linkedin.com/in/joansimonutti/)**  •  **joansimonutticode@gmail.com** • 2025
-
+asdsadasdsa
 </div>
 
 ### Desarrollador Full Stack especializado en JavaScript y Python.
