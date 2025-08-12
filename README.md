@@ -107,11 +107,12 @@ asdsadasdsa
   - Incluye la lógica completa del juego, detección de colisiones, eliminación de líneas completas y un sistema dinámico de puntuación.
 
 -->
-# 👾 ¡Hola! Soy Joan Simonutti 
+# 👾 ¡Hola! Soy Joan Simonutti  
+**Desarrollador de Software Full Stack**
 
-# Desarrollador de Software Full Stack
+---
 
-## Lenguajes y Frameworks
+## 💻 Lenguajes y Frameworks
 - JavaScript (ES6+)
 - TypeScript
 - Node.js
@@ -122,7 +123,7 @@ asdsadasdsa
 - Bootstrap
 - jQuery
 
-## Backend y Arquitectura
+## 🛠 Backend y Arquitectura
 - REST APIs
 - MVC modular
 - ECMAScript Modules (ESM)
@@ -141,7 +142,7 @@ asdsadasdsa
 - Índices TTL
 - Validación de esquemas
 
-## Frontend
+## 🎨 Frontend
 - React.js
 - React Router
 - Context API
@@ -150,19 +151,19 @@ asdsadasdsa
 - CSS Modules
 - Diseño responsive y mobile-first
 
-## Bases de Datos
+## 🗄 Bases de Datos
 - MongoDB
 - MySQL
 - SQLite
 
-## Testing y Calidad de Código
+## ✅ Testing y Calidad de Código
 - Jest
 - Supertest
 - ESLint
 - Prettier
 - Husky (hooks pre-commit y pre-push)
 
-## DevOps y Herramientas
+## 🚀 DevOps y Herramientas
 - Git
 - GitHub
 - GitHub Actions (CI/CD)
@@ -172,12 +173,13 @@ asdsadasdsa
 - Twilio
 - Winston Logger
 
-## Otras Competencias
+## 📚 Otras Competencias
 - Responsive Design
 - SCRUM
 - Agile Development
 - Soporte técnico
 - Redes y hardware
+
 
 
 ---
