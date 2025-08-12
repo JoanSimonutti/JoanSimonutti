@@ -1,3 +1,83 @@
+# 👾 ¡Hola! Soy Joan Simonutti, desarrollador de Software Full Stack
+
+### 💻 Lenguajes y Frameworks
+- JavaScript (ES6+)
+- TypeScript
+- Node.js
+- Express.js
+- React.js
+- HTML5
+- CSS3
+- Bootstrap
+- jQuery
+
+### 🛠 Backend y Arquitectura
+- REST APIs
+- MVC modular
+- ECMAScript Modules (ESM)
+- Arquitectura escalable
+- Middlewares de seguridad:
+  - helmet
+  - cors
+  - compression
+  - morgan
+- Rate limiting
+- Validaciones con **Zod**
+- Gestión de variables de entorno con **dotenv**
+- Autenticación y autorización con **JWT** y **Refresh Tokens**
+- Roles de usuario y control de acceso
+- Modelado de datos con **Mongoose** (MongoDB)
+- Índices TTL
+- Validación de esquemas
+
+### 🎨 Frontend
+- React.js
+- React Router
+- Context API
+- Hooks personalizados
+- Axios
+- CSS Modules
+- Diseño responsive y mobile-first
+
+### 🗄 Bases de Datos
+- MongoDB
+- MySQL
+- SQLite
+
+### ✅ Testing y Calidad de Código
+- Jest
+- Supertest
+- ESLint
+- Prettier
+- Husky (hooks pre-commit y pre-push)
+
+### 🚀 DevOps y Herramientas
+- Git
+- GitHub
+- GitHub Actions (CI/CD)
+- Render
+- Vercel
+- Node-Cache
+- Twilio
+- Winston Logger
+
+### 📚 Otras Competencias
+- Responsive Design
+- SCRUM
+- Agile Development
+- Soporte técnico
+- Redes y hardware
+
+---
+
+<div align="right">
+
+💡 **Siempre abierto a compartir ideas y explorar nuevos proyectos.**  
+📩 **Contacto:** [LinkedIn](https://www.linkedin.com/in/joansimonutti/) | **joansimonutticode@gmail.com**
+
+</div>
+
+
 <!-- 🌌 Joan Simonutti's GitHub README 👋 👾 🖖
 sadsaddsadsadawdwadawdawda
 # 👾 Hi! I'm Izmael
@@ -106,7 +186,7 @@ asdsadasdsa
   - Versión web del clásico juego **Tetris**, programada en **JavaScript** utilizando la biblioteca gráfica **p5.js**.
   - Incluye la lógica completa del juego, detección de colisiones, eliminación de líneas completas y un sistema dinámico de puntuación.
 
--->
+
 # 👾 ¡Hola! Soy Joan Simonutti  
 **Desarrollador de Software Full Stack**
 
