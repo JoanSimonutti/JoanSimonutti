@@ -10,22 +10,22 @@ I specialize in designing **modern frontends** with React and delivering **high-
 
 ### 💻 Technical Skills
 
-**- Languages & Frameworks**  
+- **Languages & Frameworks**  
 JavaScript (ES6+), TypeScript, Node.js, Express.js, React.js, HTML5, CSS3, Bootstrap, jQuery  
 
-**- Backend & Architecture**  
+- **Backend & Architecture**  
 REST APIs, Modular MVC, ESM, security middlewares (helmet, cors, compression, morgan), rate limiting, validations with Zod, environment variables with dotenv, JWT + Refresh Tokens authentication, role-based access control, Mongoose (MongoDB) modeling, TTL indexes  
 
-**- Frontend**  
+- **Frontend**  
 React.js, React Router, Context API, custom hooks, Axios, CSS Modules, responsive & mobile-first design  
 
-**- Databases**  
+- **Databases**  
 MongoDB, MySQL, SQLite  
 
-**- Testing & Code Quality**  
+- **Testing & Code Quality**  
 Jest, Supertest, ESLint, Prettier, Husky (pre-commit/pre-push)  
 
-**- DevOps & Tools**  
+- **DevOps & Tools**  
 Git, GitHub, GitHub Actions (CI/CD), Render, Vercel, Node-Cache, Twilio, Winston Logger  
 
 ### 📚 Other Competencies
