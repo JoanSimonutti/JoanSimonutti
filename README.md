@@ -1,6 +1,6 @@
-# 👾 ¡Hola! Soy Joan Simonutti
+# 👾 Hi! I'm Joan Simonutti, a Full Stack Developer.
 
-### 💻 Lenguajes y Frameworks
+### 💻 Languages and Frameworks
 - JavaScript (ES6+)
 - TypeScript
 - Node.js
@@ -11,47 +11,47 @@
 - Bootstrap
 - jQuery
 
-### 🛠 Backend y Arquitectura
+### 🛠 Backend and Architecture
 - REST APIs
-- MVC modular
+- Modular MVC
 - ECMAScript Modules (ESM)
-- Arquitectura escalable
-- Middlewares de seguridad:
+- Scalable architecture
+- Security middlewares:
   - helmet
   - cors
   - compression
   - morgan
 - Rate limiting
-- Validaciones con **Zod**
-- Gestión de variables de entorno con **dotenv**
-- Autenticación y autorización con **JWT** y **Refresh Tokens**
-- Roles de usuario y control de acceso
-- Modelado de datos con **Mongoose** (MongoDB)
-- Índices TTL
-- Validación de esquemas
+- Validations with **Zod**
+- Environment variable management with **dotenv**
+- Authentication and authorization with **JWT** and **Refresh Tokens**
+- User roles and access control
+- Data modeling with **Mongoose** (MongoDB)
+- TTL indexes
+- Schema validation
 
 ### 🎨 Frontend
 - React.js
 - React Router
 - Context API
-- Hooks personalizados
+- Custom hooks
 - Axios
 - CSS Modules
-- Diseño responsive y mobile-first
+- Responsive and mobile-first design
 
-### 🗄 Bases de Datos
+### 🗄 Databases
 - MongoDB
 - MySQL
 - SQLite
 
-### ✅ Testing y Calidad de Código
+### ✅ Testing and Code Quality
 - Jest
 - Supertest
 - ESLint
 - Prettier
-- Husky (hooks pre-commit y pre-push)
+- Husky (pre-commit and pre-push hooks)
 
-### 🚀 DevOps y Herramientas
+### 🚀 DevOps and Tools
 - Git
 - GitHub
 - GitHub Actions (CI/CD)
@@ -61,22 +61,21 @@
 - Twilio
 - Winston Logger
 
-### 📚 Otras Competencias
+### 📚 Other Skills
 - Responsive Design
 - SCRUM
 - Agile Development
-- Soporte técnico
-- Redes y hardware
+- Technical support
+- Networking and hardware
 
 ---
 
 <div align="right">
 
-💡 **Siempre abierto a compartir ideas y explorar nuevos proyectos.**  
-📩 **Contacto:** [LinkedIn](https://www.linkedin.com/in/joansimonutti/) | **joansimonutticode@gmail.com**
+💡 **Always open to sharing ideas and exploring new projects.**  
+📩 **Contact:** [LinkedIn](https://www.linkedin.com/in/joansimonutti/) | **joansimonutticode@gmail.com**
 
 </div>
-
 
 <!-- 🌌 Joan Simonutti's GitHub README 👋 👾 🖖
 sadsaddsadsadawdwadawdawda
