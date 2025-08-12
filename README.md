@@ -79,8 +79,6 @@ asdsadasdsa
 
 ### Desarrollador Full Stack especializado en JavaScript y Python.
 - **Apasionado por construir aplicaciones web modernas, escalables y de alta calidad.**
--->
-# 👾 ¡Hola! Soy Joan Simonutti
 
 - Desarrollador Full Stack especializado en JavaScript.
 - Frontend con React.js, HTML, CSS y Bootstrap.
@@ -107,6 +105,13 @@ asdsadasdsa
 - **[TETRIS](https://tetris-javascript-flame.vercel.app/)**  
   - Versión web del clásico juego **Tetris**, programada en **JavaScript** utilizando la biblioteca gráfica **p5.js**.
   - Incluye la lógica completa del juego, detección de colisiones, eliminación de líneas completas y un sistema dinámico de puntuación.
+
+-->
+# 👾 ¡Hola! Soy Joan Simonutti
+
+Desarrollador de software Full Stack especializado en JavaScript (ES6+) y TypeScript, con experiencia en desarrollo web moderno y arquitectura profesional. Sólidos conocimientos en frontend con React.js, HTML5, CSS3 y Bootstrap, y en backend con Node.js y Express. Experiencia en diseño y consumo de APIs RESTful seguras, autenticación con JWT y Refresh Tokens, validaciones estrictas con Zod y modelado de datos en MongoDB con Mongoose.
+
+Manejo de bases de datos SQL (MySQL, SQLite) y NoSQL (MongoDB). Experiencia en integración de servicios externos como Twilio para SMS, caching en memoria con Node-Cache, y logging estructurado con Winston. Acostumbrado a aplicar buenas prácticas, pruebas automatizadas con Jest y CI/CD con GitHub Actions. Enfoque orientado a escalabilidad, seguridad y metodologías ágiles como SCRUM.
 
 ---
 <div align="end">
