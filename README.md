@@ -1,81 +1,51 @@
-# 👾 Hi! I'm Joan Simonutti, a Full Stack Developer.
+# 👾 Hi! I'm Joan Simonutti — Full Stack Developer
 
-### Languages and Frameworks:
-- JavaScript (ES6+)
-- TypeScript
-- Node.js
-- Express.js
-- React.js
-- HTML5
-- CSS3
-- Bootstrap
-- jQuery
+I’m a passionate **Full Stack Developer** with strong experience in building scalable, secure, and user-friendly web applications.  
+I specialize in designing **modern frontends** with React and delivering **high-performance backends** with Node.js and Express, always following clean code principles, security best practices, and agile methodologies.
 
-### Backend and Architecture:
-- REST APIs
-- Modular MVC
-- ECMAScript Modules (ESM)
-- Scalable architecture
-- Security middlewares:
-  - helmet
-  - cors
-  - compression
-  - morgan
-- Rate limiting
-- Validations with **Zod**
-- Environment variable management with **dotenv**
-- Authentication and authorization with **JWT** and **Refresh Tokens**
-- User roles and access control
-- Data modeling with **Mongoose** (MongoDB)
-- TTL indexes
-- Schema validation
+---
 
-### Frontend:
-- React.js
-- React Router
-- Context API
-- Custom hooks
-- Axios
-- CSS Modules
-- Responsive and mobile-first design
+## 💡 What I Bring
+- **End-to-End Development**: From UI/UX design to backend logic and database modeling.
+- **Scalable & Secure Architectures**: Modular MVC, REST APIs, role-based access control, and robust middlewares.
+- **Agile Collaboration**: Strong communication, teamwork, and adaptability in SCRUM environments.
 
-### Databases:
-- MongoDB
-- MySQL
-- SQLite
+---
 
-### Testing and Code Quality:
-- Jest
-- Supertest
-- ESLint
-- Prettier
-- Husky (pre-commit and pre-push hooks)
+## 💻 Technical Skills
 
-### DevOps and Tools:
-- Git
-- GitHub
-- GitHub Actions (CI/CD)
-- Render
-- Vercel
-- Node-Cache
-- Twilio
-- Winston Logger
+**Languages & Frameworks**  
+JavaScript (ES6+), TypeScript, Node.js, Express.js, React.js, HTML5, CSS3, Bootstrap, jQuery  
 
-### Other Skills:
-- Responsive Design
-- SCRUM
-- Agile Development
-- Technical support
-- Networking and hardware
+**Backend & Architecture**  
+REST APIs, Modular MVC, ESM, security middlewares (helmet, cors, compression, morgan), rate limiting, validations with Zod, environment variables with dotenv, JWT + Refresh Tokens authentication, role-based access control, Mongoose (MongoDB) modeling, TTL indexes  
+
+**Frontend**  
+React.js, React Router, Context API, custom hooks, Axios, CSS Modules, responsive & mobile-first design  
+
+**Databases**  
+MongoDB, MySQL, SQLite  
+
+**Testing & Code Quality**  
+Jest, Supertest, ESLint, Prettier, Husky (pre-commit/pre-push)  
+
+**DevOps & Tools**  
+Git, GitHub, GitHub Actions (CI/CD), Render, Vercel, Node-Cache, Twilio, Winston Logger  
+
+---
+
+## 📚 Other Competencies
+Responsive Design | SCRUM | Agile Development | Technical Support | Networking & Hardware  
 
 ---
 
 <div align="right">
 
-💡 **Always open to sharing ideas and exploring new projects.**  
-📩 **Contact:** [LinkedIn](https://www.linkedin.com/in/joansimonutti/) | **joansimonutticode@gmail.com**
+💬 **Always open to collaboration, new challenges, and innovative ideas.**  
+📩 **Let’s connect:** [LinkedIn](https://www.linkedin.com/in/joansimonutti/) | **joansimonutticode@gmail.com**
 
 </div>
+
 
 <!-- 🌌 Joan Simonutti's GitHub README 👋 👾 🖖
 sadsaddsadsadawdwadawdawda
