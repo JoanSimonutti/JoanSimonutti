@@ -41,7 +41,7 @@ Responsive Design | SCRUM | Agile Development | Technical Support | Networking &
 </div>
 
 
-<!-- 🌌 Joan Simonutti's GitHub README 👋 👾 🖖
+<!-- 🌌 Joan Simonutti's GitHub README 👋 👾 🖖  ••••••••••••••••••••••
 sadsaddsadsadawdwadawdawda
 # 👾 Hi! I'm Izmael
 I'm a web developer with passion to procedural graphics and animated stuff<br>Currently working at [Variant Group](https://variant.net/) as a full-stack developer
