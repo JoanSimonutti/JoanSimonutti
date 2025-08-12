@@ -82,12 +82,17 @@ asdsadasdsa
 -->
 # 👾 ¡Hola! Soy Joan Simonutti
 
-### Desarrollador Full Stack especializado en JavaScript.
+- Desarrollador full stack especializado en JavaScript.
+- Frontend con React.js, HTML, CSS y Bootstrap.
+- Backend con Node.js y Express.
+- Manejo de bases de datos SQL y NoSQL.
+- Desarrollo e integración de APIs.
+- Experiencia en soporte técnico e informática.
 
 ### Algunos de mis proyectos:
 
 - **[SERVIPRO](https://servipro-es.vercel.app/)**  
-  - Aplicación web mobile-first, desarrollada con **React.js**, **Node.js** y **MongoDB**.
+  - Aplicación web/mobile, desarrollada con **React.js**, **Node.js** y **MongoDB**.
   - Diseñada para gestionar un catálogo de prestadores de servicios y registrar interacciones de los usuarios.
   - Permite crear, consultar, filtrar y administrar perfiles de profesionales, brindando una experiencia optimizada tanto para administradores como para usuarios.
 
