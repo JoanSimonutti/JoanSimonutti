@@ -96,11 +96,11 @@ asdsadasdsa
   - Diseñada para gestionar un catálogo de prestadores de servicios y registrar interacciones de los usuarios.
   - Permite crear, consultar, filtrar y administrar perfiles de profesionales, brindando una experiencia optimizada tanto para administradores como para usuarios.
 
-- **[Foodie](https://page-01-navy.vercel.app/)**  
+- **[FOODIE](https://page-01-navy.vercel.app/)**  
   - Sitio web responsivo desarrollado con **React.js**, orientado a presentar platos y recetas gastronómicas de manera visual y atractiva.
   - Implementa diseño adaptable y componentes reutilizables para lograr una navegación fluida y una experiencia de usuario consistente en distintos dispositivos.
 
-- **[Star Wars Blog](https://star-wars-blog-navy.vercel.app/)**  
+- **[STAR WARS BLOG](https://star-wars-blog-navy.vercel.app/)**  
   - Blog temático desarrollado con **React.js** que consume datos en tiempo real desde la API pública **SWAPI**, mostrando información sobre personajes, naves y planetas del universo **Star Wars**.
   - Implementa componentes dinámicos y estilos personalizados para ofrecer una experiencia de lectura visualmente atractiva e interactiva.
 
