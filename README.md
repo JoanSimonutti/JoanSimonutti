@@ -82,7 +82,7 @@ asdsadasdsa
 -->
 # 👾 ¡Hola! Soy Joan Simonutti
 
-- Desarrollador full stack especializado en JavaScript.
+- Desarrollador Full Stack especializado en JavaScript.
 - Frontend con React.js, HTML, CSS y Bootstrap.
 - Backend con Node.js y Express.
 - Manejo de bases de datos SQL y NoSQL.
