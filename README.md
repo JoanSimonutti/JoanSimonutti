@@ -107,11 +107,43 @@ asdsadasdsa
   - Incluye la lógica completa del juego, detección de colisiones, eliminación de líneas completas y un sistema dinámico de puntuación.
 
 -->
-# 👾 ¡Hola! Soy Joan Simonutti
+# 👾 ¡Hola! Soy Joan Simonutti 
 
-Desarrollador de software Full Stack especializado en JavaScript (ES6+) y TypeScript, con experiencia en desarrollo web moderno y arquitectura profesional. Sólidos conocimientos en frontend con React.js, HTML5, CSS3 y Bootstrap, y en backend con Node.js y Express. Experiencia en diseño y consumo de APIs RESTful seguras, autenticación con JWT y Refresh Tokens, validaciones estrictas con Zod y modelado de datos en MongoDB con Mongoose.
+Desarrollador de Software Full Stack.
 
-Manejo de bases de datos SQL (MySQL, SQLite) y NoSQL (MongoDB). Experiencia en integración de servicios externos como Twilio para SMS, caching en memoria con Node-Cache, y logging estructurado con Winston. Acostumbrado a aplicar buenas prácticas, pruebas automatizadas con Jest y CI/CD con GitHub Actions. Enfoque orientado a escalabilidad, seguridad y metodologías ágiles como SCRUM.
+Lenguajes y Frameworks:
+
+JavaScript (ES6+), TypeScript, Node.js, Express.js, React.js, HTML5, CSS3, Bootstrap, jQuery
+
+Backend y Arquitectura:
+
+REST APIs, MVC modular, ECMAScript Modules (ESM), arquitectura escalable, middlewares de seguridad (helmet, cors, compression, morgan), rate limiting, validaciones con Zod, gestión de variables de entorno con dotenv
+
+Autenticación y autorización con JWT y Refresh Tokens, roles de usuario, control de acceso
+
+Modelado de datos con Mongoose (MongoDB), índices TTL, validación de esquemas
+
+Frontend:
+
+React.js, React Router, Context API, Hooks personalizados, Axios, CSS Modules, diseño responsive y mobile-first
+
+Bases de Datos:
+
+MongoDB, MySQL, SQLite
+
+Testing y Calidad de Código:
+
+Jest, Supertest, ESLint, Prettier, Husky (hooks pre-commit y pre-push)
+
+DevOps y Herramientas:
+
+Git, GitHub, GitHub Actions (CI/CD), Render, Vercel, Node-Cache, Twilio, Winston Logger
+
+Otras Competencias:
+
+Responsive Design, SCRUM, Agile Development, soporte técnico, redes y hardware
+
+
 
 ---
 <div align="end">
