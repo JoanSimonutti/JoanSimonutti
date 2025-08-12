@@ -109,40 +109,75 @@ asdsadasdsa
 -->
 # 👾 ¡Hola! Soy Joan Simonutti 
 
-Desarrollador de Software Full Stack.
+# Desarrollador de Software Full Stack
 
-Lenguajes y Frameworks:
+## Lenguajes y Frameworks
+- JavaScript (ES6+)
+- TypeScript
+- Node.js
+- Express.js
+- React.js
+- HTML5
+- CSS3
+- Bootstrap
+- jQuery
 
-JavaScript (ES6+), TypeScript, Node.js, Express.js, React.js, HTML5, CSS3, Bootstrap, jQuery
+## Backend y Arquitectura
+- REST APIs
+- MVC modular
+- ECMAScript Modules (ESM)
+- Arquitectura escalable
+- Middlewares de seguridad:
+  - helmet
+  - cors
+  - compression
+  - morgan
+- Rate limiting
+- Validaciones con **Zod**
+- Gestión de variables de entorno con **dotenv**
+- Autenticación y autorización con **JWT** y **Refresh Tokens**
+- Roles de usuario y control de acceso
+- Modelado de datos con **Mongoose** (MongoDB)
+- Índices TTL
+- Validación de esquemas
 
-Backend y Arquitectura:
+## Frontend
+- React.js
+- React Router
+- Context API
+- Hooks personalizados
+- Axios
+- CSS Modules
+- Diseño responsive y mobile-first
 
-REST APIs, MVC modular, ECMAScript Modules (ESM), arquitectura escalable, middlewares de seguridad (helmet, cors, compression, morgan), rate limiting, validaciones con Zod, gestión de variables de entorno con dotenv
+## Bases de Datos
+- MongoDB
+- MySQL
+- SQLite
 
-Autenticación y autorización con JWT y Refresh Tokens, roles de usuario, control de acceso
+## Testing y Calidad de Código
+- Jest
+- Supertest
+- ESLint
+- Prettier
+- Husky (hooks pre-commit y pre-push)
 
-Modelado de datos con Mongoose (MongoDB), índices TTL, validación de esquemas
+## DevOps y Herramientas
+- Git
+- GitHub
+- GitHub Actions (CI/CD)
+- Render
+- Vercel
+- Node-Cache
+- Twilio
+- Winston Logger
 
-Frontend:
-
-React.js, React Router, Context API, Hooks personalizados, Axios, CSS Modules, diseño responsive y mobile-first
-
-Bases de Datos:
-
-MongoDB, MySQL, SQLite
-
-Testing y Calidad de Código:
-
-Jest, Supertest, ESLint, Prettier, Husky (hooks pre-commit y pre-push)
-
-DevOps y Herramientas:
-
-Git, GitHub, GitHub Actions (CI/CD), Render, Vercel, Node-Cache, Twilio, Winston Logger
-
-Otras Competencias:
-
-Responsive Design, SCRUM, Agile Development, soporte técnico, redes y hardware
-
+## Otras Competencias
+- Responsive Design
+- SCRUM
+- Agile Development
+- Soporte técnico
+- Redes y hardware
 
 
 ---
