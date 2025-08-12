@@ -3,33 +3,35 @@
 I’m a passionate **Full Stack Developer** with strong experience in building scalable, secure, and user-friendly web applications.  
 I specialize in designing **modern frontends** with React and delivering **high-performance backends** with Node.js and Express, always following clean code principles, security best practices, and agile methodologies.
 
-## 💡 What I Bring
+### 💡 What I Bring
 - **End-to-End Development**: From UI/UX design to backend logic and database modeling.
 - **Scalable & Secure Architectures**: Modular MVC, REST APIs, role-based access control, and robust middlewares.
 - **Agile Collaboration**: Strong communication, teamwork, and adaptability in SCRUM environments.
 
-## 💻 Technical Skills
+### 💻 Technical Skills
 
-**Languages & Frameworks**  
+**- Languages & Frameworks**  
 JavaScript (ES6+), TypeScript, Node.js, Express.js, React.js, HTML5, CSS3, Bootstrap, jQuery  
 
-**Backend & Architecture**  
+**- Backend & Architecture**  
 REST APIs, Modular MVC, ESM, security middlewares (helmet, cors, compression, morgan), rate limiting, validations with Zod, environment variables with dotenv, JWT + Refresh Tokens authentication, role-based access control, Mongoose (MongoDB) modeling, TTL indexes  
 
-**Frontend**  
+**- Frontend**  
 React.js, React Router, Context API, custom hooks, Axios, CSS Modules, responsive & mobile-first design  
 
-**Databases**  
+**- Databases**  
 MongoDB, MySQL, SQLite  
 
-**Testing & Code Quality**  
+**- Testing & Code Quality**  
 Jest, Supertest, ESLint, Prettier, Husky (pre-commit/pre-push)  
 
-**DevOps & Tools**  
+**- DevOps & Tools**  
 Git, GitHub, GitHub Actions (CI/CD), Render, Vercel, Node-Cache, Twilio, Winston Logger  
 
-## 📚 Other Competencies
+### 📚 Other Competencies
 Responsive Design | SCRUM | Agile Development | Technical Support | Networking & Hardware  
+
+---
 
 <div align="right">
 
