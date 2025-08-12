@@ -77,12 +77,12 @@ No dudes en contactarme: **[LinkedIn](https://www.linkedin.com/in/joansimonutti/
 
 </div>
 
-
+### Desarrollador Full Stack especializado en JavaScript y Python.
 - **Apasionado por construir aplicaciones web modernas, escalables y de alta calidad.**
 -->
 # 👾 ¡Hola! Soy Joan Simonutti
 
-### Desarrollador Full Stack especializado en JavaScript y Python.
+### Desarrollador Full Stack especializado en JavaScript.
 
 ### Algunos de mis proyectos:
 
