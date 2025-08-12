@@ -1,6 +1,6 @@
 # 👾 Hi! I'm Joan Simonutti, a Full Stack Developer.
 
-### 💻 Languages and Frameworks
+### Languages and Frameworks:
 - JavaScript (ES6+)
 - TypeScript
 - Node.js
@@ -11,7 +11,7 @@
 - Bootstrap
 - jQuery
 
-### 🛠 Backend and Architecture
+### Backend and Architecture:
 - REST APIs
 - Modular MVC
 - ECMAScript Modules (ESM)
@@ -30,7 +30,7 @@
 - TTL indexes
 - Schema validation
 
-### 🎨 Frontend
+### Frontend:
 - React.js
 - React Router
 - Context API
@@ -39,19 +39,19 @@
 - CSS Modules
 - Responsive and mobile-first design
 
-### 🗄 Databases
+### Databases:
 - MongoDB
 - MySQL
 - SQLite
 
-### ✅ Testing and Code Quality
+### Testing and Code Quality:
 - Jest
 - Supertest
 - ESLint
 - Prettier
 - Husky (pre-commit and pre-push hooks)
 
-### 🚀 DevOps and Tools
+### DevOps and Tools:
 - Git
 - GitHub
 - GitHub Actions (CI/CD)
@@ -61,7 +61,7 @@
 - Twilio
 - Winston Logger
 
-### 📚 Other Skills
+### Other Skills:
 - Responsive Design
 - SCRUM
 - Agile Development
