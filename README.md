@@ -3,14 +3,10 @@
 I’m a passionate **Full Stack Developer** with strong experience in building scalable, secure, and user-friendly web applications.  
 I specialize in designing **modern frontends** with React and delivering **high-performance backends** with Node.js and Express, always following clean code principles, security best practices, and agile methodologies.
 
----
-
 ## 💡 What I Bring
 - **End-to-End Development**: From UI/UX design to backend logic and database modeling.
 - **Scalable & Secure Architectures**: Modular MVC, REST APIs, role-based access control, and robust middlewares.
 - **Agile Collaboration**: Strong communication, teamwork, and adaptability in SCRUM environments.
-
----
 
 ## 💻 Technical Skills
 
@@ -32,12 +28,8 @@ Jest, Supertest, ESLint, Prettier, Husky (pre-commit/pre-push)
 **DevOps & Tools**  
 Git, GitHub, GitHub Actions (CI/CD), Render, Vercel, Node-Cache, Twilio, Winston Logger  
 
----
-
 ## 📚 Other Competencies
 Responsive Design | SCRUM | Agile Development | Technical Support | Networking & Hardware  
-
----
 
 <div align="right">
 
