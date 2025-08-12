@@ -1,4 +1,4 @@
-# 👾 Hi! I'm Joan Simonutti — Full Stack Developer
+# 👾 Hi! I'm Joan Simonutti • Full Stack Developer
 
 I’m a passionate **Full Stack Developer** with strong experience in building scalable, secure, and user-friendly web applications.  
 I specialize in designing **modern frontends** with React and delivering **high-performance backends** with Node.js and Express, always following clean code principles, security best practices, and agile methodologies.
