@@ -57,7 +57,7 @@ Follow me on [my twitter](https://twitter.com/izmaelmag) and [Instagram](https:/
 [🐦 Dev Seagulls](https://www.instagram.com/dev_seagulls/) – Founded IT community in Makhachkala<br>
 
 👨‍💻 A lot of random web design and frontend freelance since 2013<br>
-
+sdadsadadsaddsad
 - 💼 [LinkedIn](https://www.linkedin.com/in/joansimonutti/)  
 - ✉️ joansimonutticode@gmail.com
 - [**Buscabombas**](https://buscabombas.vercel.app/) – Juego de lógica interactivo desarrollado con HTML, CSS y JavaScript.
