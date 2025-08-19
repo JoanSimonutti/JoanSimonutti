@@ -1,8 +1,6 @@
-# 👾 ¡Hola! Soy Joan Simonutti
+# 👾 ¡Hola! Soy Joan.
 
-Soy desarrollador **Full Stack** con experiencia en aplicaciones web y mantenimiento de sistemas.  
-Trabajo con **JavaScript, TypeScript, React, Node.js, Express, MongoDB y SQL**.  
-Además, incorporo **seguridad, validación de datos, despliegues en la nube y uso de IA** para optimizar el desarrollo.
+### Soy desarrollador full stack con experiencia en el diseño, desarrollo y mantenimiento de aplicaciones web. Aporto conocimientos en arquitectura de software y seguridad. Mi enfoque está en crear soluciones sostenibles, aplicando buenas prácticas y aprovechando el potencial de la IA para optimizar los procesos de desarrollo.
 
 ---
 
