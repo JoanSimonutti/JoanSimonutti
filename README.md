@@ -1,15 +1,16 @@
-# 👾 ¡Hola! Soy Joan.
+# 👾 ¡Hola! Soy Joan
 
-### Soy desarrollador full stack con experiencia en el diseño, desarrollo y mantenimiento de aplicaciones web. Aporto conocimientos en arquitectura de software y seguridad. Mi enfoque está en crear soluciones sostenibles, aplicando buenas prácticas y aprovechando el potencial de la IA para optimizar los procesos de desarrollo.
+### 💻 Desarrollador Full Stack con experiencia en el diseño, desarrollo y mantenimiento de aplicaciones web. Aporto conocimientos en arquitectura de software y seguridad. Mi enfoque está en crear soluciones sostenibles, aplicando buenas prácticas y aprovechando el potencial de la IA para optimizar los procesos de desarrollo.  
 
 ---
 
-<div align="right">
+<div align="center">
 
 💬 **Siempre abierto a colaborar, afrontar nuevos retos e impulsar ideas innovadoras.**  
-📩 **Conectemos:** [LinkedIn](https://www.linkedin.com/in/joansimonutti/) | **joansimonutticode@gmail.com**
+📩 **Conectemos:** [LinkedIn](https://www.linkedin.com/in/joansimonutti/) · **joansimonutticode@gmail.com**
 
 </div>
+
 
 
 <!-- 🌌 Joan Simonutti's GitHub README 👋 👾 🖖  ••••••••••••••••••••••   asdsadsadsdadsadaddasdsdsadadadda
