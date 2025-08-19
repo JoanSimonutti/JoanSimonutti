@@ -1,3 +1,22 @@
+# 👾 ¡Hola! Soy Joan Simonutti
+
+Soy desarrollador **Full Stack** con experiencia en aplicaciones web y mantenimiento de sistemas.  
+Trabajo con **JavaScript, TypeScript, React, Node.js, Express, MongoDB y SQL**.  
+Además, incorporo **seguridad, validación de datos, despliegues en la nube y uso de IA** para optimizar el desarrollo.
+
+---
+
+<div align="right">
+
+💬 **Siempre abierto a colaborar, afrontar nuevos retos e impulsar ideas innovadoras.**  
+📩 **Conectemos:** [LinkedIn](https://www.linkedin.com/in/joansimonutti/) | **joansimonutticode@gmail.com**
+
+</div>
+
+
+<!-- 🌌 Joan Simonutti's GitHub README 👋 👾 🖖  ••••••••••••••••••••••   asdsadsadsdadsadaddasdsdsadadadda
+sadsaddsadsadawdwadawdawdaasdsadsadsadsadsadasdsadasddasdsaddadsdsadsdsddawdwadwadwadwaddsadsadasdadsdadasdasd
+
 # 👾 Hi! I'm Joan Simonutti
 
 I’m a passionate **Full Stack Developer** with strong experience in building scalable, secure, and user-friendly web applications.  
@@ -41,8 +60,6 @@ Responsive Design | SCRUM | Agile Development | Technical Support | Networking &
 </div>
 
 
-<!-- 🌌 Joan Simonutti's GitHub README 👋 👾 🖖  ••••••••••••••••••••••   asdsadsadsdadsadaddasdsdsadadadda
-sadsaddsadsadawdwadawdawdaasdsadsadsadsadsadasdsadasddasdsaddadsdsadsdsddawdwadwadwadwaddsadsadasdadsdadasdasd
 # 👾 Hi! I'm Izmael
 I'm a web developer with passion to procedural graphics and animated stuff<br>Currently working at [Variant Group](https://variant.net/) as a full-stack developer
 
