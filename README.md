@@ -9,7 +9,7 @@ optimizar procesos.
 
 <div align="right">
 
-💬 **Siempre abierto a colaborar, afrontar nuevos retos e impulsar ideas innovadoras.**  
+💬 **Siempre estoy dispuesto a compartir ideas o explorar nuevos proyectos.**  
 📩 **Conectemos:** [LinkedIn](https://www.linkedin.com/in/joansimonutti/) · **joansimonutticode@gmail.com**
 
 </div>
