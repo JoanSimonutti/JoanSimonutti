@@ -16,7 +16,7 @@ optimizar procesos.
 
 
 
-<!-- 🌌 Joan Simonutti's GitHub README 👋 👾 🖖  ••••••••••••••••••••••   asdsadsadsdadsadaddasdsdsadadadda
+<!-- 🌌 Joan Simonutti's GitHub README 👋 👾 🖖  ••••••••••••••••••••••   asdsadsadsdadsadaddasdsdsadadaddaasdsdadd
 sadsaddsadsadawdwadawdawdaasdsadsadsadsadsadasdsadasddasdsaddadsdsadsdsddawdwadwadwadwaddsadsadasdadsdadasdasd
 
 # 👾 Hi! I'm Joan Simonutti
