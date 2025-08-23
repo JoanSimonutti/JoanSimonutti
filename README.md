@@ -1,7 +1,7 @@
 # Hola! Soy Joan 👋 
 
 Soy **desarrollador full stack** con experiencia en el **diseño, desarrollo y mantenimiento de
-aplicaciones web**. Me enfoco en crear **soluciones eficientes** y sostener un **aprendizaje
+aplicaciones web**.<br/>Me enfoco en crear **soluciones eficientes** y sostener un **aprendizaje
 continuo**.
 
 <div align="left">
