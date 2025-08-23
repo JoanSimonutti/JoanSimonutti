@@ -2,12 +2,9 @@
 
 Soy **desarrollador full stack** con experiencia en el **diseño, desarrollo y mantenimiento de
 aplicaciones web**. Me enfoco en crear **soluciones eficientes** y sostener un **aprendizaje
-continuo**. Trabajo con **metodologías ágiles**, aplico **buenas prácticas** y utilizo **IA** para
-optimizar procesos.
+continuo**.
 
----
-
-<div align="right">
+<div align="left">
 
 💬 **Siempre estoy dispuesto a compartir ideas o explorar nuevos proyectos.**  
 📩 **Conectemos:** [LinkedIn](https://www.linkedin.com/in/joansimonutti/) · **joansimonutticode@gmail.com**
@@ -19,6 +16,15 @@ optimizar procesos.
 <!-- 🌌 Joan Simonutti's GitHub README 👋 👾 🖖  ••••••••••••••••••••••   asdsadsadsdadsadaddasdsdsadadaddaasdsdadd
 sadsaddsadsadawdwadawdawdaasdsadsadsadsadsadasdsadasddasdsaddadsdsadsdsddawdwadwadwadwaddsadsadasdadsdadasdasdsaddsadsadsaddsdasadsad
 sadsadasdadsadda
+
+# Hola! Soy Joan 👋 
+
+Soy **desarrollador full stack** con experiencia en el **diseño, desarrollo y mantenimiento de
+aplicaciones web**. Me enfoco en crear **soluciones eficientes** y sostener un **aprendizaje
+continuo**. Trabajo con **metodologías ágiles**, aplico **buenas prácticas** y utilizo **IA** para
+optimizar procesos.
+
+
 # 👾 Hi! I'm Joan Simonutti
 
 I’m a passionate **Full Stack Developer** with strong experience in building scalable, secure, and user-friendly web applications.  
