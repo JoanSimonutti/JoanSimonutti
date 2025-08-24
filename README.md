@@ -1,14 +1,12 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:004e92,50:00a896,100:00f5d4&height=150&section=header&text=Hi,%20I'm%20Joan!&fontSize=45&fontColor=FFFFFF&fontAlignY=35&animation=scaleIn)
 ### Glad to see you here! 
-I am a **Full Stack Developer** who turned my passion for programming into a full-time career.  
-Although I work across the entire stack, my main strength lies in the **backend**, where I focus on building **fast, secure, and scalable solutions**.  
+I am a full stack developer who turned his passion for programming into a full-time career.
+While I work across the entire stack, my main strength is in the backend, where I focus on building fast, secure, and scalable solutions.
 
-My core technologies are **JavaScript (ES6+), TypeScript, React.js, Node.js, Express, and MongoDB**.  
-I also have experience with **Python (Flask)**, **.NET (C#/VB.NET)**, **Java**, **SQL Server**, and **MySQL**.  
+My core technologies are JavaScript (ES6+), TypeScript, React.js, Node.js, Express, and MongoDB.
+I also have experience with Python (Flask), .NET (C#/VB.NET), Java, SQL Server, and MySQL.
 
-I follow best practices in **architecture, testing, and security**, including **MVC, validation with Zod, JWT authentication with refresh tokens, and CI/CD with GitHub Actions**.  
-I have also deployed multiple projects on **Vercel** and **Render**, ensuring **quality, scalability, and performance** in every solution I deliver.  
-
+I apply best practices in architecture, testing, and security, including MVC, validation with Zod, JWT authentication with refresh tokens, and CI/CD with GitHub Actions. I also have experience with deployments on Vercel and Render, ensuring quality, scalability, and performance in every project.
 ---
 
 <div align="center">
