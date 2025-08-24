@@ -1,10 +1,12 @@
-# Hola! Soy Joan 👋 
+### 👋 ¡Encantado de verte por aquí!
 
-Soy **desarrollador full stack** con experiencia en el **diseño, desarrollo y mantenimiento de
-aplicaciones web**.<br/>Me enfoco en crear **soluciones eficientes** y sostener un **aprendizaje
-continuo**.
+Soy **desarrollador full stack**, he transformado mi pasión en una carrera a tiempo completo.  
+Me enfoco en la **optimización y la usabilidad**, creando soluciones rápidas y ligeras en tiempos de carga, sin sacrificar el aspecto visual.  
 
-<div align="left">
+Trabajo con **JavaScript (ES6+), TypeScript, React.js, Node.js, Express y MongoDB**, además tengo experiencia en **Python (Flask)**, **.NET (C#/VB.NET)**, **Java**, **SQL Server** y **MySQL**. También aplico buenas prácticas como **MVC, validación con Zod, autenticación con JWT y refresh tokens, CI/CD con GitHub Actions** y despliegues en **Vercel** y **Render**.  
+
+
+<div align="center">
 
 💬 **Siempre estoy dispuesto a compartir ideas o explorar nuevos proyectos.**  
 📩 **Conectemos:** [LinkedIn](https://www.linkedin.com/in/joansimonutti/) · **joansimonutticode@gmail.com**
