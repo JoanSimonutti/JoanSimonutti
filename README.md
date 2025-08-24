@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:ff0080,100:00e0ff&height=150&section=header&text=Hola,%20soy%20Joan!&fontSize=45&fontColor=FFFFFF&fontAlignY=35&animation=scaleIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:00e0ff,50:8000ff,100:ff0080&height=150&section=header&text=Hola,%20soy%20Joan!&fontSize=45&fontColor=FFFFFF&fontAlignY=35&animation=scaleIn)
 
 ### ¡Encantado de verte por aquí!
 Soy **desarrollador full stack**, he transformado mi pasión en una carrera a tiempo completo.  
@@ -23,8 +23,7 @@ Trabajo con **JavaScript (ES6+), TypeScript, React.js, Node.js, Express y MongoD
 
 </div>
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:ff0080,100:00e0ff&height=100&section=footer&fontColor=FFFFFF&animation=fadeIn)
-
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:00e0ff,50:8000ff,100:ff0080&height=100&section=footer&fontColor=FFFFFF&animation=fadeIn)
 
 
 <!-- 🌌 Joan Simonutti's GitHub README 👋 👾 🖖  ••••••••••••••••••••••   asdsadsadsdadsadaddasdsdsadadaddaasdsdadddsadsadaddsdadsadssadsasad
