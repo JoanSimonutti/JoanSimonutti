@@ -1,3 +1,5 @@
+![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=timeGradient&text=Hola,%20soy%20Joan!&fontSize=50&fontColor=fabd2f&fontAlignY=35&animation=fadeIn&desc=Full%20Stack%20Developer%20|%20Web%20y%20Juegos&descSize=20&descAlignY=65)
+
 ### ¡Encantado de verte por aquí!
 
 Soy **desarrollador full stack**, he transformado mi pasión en una carrera a tiempo completo.  
@@ -13,6 +15,8 @@ Trabajo con **JavaScript (ES6+), TypeScript, React.js, Node.js, Express y MongoD
 📩 **Conectemos:** [LinkedIn](https://www.linkedin.com/in/joansimonutti/) · **joansimonutticode@gmail.com**
 
 </div>
+
+![footer](https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=timeGradient&fontColor=fabd2f&animation=fadeIn&text=Gracias%20por%20visitar%20mi%20perfil&fontSize=20&fontAlignY=70)
 
 
 
