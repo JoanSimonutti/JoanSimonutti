@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:004e92,50:00a896,100:00f5d4&height=200&section=header&text=Hi,%20I'm%20Joan%20Simonutti%20%F0%9F%91%8B&fontSize=42&fontColor=FFFFFF&fontAlignY=30&animation=scaleIn&desc=Backend%20Specialist%20%E2%80%A2%20Building%20Secure%20%26%20Scalable%20Solutions&descAlignY=55&descSize=18)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:004e92,50:00a896,100:00f5d4&height=160&section=header&text=Hi,%20I'm%20Joan%20Simonutti%20%F0%9F%91%8B&fontSize=50&fontColor=FFFFFF&fontAlignY=35&animation=scaleIn)
 
 
 ### Glad to see you here! 
