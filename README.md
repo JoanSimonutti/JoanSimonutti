@@ -11,11 +11,9 @@ Aplico buenas prácticas de arquitectura y seguridad como **MVC, validación con
 
 ---
 
-<div align="left">
+<div align="center">
 
 💬 **Abierto a colaborar y compartir ideas en nuevos proyectos.**  
-
-📩 **Conectemos:**  
 
 <a href="https://www.linkedin.com/in/joansimonutti/" target="_blank">
 <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
