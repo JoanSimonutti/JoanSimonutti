@@ -17,11 +17,7 @@ I apply best practices in architecture, testing, and security, including MVC, va
 
 <a href="https://www.linkedin.com/in/joansimonutti/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>&nbsp;&nbsp;
-<a href="mailto:joansimonutticode@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/Gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
 </a>
-
 </div>
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:004e92,50:00a896,100:00f5d4&height=100&section=footer&fontColor=FFFFFF&animation=fadeIn)
