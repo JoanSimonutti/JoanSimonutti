@@ -1,3 +1,66 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:00e0ff,50:8000ff,100:ff0080&height=150&section=header&text=Hi,%20I'm%20Joan!&fontSize=45&fontColor=FFFFFF&fontAlignY=35&animation=scaleIn)
+
+### Glad to see you here!  
+I am a **Full Stack Developer**, having turned my passion into a full-time career.  
+I specialize in **optimization and usability**, building fast and efficient solutions without compromising user experience or design.  
+
+My main technologies are **JavaScript (ES6+), TypeScript, React.js, Node.js, Express, and MongoDB**.  
+I also have experience with **Python (Flask)**, **.NET (C#/VB.NET)**, **Java**, **SQL Server**, and **MySQL**.  
+
+I apply best practices in architecture and security such as **MVC, validation with Zod, authentication with JWT and refresh tokens, CI/CD with GitHub Actions**, and deployments on **Vercel** and **Render**.  
+
+---
+
+<div align="center">
+
+💬 **Always open to collaborating and exploring new projects.**  
+
+<a href="https://www.linkedin.com/in/joansimonutti/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>&nbsp;&nbsp;
+<a href="mailto:joansimonutticode@gmail.com" target="_blank">
+<img src="https://img.shields.io/badge/Gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+</a>
+
+</div>
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:00e0ff,50:8000ff,100:ff0080&height=120&section=footer&fontColor=FFFFFF&animation=fadeIn)
+
+
+<!-- 
+
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:00e0ff,50:8000ff,100:ff0080&height=150&section=header&text=Hi,%20I'm%20Joan!&fontSize=45&fontColor=FFFFFF&fontAlignY=35&animation=scaleIn)
+
+### Glad to see you here!  
+I am a **Full Stack Developer**, having turned my passion into a full-time career.  
+I specialize in **optimization and usability**, building fast and efficient solutions without compromising user experience or design.  
+
+My main technologies are **JavaScript (ES6+), TypeScript, React.js, Node.js, Express, and MongoDB**.  
+I also have experience with **Python (Flask)**, **.NET (C#/VB.NET)**, **Java**, **SQL Server**, and **MySQL**.  
+
+I apply best practices in architecture and security such as **MVC, validation with Zod, authentication with JWT and refresh tokens, CI/CD with GitHub Actions**, and deployments on **Vercel** and **Render**.  
+
+---
+
+<div align="center">
+
+💬 **Always open to collaborating and exploring new projects.**  
+
+<a href="https://www.linkedin.com/in/joansimonutti/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>&nbsp;&nbsp;
+<a href="mailto:joansimonutticode@gmail.com" target="_blank">
+<img src="https://img.shields.io/badge/Gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+</a>
+
+</div>
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:00e0ff,50:8000ff,100:ff0080&height=120&section=footer&fontColor=FFFFFF&animation=fadeIn)
+
+
+
+
+
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:00e0ff,50:8000ff,100:ff0080&height=150&section=header&text=Hola,%20soy%20Joan!&fontSize=45&fontColor=FFFFFF&fontAlignY=35&animation=scaleIn)
 
 ### ¡Encantado de verte por aquí!
@@ -28,7 +91,12 @@ Aplico buenas prácticas de arquitectura y seguridad como **MVC, validación con
 
 
 
-<!-- 🌌 Joan Simonutti's GitHub README 👋 👾 🖖  ••••••••••••••••••••••   asdsadsadsdadsadaddasdsdsadadaddaasdsdadddsadsadaddsdadsadssadsasad
+
+
+
+
+
+🌌 Joan Simonutti's GitHub README 👋 👾 🖖  ••••••••••••••••••••••   asdsadsadsdadsadaddasdsdsadadaddaasdsdadddsadsadaddsdadsadssadsasad
 sadsaddsadsadawdwadawdawdaasdsadsadsadsadsadasdsadasddasdsaddadsdsadsdsddawdwadwadwadwaddsadsadasdadsdadasdasdsaddsadsadsaddsdasadsad
 sadsadasdadsadda
 
