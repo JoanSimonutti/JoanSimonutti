@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=Hola,%20soy%20Joan!&fontSize=50&fontColor=FFFFFF&fontAlignY=35&animation=scaleIn&desc=Full%20Stack%20Developer%20|%20Web%20y%20Juegos&descSize=20&descAlignY=55&descAlign=50)
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=Hola,%20soy%20Joan!&fontSize=50&fontColor=FFFFFF&fontAlignY=35&animation=scaleIn&desc=Full%20Stack%20Developer&descSize=20&descAlignY=55&descAlign=50)
 
 <a href="https://www.linkedin.com/in/joansimonutti/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
