@@ -6,9 +6,12 @@ Me enfoco en la **optimización y la usabilidad**, creando soluciones rápidas y
 
 Trabajo con **JavaScript (ES6+), TypeScript, React.js, Node.js, Express y MongoDB**, además tengo experiencia en **Python (Flask)**, **.NET (C#/VB.NET)**, **Java**, **SQL Server** y **MySQL**. También aplico buenas prácticas como **MVC, validación con Zod, autenticación con JWT y refresh tokens, CI/CD con GitHub Actions** y despliegues en **Vercel** y **Render**.  
 
+---
+
 <div align="left">
 
 💬 **Siempre estoy dispuesto a compartir ideas o explorar nuevos proyectos.**  
+
 📩 **Conectemos:**  
 <a href="https://www.linkedin.com/in/joansimonutti/" target="_blank">
 <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
