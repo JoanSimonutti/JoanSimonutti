@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:004e92,50:00a896,100:00f5d4&height=200&section=header&text=Hi,%20I'm%20Joan%20Simonutti%20%F0%9F%91%8B&fontSize=50&fontColor=FFFFFF&fontAlignY=35&animation=scaleIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:004e92,50:00a896,100:00f5d4&height=160&section=header&text=Hi,%20I'm%20Joan%20Simonutti%20%F0%9F%91%8B&fontSize=50&fontColor=FFFFFF&fontAlignY=35&animation=scaleIn)
 
 ### Glad to see you here! 
 I am a full stack developer who turned his passion for programming into a full-time career.
@@ -24,7 +24,7 @@ I apply best practices in architecture, testing, and security, including MVC, va
 
 </div>
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:004e92,50:00a896,100:00f5d4&height=120&section=footer&fontColor=FFFFFF&animation=fadeIn)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:004e92,50:00a896,100:00f5d4&height=100&section=footer&fontColor=FFFFFF&animation=fadeIn)
 
 <!-- 
 Soy un desarrollador full stack que convirtió su pasión por la programación en una carrera a tiempo completo. Si bien trabajo con todo el stack, mi principal fortaleza reside en el backend, donde me centro en crear soluciones rápidas, seguras y escalables.
