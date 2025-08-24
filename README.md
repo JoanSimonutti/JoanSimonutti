@@ -1,29 +1,25 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=150&section=header&text=Hola,%20soy%20Joan!&fontSize=45&fontColor=FFFFFF&fontAlignY=35&animation=scaleIn)
 
-
 ### ¡Encantado de verte por aquí!
-
 Soy **desarrollador full stack**, he transformado mi pasión en una carrera a tiempo completo.  
 Me enfoco en la **optimización y la usabilidad**, creando soluciones rápidas y ligeras en tiempos de carga, sin sacrificar el aspecto visual.  
 
 Trabajo con **JavaScript (ES6+), TypeScript, React.js, Node.js, Express y MongoDB**, además tengo experiencia en **Python (Flask)**, **.NET (C#/VB.NET)**, **Java**, **SQL Server** y **MySQL**. También aplico buenas prácticas como **MVC, validación con Zod, autenticación con JWT y refresh tokens, CI/CD con GitHub Actions** y despliegues en **Vercel** y **Render**.  
-
----
 
 <div align="center">
 
 💬 **Siempre estoy dispuesto a compartir ideas o explorar nuevos proyectos.**  
 📩 **Conectemos:**  
 <a href="https://www.linkedin.com/in/joansimonutti/" target="_blank">
-<img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" style="margin-bottom: 5px;" />
-</a>  
+<img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
+</a>
 <a href="mailto:joansimonutticode@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" style="margin-bottom: 5px;" />
-</a>  
+<img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" />
+</a>
 
 </div>
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=70&section=footer&fontColor=FFFFFF&animation=fadeIn)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=90&section=footer&fontColor=FFFFFF&animation=fadeIn)
 
 
 
