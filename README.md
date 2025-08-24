@@ -6,7 +6,7 @@ While I work across the entire stack, my main strength is in the backend, where 
 My core technologies are JavaScript (ES6+), TypeScript, React.js, Node.js, Express, and MongoDB.
 I also have experience with Python (Flask), .NET (C#/VB.NET), Java, SQL Server, and MySQL.
 
-I apply best practices in architecture, testing, and security, including MVC, validation with Zod, JWT authentication with refresh tokens, and CI/CD with GitHub Actions. I also have experience with deployments on Vercel and Render, ensuring quality, scalability, and performance in every project.
+I apply best practices in architecture, testing, and security, including MVC, validation with Zod, JWT authentication with refresh tokens, and CI/CD with GitHub Actions, among other modern development practices.
 
 ---
 
