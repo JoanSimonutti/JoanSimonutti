@@ -20,7 +20,8 @@ I apply best practices in architecture, testing, and security, including MVC, va
 </a>
 </div>
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:004e92,50:00a896,100:00f5d4&height=120&section=footer&text=%F0%9F%9A%80%20Always%20learning,%20always%20building.%20Feel%20free%20to%20connect%20and%20collaborate!&fontSize=16&fontColor=FFFFFF&fontAlign=50&fontAlignY=70&animation=fadeIn)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:004e92,50:00a896,100:00f5d4&height=120&section=footer&text=Always%20learning,%20always%20building.%20Feel%20free%20to%20connect%20and%20collaborate!&fontSize=16&fontColor=FFFFFF&fontAlign=50&fontAlignY=70&animation=fadeIn)
+
 
 <!-- 
 
