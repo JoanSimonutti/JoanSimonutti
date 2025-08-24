@@ -1,10 +1,13 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:00e0ff,50:8000ff,100:ff0080&height=150&section=header&text=Hola,%20soy%20Joan!&fontSize=45&fontColor=FFFFFF&fontAlignY=35&animation=scaleIn)
 
 ### ¡Encantado de verte por aquí!
-Soy **desarrollador full stack**, he transformado mi pasión en una carrera a tiempo completo.  
-Me enfoco en la **optimización y la usabilidad**, creando soluciones rápidas y ligeras en tiempos de carga, sin sacrificar el aspecto visual.  
+Soy **desarrollador full stack**, he convertido mi pasión en una carrera a tiempo completo.  
+Me especializo en la **optimización y la usabilidad**, desarrollando soluciones rápidas y eficientes sin comprometer la experiencia visual.  
 
-Trabajo con **JavaScript (ES6+), TypeScript, React.js, Node.js, Express y MongoDB**, además tengo experiencia en **Python (Flask)**, **.NET (C#/VB.NET)**, **Java**, **SQL Server** y **MySQL**. También aplico buenas prácticas como **MVC, validación con Zod, autenticación con JWT y refresh tokens, CI/CD con GitHub Actions** y despliegues en **Vercel** y **Render**.  
+Mis principales tecnologías son **JavaScript (ES6+), TypeScript, React.js, Node.js, Express y MongoDB**.  
+Cuento además con experiencia en **Python (Flask)**, **.NET (C#/VB.NET)**, **Java**, **SQL Server** y **MySQL**.  
+
+Aplico buenas prácticas de arquitectura y seguridad como **MVC, validación con Zod, autenticación JWT con refresh tokens, CI/CD con GitHub Actions** y despliegues en **Vercel** y **Render**.  
 
 ---
 
