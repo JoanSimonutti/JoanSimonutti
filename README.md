@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:282828,50:fabd2f,100:fe8019&height=150&section=header&text=Hi,%20I'm%20Joan!&fontSize=45&fontColor=FFFFFF&fontAlignY=35&animation=scaleIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:004e92,50:00a896,100:00f5d4&height=150&section=header&text=Hi,%20I'm%20Joan!&fontSize=45&fontColor=FFFFFF&fontAlignY=35&animation=scaleIn)
 ### Glad to see you here!  
 I am a **Full Stack Developer**, having turned my passion into a full-time career.  
 While I handle the full stack, my main strength is the **backend**, where I focus on building **fast, secure, and scalable solutions**.  
@@ -23,7 +23,8 @@ I apply best practices in architecture and security such as **MVC, validation wi
 
 </div>
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:282828,50:fabd2f,100:fe8019&height=120&section=footer&fontColor=FFFFFF&animation=fadeIn)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:004e92,50:00a896,100:00f5d4&height=120&section=footer&fontColor=FFFFFF&animation=fadeIn)
+
 
 
 <!-- 
@@ -32,9 +33,20 @@ I apply best practices in architecture and security such as **MVC, validation wi
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:282828,50:fabd2f,100:fe8019&height=150&section=header&text=Hi,%20I'm%20Joan!&fontSize=45&fontColor=FFFFFF&fontAlignY=35&animation=scaleIn)
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:282828,50:fabd2f,100:fe8019&height=120&section=footer&fontColor=FFFFFF&animation=fadeIn)
 
-2-el original "gta6" que tenia en un principio
+2-El original "gta6" que tenia en un principio
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:00e0ff,50:8000ff,100:ff0080&height=150&section=header&text=Hi,%20I'm%20Joan!&fontSize=45&fontColor=FFFFFF&fontAlignY=35&animation=scaleIn)
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:00e0ff,50:8000ff,100:ff0080&height=120&section=footer&fontColor=FFFFFF&animation=fadeIn)
+
+3-Ocean Breeze (Azul → Verde → Cian)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:004e92,50:00a896,100:00f5d4&height=150&section=header&text=Hi,%20I'm%20Joan!&fontSize=45&fontColor=FFFFFF&fontAlignY=35&animation=scaleIn)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:004e92,50:00a896,100:00f5d4&height=120&section=footer&fontColor=FFFFFF&animation=fadeIn)
+
+
+
+
+
+
+
 
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:00e0ff,50:8000ff,100:ff0080&height=150&section=header&text=Hi,%20I'm%20Joan!&fontSize=45&fontColor=FFFFFF&fontAlignY=35&animation=scaleIn)
