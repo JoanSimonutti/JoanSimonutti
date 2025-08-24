@@ -1,11 +1,7 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=Hola,%20soy%20Joan!&fontSize=50&fontColor=FFFFFF&fontAlignY=35&animation=scaleIn&desc=Full%20Stack%20Developer&descSize=20&descAlignY=55&descAlign=50)
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=Hola,%20soy%20Joan!&fontSize=50&fontColor=FFFFFF&fontAlignY=35&animation=scaleIn)
 
-<a href="https://www.linkedin.com/in/joansimonutti/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="mailto:joansimonutticode@gmail.com" target="_blank">
-<img src=https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white alt=gmail style="margin-bottom: 5px;" />
-</a>  
+
+
 
 ### ¡Encantado de verte por aquí!
 
@@ -19,11 +15,15 @@ Trabajo con **JavaScript (ES6+), TypeScript, React.js, Node.js, Express y MongoD
 <div align="center">
 
 💬 **Siempre estoy dispuesto a compartir ideas o explorar nuevos proyectos.**  
-📩 **Conectemos:** [LinkedIn](https://www.linkedin.com/in/joansimonutti/) · **joansimonutticode@gmail.com**
+📩 **Conectemos:** <a href="https://www.linkedin.com/in/joansimonutti/" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a> · <a href="mailto:joansimonutticode@gmail.com" target="_blank">
+<img src=https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white alt=gmail style="margin-bottom: 5px;" />
+</a>  
 
 </div>
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=100&section=footer&fontColor=FFFFFF&animation=fadeIn&text=Gracias%20por%20visitar%20mi%20perfil&fontSize=20&fontAlignY=70)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=100&section=footer&fontColor=FFFFFF&animation=fadeIn)
 
 
 
