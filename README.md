@@ -1,6 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=Hola,%20soy%20Joan!&fontSize=50&fontColor=FFFFFF&fontAlignY=35&animation=scaleIn)
-
-
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=150&section=header&text=Hola,%20soy%20Joan!&fontSize=45&fontColor=FFFFFF&fontAlignY=35&animation=scaleIn)
 
 
 ### ¡Encantado de verte por aquí!
@@ -15,15 +13,17 @@ Trabajo con **JavaScript (ES6+), TypeScript, React.js, Node.js, Express y MongoD
 <div align="center">
 
 💬 **Siempre estoy dispuesto a compartir ideas o explorar nuevos proyectos.**  
-📩 **Conectemos:** <a href="https://www.linkedin.com/in/joansimonutti/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a> · <a href="mailto:joansimonutticode@gmail.com" target="_blank">
-<img src=https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white alt=gmail style="margin-bottom: 5px;" />
+📩 **Conectemos:**  
+<a href="https://www.linkedin.com/in/joansimonutti/" target="_blank">
+<img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" style="margin-bottom: 5px;" />
+</a>  
+<a href="mailto:joansimonutticode@gmail.com" target="_blank">
+<img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" style="margin-bottom: 5px;" />
 </a>  
 
 </div>
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=100&section=footer&fontColor=FFFFFF&animation=fadeIn)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=70&section=footer&fontColor=FFFFFF&animation=fadeIn)
 
 
 
