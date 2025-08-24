@@ -13,7 +13,7 @@ I apply best practices in architecture, testing, and security, including MVC, va
 
 <div align="center">
 
-💬 **Open to collaborations — let’s connect!**  
+💬 **Open to collaborations, let’s connect!**  
 
 <a href="https://www.linkedin.com/in/joansimonutti/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
