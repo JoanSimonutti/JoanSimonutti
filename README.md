@@ -1,5 +1,4 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:00e0ff,50:8000ff,100:ff0080&height=150&section=header&text=Hi,%20I'm%20Joan!&fontSize=45&fontColor=FFFFFF&fontAlignY=35&animation=scaleIn)
-
 ### Glad to see you here!  
 I am a **Full Stack Developer**, having turned my passion into a full-time career.  
 I specialize in **optimization and usability**, building fast and efficient solutions without compromising user experience or design.  
