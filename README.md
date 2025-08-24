@@ -63,13 +63,13 @@ I apply best practices in architecture and security such as **MVC, validation wi
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:00e0ff,50:8000ff,100:ff0080&height=150&section=header&text=Hola,%20soy%20Joan!&fontSize=45&fontColor=FFFFFF&fontAlignY=35&animation=scaleIn)
 
 ### ¡Encantado de verte por aquí!
-Soy **Full Stack Developer**, he convertido mi pasión en una carrera a tiempo completo.  
-Me especializo en la **optimización y la usabilidad**, desarrollando soluciones rápidas y eficientes sin comprometer la experiencia visual.  
+Soy **full stack developer**, he convertido mi pasión en una carrera a tiempo completo.  
+Aunque domino el stack completo, mi verdadera fortaleza está en el **backend**, donde me enfoco en crear **soluciones rápidas, seguras y escalables**.  
 
 Mis principales tecnologías son **JavaScript (ES6+), TypeScript, React.js, Node.js, Express y MongoDB**.  
-Cuento además con experiencia en **Python (Flask)**, **.NET (C#/VB.NET)**, **Java**, **SQL Server** y **MySQL**.  
+También tengo experiencia en **Python (Flask)**, **.NET (C#/VB.NET)**, **Java**, **SQL Server** y **MySQL**.  
 
-Aplico buenas prácticas de arquitectura y seguridad como **MVC, validación con Zod, autenticación JWT con refresh tokens, CI/CD con GitHub Actions** y despliegues en **Vercel** y **Render**.  
+Aplico buenas prácticas de arquitectura y seguridad como **MVC, validación con Zod, autenticación con JWT y refresh tokens, CI/CD con GitHub Actions** y despliegues en **Vercel** y **Render**.  
 
 ---
 
