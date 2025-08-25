@@ -25,14 +25,6 @@ I apply best practices in architecture, testing, and security, including MVC, va
 
 
 <!-- 
-
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:004e92,50:00a896,100:00f5d4&height=100&section=footer&fontColor=FFFFFF&animation=fadeIn)
-
-Soy un desarrollador full stack que convirtió su pasión por la programación en una carrera a tiempo completo. Si bien trabajo con todo el stack, mi principal fortaleza reside en el backend, donde me centro en crear soluciones rápidas, seguras y escalables.
-
-Mis tecnologías principales son JavaScript (ES6+), TypeScript, React.js, Node.js, Express y MongoDB. También tengo experiencia con Python (Flask), .NET (C#/VB.NET), Java, SQL Server y MySQL.
-
-Aplico las mejores prácticas de arquitectura, testing y seguridad, incluyendo MVC, validación con Zod, autenticación JWT con tokens de actualización y CI/CD con GitHub Actions, entre otras prácticas de desarrollo modernas.
-
+sadfdsafaffasf
 -->
 <!-- Este es un comentario en Markdown -->
