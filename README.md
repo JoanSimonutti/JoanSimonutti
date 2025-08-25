@@ -25,6 +25,5 @@ I apply best practices in architecture, testing, and security, including MVC, va
 
 
 <!-- 
-sadfdsafaffasf
+
 -->
-<!-- Este es un comentario en Markdown -->
