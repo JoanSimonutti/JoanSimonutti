@@ -5,7 +5,7 @@ I am a full stack developer who turned his passion for programming into a full-t
 While I work across the entire stack, my main strength is in the backend, where I focus on building fast, secure, and scalable solutions.
 
 My core technologies are JavaScript (ES6+), TypeScript, React.js, Node.js, Express, and MongoDB.
-I also have experience with Python (Flask), .NET (C#/VB.NET), Java, SQL Server, and MySQL.
+I also have experience with Python (Flask), .NET (C#, VB.NET), SQL Server and MySQL.
 
 I apply best practices in architecture, testing, and security, including MVC, validation with Zod, JWT authentication with refresh tokens, and CI/CD with GitHub Actions, among other modern development practices.
 
