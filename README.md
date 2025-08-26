@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:004e92,50:00a896,100:00f5d4&height=160&section=header&text=Hi,%20I'm%20Joan%20Simonutti%20%F0%9F%91%8B&fontSize=50&fontColor=FFFFFF&fontAlignY=35)
 
 ### Glad to see you here! 
-I'm a full-stack developer who turned his passion for programming into a full-time career. While I work across the entire stack, my main strength lies in the backend, where I focus on creating fast, secure, and scalable solutions.<br/>My core technologies are JavaScript, TypeScript, React.js, Node.js (Express), and MongoDB. I also have experience with Python (Flask), .NET (C#, VB.NET), SQL Server, and MySQL.<br/>I apply best practices in architecture, testing, and security (MVC, Zod, JWT with refresh tokens), including continuous integration and deployment (CI/CD with GitHub Actions).
+I'm a full-stack developer who turned his passion for programming into a full-time career. While I work across the entire stack, my main strength lies in the backend, where I focus on creating fast, secure, and scalable solutions.<br/><br/>My core technologies are JavaScript, TypeScript, React.js, Node.js (Express), and MongoDB. I also have experience with Python (Flask), .NET (C#, VB.NET), SQL Server, and MySQL.<br/><br/>I apply best practices in architecture, testing, and security (MVC, Zod, JWT with refresh tokens), including continuous integration and deployment (CI/CD with GitHub Actions).
 
 ---
 
