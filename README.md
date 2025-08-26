@@ -25,5 +25,5 @@ I apply best practices in architecture, testing, and security, including MVC, va
 
 
 <!-- 
-65465465465465
+
 -->
