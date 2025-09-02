@@ -17,6 +17,52 @@ Aplico buenas prácticas de arquitectura, testing y seguridad (**MVC, Zod, JWT c
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:004e92,50:00a896,100:00f5d4&height=120&section=footer&text=Siempre%20aprendiendo,%20siempre%20creando.%20Conecta%20y%20colabora%20conmigo!&fontSize=16&fontColor=FFFFFF&fontAlign=50&fontAlignY=70)
 
+---
+
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:003087,50:6A0DAD,100:FF61A6&height=160&section=header&text=Hola,%20soy%20Joan%20Simonutti%20%F0%9F%91%8B&fontSize=50&fontColor=FFFFFF&fontAlignY=35)
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:003087,50:6A0DAD,100:FF61A6&height=120&section=footer&text=Siempre%20aprendiendo,%20siempre%20creando.%20Conecta%20y%20colabora%20conmigo!&fontSize=16&fontColor=FFFFFF&fontAlign=50&fontAlignY=70)
+
+---
+
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:ff0080,50:7928ca,100:2dd4bf&height=160&section=header&text=Hola,%20soy%20Joan%20Simonutti%20%F0%9F%91%8B&fontSize=50&fontColor=FFFFFF&fontAlignY=35)
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:ff0080,50:7928ca,100:2dd4bf&height=120&section=footer&text=Siempre%20aprendiendo,%20siempre%20creando.%20Conecta%20y%20colabora%20conmigo!&fontSize=16&fontColor=FFFFFF&fontAlign=50&fontAlignY=70)
+
+---
+
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:2c3e50,50:4b5320,100:95a472&height=160&section=header&text=Hola,%20soy%20Joan%20Simonutti%20%F0%9F%91%8B&fontSize=50&fontColor=FFFFFF&fontAlignY=35)
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:2c3e50,50:4b5320,100:95a472&height=120&section=footer&text=Siempre%20aprendiendo,%20siempre%20creando.%20Conecta%20y%20colabora%20conmigo!&fontSize=16&fontColor=FFFFFF&fontAlign=50&fontAlignY=70)
+
+---
+
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:c2b280,50:8B5E3C,100:003f5c&height=160&section=header&text=Hola,%20soy%20Joan%20Simonutti%20%F0%9F%91%8B&fontSize=50&fontColor=FFFFFF&fontAlignY=35)
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:c2b280,50:8B5E3C,100:003f5c&height=120&section=footer&text=Siempre%20aprendiendo,%20siempre%20creando.%20Conecta%20y%20colabora%20conmigo!&fontSize=16&fontColor=FFFFFF&fontAlign=50&fontAlignY=70)
+
+---
+
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:434343,50:999999,100:eeeeee&height=160&section=header&text=Hola,%20soy%20Joan%20Simonutti%20%F0%9F%91%8B&fontSize=50&fontColor=FFFFFF&fontAlignY=35)
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:434343,50:999999,100:eeeeee&height=120&section=footer&text=Siempre%20aprendiendo,%20siempre%20creando.%20Conecta%20y%20colabora%20conmigo!&fontSize=16&fontColor=FFFFFF&fontAlign=50&fontAlignY=70)
+
+---
+
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:666666,100:FFFFFF&height=160&section=header&text=Hola,%20soy%20Joan%20Simonutti%20%F0%9F%91%8B&fontSize=50&fontColor=FFFFFF&fontAlignY=35)
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:666666,100:FFFFFF&height=120&section=footer&text=Siempre%20aprendiendo,%20siempre%20creando.%20Conecta%20y%20colabora%20conmigo!&fontSize=16&fontColor=FFFFFF&fontAlign=50&fontAlignY=70)
+
+---
+
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,50:7ee8fa,100:e0f7fa&height=160&section=header&text=Hola,%20soy%20Joan%20Simonutti%20%F0%9F%91%8B&fontSize=50&fontColor=FFFFFF&fontAlignY=35)
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,50:7ee8fa,100:e0f7fa&height=120&section=footer&text=Siempre%20aprendiendo,%20siempre%20creando.%20Conecta%20y%20colabora%20conmigo!&fontSize=16&fontColor=FFFFFF&fontAlign=50&fontAlignY=70)
+
+---
+
+
+
 
 <!--
 
