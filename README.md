@@ -6,6 +6,7 @@ Soy desarrollador **full-stack**, transformé mi pasión por la programación en
 Mis tecnologías principales son **JavaScript, TypeScript, React.js, Node.js (Express)** y **MongoDB**. También tengo experiencia con **Python (Flask)**, **.NET (C#, VB.NET)**, **SQL Server** y **MySQL**.<br/><br/>
 Aplico buenas prácticas de arquitectura, testing y seguridad (**MVC, Zod, JWT con refresh tokens**), además de integración y despliegue continuo (**CI/CD con GitHub Actions**).
 
+
 <div align="center">
 
 💬 **Abierto a colaboraciones, conectemos!**  
