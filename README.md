@@ -19,6 +19,7 @@ Aplico buenas prácticas de arquitectura, testing y seguridad (**MVC, Zod, JWT c
 
 
 <!--
+asdsadadsadadsadsad
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:004e92,50:00a896,100:00f5d4&height=160&section=header&text=Hi,%20I'm%20Joan%20Simonutti%20%F0%9F%91%8B&fontSize=50&fontColor=FFFFFF&fontAlignY=35)
 
@@ -37,5 +38,6 @@ I'm a full-stack developer who turned his passion for programming into a full-ti
 </div>
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:004e92,50:00a896,100:00f5d4&height=120&section=footer&text=Always%20learning,%20always%20building.%20Feel%20free%20to%20connect%20and%20collaborate!&fontSize=16&fontColor=FFFFFF&fontAlign=50&fontAlignY=70)
+
 
 -->
