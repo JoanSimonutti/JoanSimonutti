@@ -2,6 +2,7 @@
 
 <!--![header](https://capsule-render.vercel.app/api?type=waving&color=0:004e92,50:00a896,100:00f5d4&height=160&section=header&text=Hola,%20soy%20Joan%20Simonutti%20%F0%9F%91%8B&fontSize=50&fontColor=FFFFFF&fontAlignY=35)
 -->
+
 ### Encantado de verte por aquí!  
 Soy desarrollador **Full Stack** y transformé mi pasión por la programación en una carrera a tiempo completo. <br/><br/>
 Mis tecnologías principales son **JavaScript, TypeScript, React.js, Node.js (Express)** y **PostgreSQL**. También tengo experiencia con **Python (Flask)**, **MongoDB** y **Docker**.<br/><br/>
