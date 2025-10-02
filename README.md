@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=160&section=header&text=Hola,%20soy%20Joan%20Simonutti%20%F0%9F%91%8B&fontSize=50&fontColor=FFFFFF&fontAlignY=35)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:ff7e5f,50:feb47b,100:ffd194&height=160&section=header&text=Hola,%20soy%20Joan%20Simonutti%20%F0%9F%91%8B&fontSize=50&fontColor=FFFFFF&fontAlignY=35)
 
 <!--![header](https://capsule-render.vercel.app/api?type=waving&color=0:004e92,50:00a896,100:00f5d4&height=160&section=header&text=Hola,%20soy%20Joan%20Simonutti%20%F0%9F%91%8B&fontSize=50&fontColor=FFFFFF&fontAlignY=35)
 -->
@@ -32,7 +32,7 @@ Aplico buenas prácticas de arquitectura, testing y seguridad (**MVC, Zod, JWT c
 <!--![footer](https://capsule-render.vercel.app/api?type=waving&color=0:004e92,50:00a896,100:00f5d4&height=120&section=footer&text=Siempre%20aprendiendo,%20siempre%20creando.%20Conecta%20y%20colabora%20conmigo!&fontSize=16&fontColor=FFFFFF&fontAlign=50&fontAlignY=70)
 -->
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=footer&text=Siempre%20aprendiendo,%20siempre%20creando.%20Conecta%20y%20colabora%20conmigo!&fontSize=16&fontColor=FFFFFF&fontAlign=50&fontAlignY=70)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:ff7e5f,50:feb47b,100:ffd194&height=120&section=footer&text=Siempre%20aprendiendo,%20siempre%20creando.%20Conecta%20y%20colabora%20conmigo!&fontSize=16&fontColor=FFFFFF&fontAlign=50&fontAlignY=70)
 
 
 <!--
