@@ -16,9 +16,9 @@ Aplico buenas prácticas de arquitectura, testing y seguridad (**MVC, Zod, JWT c
 **[TETRIS](https://tetris-javascript-flame.vercel.app/)** | Versión de Tetris desarrollado en JavaScript.  
 - JavaScript + p5.js + Vercel  
 
-**[App Servicios](https://servipro-es.vercel.app/)** | MVP de una aplicación que conecta prestadores de servicios con clientes finales.  
+<!--**[App Servicios](https://servipro-es.vercel.app/)** | MVP de una aplicación que conecta prestadores de servicios con clientes finales.  
 - Frontend: React + Vite + Bootstrap + Vercel | Backend: Node.js + Express + MongoDB Atlas + Render
-
+-->
 ---
 
 <div align="center">
