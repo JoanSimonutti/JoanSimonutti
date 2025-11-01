@@ -36,6 +36,6 @@ Aplico buenas prácticas de arquitectura, testing y seguridad (**MVC, Zod, JWT c
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:00ff87,50:00d9ff,100:0055ff&height=120&section=footer&text=Siempre%20aprendiendo,%20siempre%20creando.%20Conecta%20y%20colabora%20conmigo!&fontSize=16&fontColor=FFFFFF&fontAlign=50&fontAlignY=70)
 
 
-<!--
+<!--sadsadd
 
 -->
