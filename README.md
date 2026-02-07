@@ -17,7 +17,7 @@ I focus on building reliable and maintainable systems, applying best practices i
 **[Star Wars Blog](https://star-wars-blog-navy.vercel.app/)**  
 A themed blog built with **React**, using **Context API** for global state management and client-side routing, and deployed on **Vercel**.
 
-**[Tetris](https://tetris-javascript-flame.vercel.app/)**  
+**[TETRIS](https://tetris-javascript-flame.vercel.app/)**  
 A classic Tetris game developed in **JavaScript** as a learning and experimentation project, focused on graphics rendering and game logic.
 
 It uses **p5.js** for canvas-based rendering, handling piece drawing, collision detection, and real-time user input, and is deployed on **Vercel**.
@@ -29,14 +29,15 @@ It uses **p5.js** for canvas-based rendering, handling piece drawing, collision 
 
 <div align="center">
 
-💬 **Abierto a colaboraciones, conectemos!**  
-
+💬 💬 **Open to collaborations — let’s connect!**
+ 
+<!--!
 <a href="https://www.linkedin.com/in/joansimonutti/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 </div>
 
-<!--![footer](https://capsule-render.vercel.app/api?type=waving&color=0:004e92,50:00a896,100:00f5d4&height=120&section=footer&text=Siempre%20aprendiendo,%20siempre%20creando.%20Conecta%20y%20colabora%20conmigo!&fontSize=16&fontColor=FFFFFF&fontAlign=50&fontAlignY=70)
+[footer](https://capsule-render.vercel.app/api?type=waving&color=0:004e92,50:00a896,100:00f5d4&height=120&section=footer&text=Siempre%20aprendiendo,%20siempre%20creando.%20Conecta%20y%20colabora%20conmigo!&fontSize=16&fontColor=FFFFFF&fontAlign=50&fontAlignY=70)
 -->
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:00ff87,50:00d9ff,100:0055ff&height=120&section=footer&text=Siempre%20aprendiendo,%20siempre%20creando.%20Conecta%20y%20colabora%20conmigo!&fontSize=16&fontColor=FFFFFF&fontAlign=50&fontAlignY=70)
