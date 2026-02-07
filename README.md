@@ -6,7 +6,8 @@
 -->
 
 ### Nice to see you here! 
-I’m a **Full Stack Developer** looking for opportunities to take the next step in my career and work full-time as a software developer. <br/><br/>
+I’m a **Full Stack Developer** looking for opportunities to take the next step in my career and work full-time as a software developer.
+
 I mainly work with **JavaScript and TypeScript**, building web applications with **React / Next.js** on the frontend and **Node.js (Express)** on the backend, using **PostgreSQL** as the main database.
 
 I focus on building reliable and maintainable systems, applying best practices in API design, data validation, caching, and security (**MVC, schema validation, JWT authentication**), along with **CI/CD pipelines using GitHub Actions** and containerized environments with **Docker**.
