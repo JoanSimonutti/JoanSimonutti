@@ -27,7 +27,13 @@ It uses **p5.js** for canvas-based rendering, handling piece drawing, collision 
 -->
 ---
 
-<div align="center"> 💬 **Open to collaborations — let’s connect!** 📧 **Email:** <a href="mailto:joansimonuttinz@gmail.com">joansimonuttinz@gmail.com</a> </div>
+<div align="center"> 
+ 
+ 💬 **Open to collaborations — let’s connect!** 
+ 
+ 📧 **Email:** <a href="mailto:joansimonuttinz@gmail.com">joansimonuttinz@gmail.com</a> 
+ 
+ </div>
  
 <!--!
 <a href="https://www.linkedin.com/in/joansimonutti/" target="_blank">
