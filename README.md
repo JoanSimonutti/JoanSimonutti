@@ -29,7 +29,7 @@ It uses **p5.js** for canvas-based rendering, handling piece drawing, collision 
 
 <div align="center">
 
-💬 **Open to collaborations — let’s connect!**
+💬 **Open to collaborations - let’s connect!**
 
 </div>
  
