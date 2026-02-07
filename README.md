@@ -5,8 +5,8 @@
 [header](https://capsule-render.vercel.app/api?type=waving&color=0:004e92,50:00a896,100:00f5d4&height=160&section=header&text=Hola,%20soy%20Joan%20Simonutti%20%F0%9F%91%8B&fontSize=50&fontColor=FFFFFF&fontAlignY=35)
 -->
 
-### Encantado de verte por aquí!  
-Soy desarrollador **Full Stack** y transformé mi pasión por la programación en una carrera a tiempo completo. <br/><br/>
+### Nice to see you here! 
+I’m a **Full Stack Developer** looking for opportunities to take the next step in my career and work full-time as a software developer. <br/><br/>
 Mis tecnologías principales son **JavaScript, TypeScript, React.js, Node.js (Express)** y **PostgreSQL**. También tengo experiencia con **Python (Flask)**, **MongoDB** y **Docker**.<br/><br/>
 Aplico buenas prácticas de arquitectura, testing y seguridad (**MVC, Zod, JWT con refresh tokens**), además de integración y despliegue continuo (**CI/CD con GitHub Actions**).
 
