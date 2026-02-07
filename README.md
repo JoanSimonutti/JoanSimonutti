@@ -44,7 +44,7 @@ It uses **p5.js** for canvas-based rendering, handling piece drawing, collision 
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:00ff87,50:00d9ff,100:0055ff&height=120&section=footer&text=Siempre%20aprendiendo,%20siempre%20creando.%20Conecta%20y%20colabora%20conmigo!&fontSize=16&fontColor=FFFFFF&fontAlign=50&fontAlignY=70)
 -->
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:00ff87,50:00d9ff,100:0055ff&height=120&section=footer&text=Always%20learning.%20Always%20building.&fontSize=16&fontColor=FFFFFF&fontAlign=50&fontAlignY=70)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:00ff87,50:00d9ff,100:0055ff&height=120&section=footer&text=Always%20learning.%20Always%20building.&fontSize=25&fontColor=FFFFFF&fontAlign=50&fontAlignY=70)
 
 
 
