@@ -7,8 +7,9 @@
 
 ### Nice to see you here! 
 I’m a **Full Stack Developer** looking for opportunities to take the next step in my career and work full-time as a software developer. <br/><br/>
-Mis tecnologías principales son **JavaScript, TypeScript, React.js, Node.js (Express)** y **PostgreSQL**. También tengo experiencia con **Python (Flask)**, **MongoDB** y **Docker**.<br/><br/>
-Aplico buenas prácticas de arquitectura, testing y seguridad (**MVC, Zod, JWT con refresh tokens**), además de integración y despliegue continuo (**CI/CD con GitHub Actions**).
+I mainly work with **JavaScript and TypeScript**, building web applications with **React / Next.js** on the frontend and **Node.js (Express)** on the backend, using **PostgreSQL** as the main database.
+
+I focus on building reliable and maintainable systems, applying best practices in API design, data validation, caching, and security (**MVC, schema validation, JWT authentication**), along with **CI/CD pipelines using GitHub Actions** and containerized environments with **Docker**.
 
 ---
 
