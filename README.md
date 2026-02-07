@@ -16,12 +16,13 @@ I focus on building reliable and maintainable systems, applying best practices i
 
 **[Star Wars Blog](https://star-wars-blog-navy.vercel.app/)**  
 A themed blog built to practice client-side routing and global state management.  
-- React · Context API · Deployed on Vercel
+React · Context API · Deployed on Vercel
 
 **[Tetris](https://tetris-javascript-flame.vercel.app/)**  
 A classic Tetris game developed in JavaScript as a learning and experimentation project, focused on graphics rendering and game logic.
+
 It uses **p5.js** for canvas-based rendering, handling piece drawing, collision detection, and real-time user input.
-- JavaScript · p5.js · Deployed on Vercel
+JavaScript · p5.js · Deployed on Vercel
 
 
 <!--**[App Servicios](https://servipro-es.vercel.app/)** | MVP de una aplicación que conecta prestadores de servicios con clientes finales.  
