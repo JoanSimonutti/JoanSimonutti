@@ -30,8 +30,6 @@ A themed blog built with **React**, using **Context API** for global state manag
  
  💬 **Open to collaborations — let’s connect!** 
  
- 📧 **Email:** <a href="mailto:joansimonutti@proton.me">joansimonutti@proton.me</a> 
- 
  </div>
  
 <!--!
@@ -39,6 +37,7 @@ A themed blog built with **React**, using **Context API** for global state manag
 <img src="https://img.shields.io/badge/LinkedIn-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 
+ 📧 **Email:** <a href="mailto:joansimonutti@proton.me">joansimonutti@proton.me</a> 
 
 [footer](https://capsule-render.vercel.app/api?type=waving&color=0:004e92,50:00a896,100:00f5d4&height=120&section=footer&text=Siempre%20aprendiendo,%20siempre%20creando.%20Conecta%20y%20colabora%20conmigo!&fontSize=16&fontColor=FFFFFF&fontAlign=50&fontAlignY=70)
 
