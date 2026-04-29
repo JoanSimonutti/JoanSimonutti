@@ -15,11 +15,11 @@ I focus on building reliable and maintainable systems, applying best practices i
 
 ---
 
-**[Star Wars Blog](https://star-wars-blog-navy.vercel.app/)**  
-A themed blog built with **React**, using **Context API** for global state management and client-side routing, and deployed on **Vercel**.
-
 **[TETRIS](https://tetris-javascript-flame.vercel.app/)**  
 A classic Tetris game developed in **JavaScript** as a learning and experimentation project, focused on graphics rendering and game logic. It uses **p5.js** for canvas-based rendering, handling piece drawing, collision detection, and real-time user input, and is deployed on **Vercel**.
+
+**[Star Wars Blog](https://star-wars-blog-navy.vercel.app/)**  
+A themed blog built with **React**, using **Context API** for global state management and client-side routing, and deployed on **Vercel**.
 
 <!--**[App Servicios](https://servipro-es.vercel.app/)** | MVP de una aplicación que conecta prestadores de servicios con clientes finales.  
 - Frontend: React + Vite + Bootstrap + Vercel | Backend: Node.js + Express + MongoDB Atlas + Render
