@@ -30,7 +30,7 @@ A classic Tetris game developed in **JavaScript** as a learning and experimentat
  
  💬 **Open to collaborations — let’s connect!** 
  
- 📧 **Email:** <a href="mailto:joansimonuttinz@gmail.com">joansimonuttinz@gmail.com</a> 
+ 📧 **Email:** <a href="mailto:joansimonutti@proton.me">joansimonutti@proton.me</a> 
  
  </div>
  
