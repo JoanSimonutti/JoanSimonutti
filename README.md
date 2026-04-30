@@ -10,8 +10,6 @@ Trabajo principalmente con JavaScript y TypeScript, desarrollando aplicaciones c
 
 Me interesa construir soluciones mantenibles y bien estructuradas, aplicando buenas prácticas en el desarrollo como diseño de APIs, validación de datos y manejo de autenticación (MVC, validación de esquemas, JWT). También tengo experiencia utilizando Docker para entornos de desarrollo.
 
----
-
 ## 🚀 Proyectos
 
 **[SERVIPLACE](https://github.com/JoanSimonutti/SERVIPLACE-FRONTEND)**  
