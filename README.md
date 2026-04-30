@@ -1,4 +1,7 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:00ff87,50:00d9ff,100:0055ff&height=160&section=header&text=Hi,%20I’m%20Joan%20Simonutti%20%F0%9F%91%8B&fontSize=50&fontColor=FFFFFF&fontAlignY=35)
+<!--![header](https://capsule-render.vercel.app/api?type=waving&color=0:00ff87,50:00d9ff,100:0055ff&height=160&section=header&text=Hi,%20I’m%20Joan%20Simonutti%20%F0%9F%91%8B&fontSize=50&fontColor=FFFFFF&fontAlignY=35)
+-->
+
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:00ff87,50:00d9ff,100:0055ff&height=160&section=header&text=Hola!%20Soy%20Joan%20Simonutti%20%F0%9F%91%8B&fontSize=50&fontColor=FFFFFF&fontAlignY=35)
 
 ### Qué bueno verte por acá!
 Soy Desarrollador Full Stack con foco en el desarrollo de aplicaciones web, actualmente buscando seguir creciendo profesionalmente y sumarme a un equipo donde pueda aportar y aprender.
@@ -34,8 +37,10 @@ Un blog temático desarrollado con **React**, donde trabajé con **Context API**
  💬 **Abierto a colaboraciones — conectemos!** 
  
  </div>
- 
-<!--!
 
--->
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:00ff87,50:00d9ff,100:0055ff&height=120&section=footer&text=Siempre%20aprendiendo.%20Siempre%20construyendo.&fontSize=25&fontColor=FFFFFF&fontAlign=50&fontAlignY=70)
+
+ 
+<!--
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:00ff87,50:00d9ff,100:0055ff&height=120&section=footer&text=Always%20learning.%20Always%20building.&fontSize=25&fontColor=FFFFFF&fontAlign=50&fontAlignY=70)
+-->
