@@ -30,14 +30,14 @@ Un blog temático desarrollado con **React**, donde trabajé con **Context API**
 
 <div align="center"> 
 
-## 💬 Abierto a colaboraciones — ¡conectemos! <a href="mailto:joansimonutti@proton.me">joansimonutti@proton.me</a>
+## 💬 ¿Charlamos? <a href="mailto:joansimonutti@proton.me">joansimonutti@proton.me</a>
  
 <!-- 💬 **Abierto a colaboraciones — conectemos!** <br>
  📩 **<a href="mailto:joansimonutti@proton.me">joansimonutti@proton.me</a>**
   -->
  </div>
 
-!![footer](https://capsule-render.vercel.app/api?type=waving&color=0:00ff87,50:00d9ff,100:0055ff&height=120&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:00ff87,50:00d9ff,100:0055ff&height=120&section=footer)
  
 <!--
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:00ff87,50:00d9ff,100:0055ff&height=120&section=footer&text=Always%20learning.%20Always%20building.&fontSize=25&fontColor=FFFFFF&fontAlign=50&fontAlignY=70)
