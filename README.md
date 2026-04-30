@@ -8,7 +8,7 @@ Soy Desarrollador Full Stack enfocado en el desarrollo de aplicaciones web, actu
 
 Trabajo principalmente con JavaScript y TypeScript, desarrollando aplicaciones con React / Next.js en el frontend y Node.js (Express) en el backend, utilizando PostgreSQL como base de datos.
 
-Me interesa construir soluciones mantenibles y bien estructuradas, aplicando buenas prácticas en el desarrollo como diseño de APIs, validación de datos y manejo de autenticación (MVC, validación de esquemas, JWT). También tengo experiencia utilizando Docker para entornos de desarrollo.
+Me interesa construir soluciones mantenibles y bien estructuradas, aplicando buenas prácticas en el desarrollo como diseño de APIs, validación de datos y manejo de autenticación. También tengo experiencia utilizando Docker para entornos de desarrollo.
 
 ## 🚀 Proyectos
 
