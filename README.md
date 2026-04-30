@@ -21,7 +21,7 @@ Incluye funcionalidades como búsqueda con filtros, páginas dinámicas por cate
 Frontend: https://github.com/JoanSimonutti/SERVIPLACE-FRONTEND  
 Backend: https://github.com/JoanSimonutti/SERVIPLACE-BACKEND  
 
-**[TETRIS](https://tetris-javascript-flame.vercel.app/)**  
+**[TETRIS]([https://tetris-javascript-flame.vercel.app/](https://github.com/JoanSimonutti/TETRIS))**  
 Un juego clásico de Tetris desarrollado en **JavaScript** como proyecto de aprendizaje y práctica. Está enfocado en la lógica del juego y el renderizado gráfico, utilizando **p5.js** para trabajar con canvas, manejo de colisiones e interacción en tiempo real. Desplegado en **Vercel**.
 
 **[Star Wars Blog](https://star-wars-blog-navy.vercel.app/)**  
