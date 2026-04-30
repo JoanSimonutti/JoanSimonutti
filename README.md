@@ -30,8 +30,7 @@ Un blog temático desarrollado con **React**, donde trabajé con **Context API**
 
 <div align="center"> 
 
-## 💬 Abierto a colaboraciones — ¡conectemos!
-📩 **<a href="mailto:joansimonutti@proton.me">joansimonutti@proton.me</a>**
+## 💬 Abierto a colaboraciones — ¡conectemos! <a href="mailto:joansimonutti@proton.me">joansimonutti@proton.me</a>
  
 <!-- 💬 **Abierto a colaboraciones — conectemos!** <br>
  📩 **<a href="mailto:joansimonutti@proton.me">joansimonutti@proton.me</a>**
