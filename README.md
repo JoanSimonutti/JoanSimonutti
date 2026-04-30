@@ -27,15 +27,13 @@ Un juego clásico de Tetris desarrollado en **JavaScript** como proyecto de apre
 **[Star Wars Blog](https://star-wars-blog-navy.vercel.app/)**  
 Un blog temático desarrollado con **React**, donde trabajé con **Context API** para el manejo de estado global y routing del lado del cliente. También se encuentra desplegado en **Vercel**.
 
-<!--**[App Servicios](https://servipro-es.vercel.app/)** | MVP de una aplicación que conecta prestadores de servicios con clientes finales.  
-- Frontend: React + Vite + Bootstrap + Vercel | Backend: Node.js + Express + MongoDB Atlas + Render
--->
 ---
 
 <div align="center"> 
  
  💬 **Abierto a colaboraciones — conectemos!** 
- 
+ 📩 **<a href="mailto:joansimonutti@proton.me">joansimonutti@proton.me</a>**
+  
  </div>
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:00ff87,50:00d9ff,100:0055ff&height=120&section=footer&text=Siempre%20aprendiendo.%20Siempre%20construyendo.&fontSize=25&fontColor=FFFFFF&fontAlign=50&fontAlignY=70)
