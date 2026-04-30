@@ -24,7 +24,7 @@ Incluye funcionalidades como búsqueda con filtros, páginas dinámicas por cate
 **[TETRIS](https://github.com/JoanSimonutti/TETRIS)**  
 Un juego clásico de Tetris desarrollado en **JavaScript** como proyecto de aprendizaje y práctica. Está enfocado en la lógica del juego y el renderizado gráfico, utilizando **p5.js** para trabajar con canvas, manejo de colisiones e interacción en tiempo real.
 
-**[Star Wars Blog](https://star-wars-blog-navy.vercel.app/)**  
+**[STAR WARS BLOG](https://star-wars-blog-navy.vercel.app/)**  
 Un blog temático desarrollado con **React**, donde trabajé con **Context API** para el manejo de estado global y routing del lado del cliente. También se encuentra desplegado en **Vercel**.
 
 ---
