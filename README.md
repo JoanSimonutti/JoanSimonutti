@@ -28,12 +28,9 @@ Un juego clásico de Tetris desarrollado en **JavaScript** como proyecto de apre
 **[STAR WARS BLOG](https://star-wars-blog-navy.vercel.app/)**  
 Un blog temático desarrollado con **React**, donde trabajé con **Context API** para el manejo de estado global y routing del lado del cliente. También se encuentra desplegado en **Vercel**.
 
----
-
 <div align="center"> 
 
 ## 💬 Abierto a colaboraciones — ¡conectemos!
-
 📩 **<a href="mailto:joansimonutti@proton.me">joansimonutti@proton.me</a>**
  
 <!-- 💬 **Abierto a colaboraciones — conectemos!** <br>
