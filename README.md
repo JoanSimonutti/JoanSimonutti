@@ -18,8 +18,8 @@ El proyecto está dividido en frontend y backend. En el frontend trabajo con **N
 
 Incluye funcionalidades como búsqueda con filtros, páginas dinámicas por categoría y localidad, y consumo de una API propia. También aplico buenas prácticas como validación de datos, caching y organización del código por capas.
 
-Frontend: https://github.com/JoanSimonutti/SERVIPLACE-FRONTEND  
-Backend: https://github.com/JoanSimonutti/SERVIPLACE-BACKEND  
+**Frontend**: https://github.com/JoanSimonutti/SERVIPLACE-FRONTEND  
+**Backend**: https://github.com/JoanSimonutti/SERVIPLACE-BACKEND  
 
 **[TETRIS](https://github.com/JoanSimonutti/TETRIS)**  
 Un juego clásico de Tetris desarrollado en **JavaScript** como proyecto de aprendizaje y práctica. Está enfocado en la lógica del juego y el renderizado gráfico, utilizando **p5.js** para trabajar con canvas, manejo de colisiones e interacción en tiempo real. Desplegado en **Vercel**.
