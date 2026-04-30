@@ -30,13 +30,9 @@ Un blog temático desarrollado con **React**, donde trabajé con **Context API**
 
 <div align="center"> 
 
-## 💬 ¿Charlamos?
-
-📩 <a href="mailto:joansimonutti@proton.me"><strong>joansimonutti@proton.me</strong></a>
+### 💬 ¿Charlamos? 📩 <a href="mailto:joansimonutti@proton.me"><strong>joansimonutti@proton.me</strong></a>
 
 </div>
-
-<br>
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:00ff87,50:00d9ff,100:0055ff&height=120&section=footer)
  
