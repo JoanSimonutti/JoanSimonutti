@@ -8,6 +8,15 @@ Trabajo principalmente con JavaScript y TypeScript, desarrollando aplicaciones c
 Me interesa construir soluciones mantenibles y bien estructuradas, aplicando buenas prácticas en el desarrollo como diseño de APIs, validación de datos y manejo de autenticación (MVC, validación de esquemas, JWT). También tengo experiencia trabajando con Docker para entornos de desarrollo.
 
 ---
+**[SERVIPLACE (MVP en desarrollo)](https://github.com/JoanSimonutti/SERVIPLACE-FRONTEND)**  
+Aplicación web orientada a conectar usuarios con proveedores de servicios locales, desarrollada como proyecto personal enfocado en simular un entorno real de producto.
+
+El proyecto está dividido en frontend y backend. En el frontend trabajo con **Next.js y TypeScript**, construyendo una interfaz centrada en la búsqueda y filtrado de proveedores. En el backend desarrollo una **API REST con Node.js (Express) y PostgreSQL**.
+
+Incluye funcionalidades como búsqueda con filtros, páginas dinámicas por categoría y localidad, y consumo de una API propia. También aplico buenas prácticas como validación de datos, caching y organización del código por capas.
+
+👉 Frontend: https://github.com/JoanSimonutti/SERVIPLACE-FRONTEND  
+👉 Backend: https://github.com/JoanSimonutti/SERVIPLACE-BACKEND  
 
 **[TETRIS](https://tetris-javascript-flame.vercel.app/)**  
 Un juego clásico de Tetris desarrollado en **JavaScript** como proyecto de aprendizaje y práctica. Está enfocado en la lógica del juego y el renderizado gráfico, utilizando **p5.js** para trabajar con canvas, manejo de colisiones e interacción en tiempo real. Desplegado en **Vercel**.
