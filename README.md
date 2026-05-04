@@ -5,8 +5,11 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:00ff87,50:00d9ff,100:0055ff&height=160&section=header&text=Hola!%20Soy%20Joan%20Simonutti%20%F0%9F%91%8B&fontSize=50&fontColor=FFFFFF&fontAlignY=35)
 
 ### ¡Qué bueno verte por acá!
-Soy desarrollador Full Stack con enfoque en backend, especializado en el diseño e implementación de APIs REST, autenticación y validación de datos. 
-Tengo experiencia desarrollando aplicaciones web completas utilizando Node.js, TypeScript, PostgreSQL y React/Next.js, aplicando arquitecturas por capas para mejorar mantenibilidad y escalabilidad. También tengo experiencia utilizando Docker para entornos de desarrollo.
+Desarrollador Full Stack con enfoque en backend, especializado en el diseño e implementación de APIs REST, autenticación con JWT y validación de datos.
+
+Experiencia en el desarrollo de aplicaciones web completas utilizando Node.js, TypeScript, PostgreSQL y React/Next.js, aplicando arquitecturas por capas para mejorar mantenibilidad y escalabilidad. Experiencia en configuración de entornos de desarrollo utilizando Docker.
+
+Background previo en soporte técnico, con fuerte capacidad de diagnóstico, resolución de problemas y adaptación a entornos dinámicos.
 
 ## Proyectos
 
