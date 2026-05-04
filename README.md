@@ -9,7 +9,7 @@ Desarrollador Full Stack con enfoque en backend, especializado en el diseño e i
 
 Experiencia en el desarrollo de aplicaciones web completas utilizando Node.js, TypeScript, PostgreSQL y React/Next.js, aplicando arquitecturas por capas para mejorar mantenibilidad y escalabilidad. Experiencia en configuración de entornos de desarrollo utilizando Docker.
 
-Background previo en soporte técnico, con fuerte capacidad de diagnóstico, resolución de problemas y adaptación a entornos dinámicos.
+Background previo en soporte técnico, con capacidad de diagnóstico, resolución de problemas y adaptación a entornos dinámicos.
 
 ## Proyectos
 
