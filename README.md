@@ -8,7 +8,7 @@ lallaala
 
 ### ¡Qué bueno verte por acá!
 Desarrollador Full Stack con enfoque en backend, especializado en el diseño e
-implementación de APIs REST, autenticación con JWT y validación de datos.
+implementación de APIs REST, autenticación y validación de datos.
 
 Experiencia desarrollando aplicaciones web con Node.js, TypeScript,
 PostgreSQL y React/Next.js. Trabajo con arquitecturas por capas para facilitar el
