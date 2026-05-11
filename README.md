@@ -40,4 +40,5 @@ Un blog temático desarrollado con **React**, donde trabajé con **Context API**
  
 <!--
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:00ff87,50:00d9ff,100:0055ff&height=120&section=footer&text=Always%20learning.%20Always%20building.&fontSize=25&fontColor=FFFFFF&fontAlign=50&fontAlignY=70)
+wakawakawakawakawaka
 -->
