@@ -26,6 +26,13 @@ Incluye funcionalidades como búsqueda con filtros, páginas dinámicas por cate
 **Frontend** [Ver repositorio](https://github.com/JoanSimonutti/SERVIPLACE-FRONTEND)  
 **Backend** [Ver repositorio](https://github.com/JoanSimonutti/SERVIPLACE-BACKEND)  
 
+**[LEARNING MANAGEMENT SYSTEM](https://github.com/JoanSimonutti/LMS-BACKEND-NODE)**  
+Backend completo para un Sistema de Gestión de Aprendizaje (LMS), desarrollado con **Node.js, Express, TypeScript y TypeORM**. El proyecto está enfocado en la construcción de una arquitectura backend escalable y modular para la gestión de cursos, módulos y lecciones.
+
+Incluye autenticación con JWT, seguimiento de progreso de usuarios y una estructura de módulos con jerarquía infinita, permitiendo crear contenidos educativos complejos con múltiples niveles de profundidad.
+
+También incorpora validación de datos, manejo estructurado de errores, pruebas integrales y despliegue utilizando Docker.
+
 **[TETRIS](https://github.com/JoanSimonutti/TETRIS)**  
 Un juego clásico de Tetris desarrollado en **JavaScript** como proyecto de aprendizaje y práctica. Está enfocado en la lógica del juego y el renderizado gráfico, utilizando **p5.js** para trabajar con canvas, manejo de colisiones e interacción en tiempo real.
 
