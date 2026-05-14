@@ -33,6 +33,8 @@ Incluye autenticación con JWT, seguimiento de progreso de usuarios y una estruc
 
 También incorpora validación de datos, manejo estructurado de errores, pruebas integrales y despliegue utilizando Docker.
 
+**Repositorio** [Ver proyecto](https://github.com/JoanSimonutti/LMS-BACKEND-NODE)
+
 **[TETRIS](https://github.com/JoanSimonutti/TETRIS)**  
 Un juego clásico de Tetris desarrollado en **JavaScript** como proyecto de aprendizaje y práctica. Está enfocado en la lógica del juego y el renderizado gráfico, utilizando **p5.js** para trabajar con canvas, manejo de colisiones e interacción en tiempo real.
 
