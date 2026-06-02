@@ -51,5 +51,14 @@ Un blog temático desarrollado con **React**, donde trabajé con **Context API**
  
 <!--
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:00ff87,50:00d9ff,100:0055ff&height=120&section=footer&text=Always%20learning.%20Always%20building.&fontSize=25&fontColor=FFFFFF&fontAlign=50&fontAlignY=70)
-wakawakawakawakawaka
+Desarrollador Full Stack con enfoque en backend, especializado en el desarrollo
+de APIs REST utilizando Node.js y TypeScript.
+Experiencia construyendo aplicaciones web completas con arquitecturas
+desacopladas, bases de datos relacionales y despliegues en entornos Docker.
+Interés particular en diseño backend, modelado de datos, autenticación, testing
+y escalabilidad.
+Actualmente formándome en desarrollo backend con Java y Spring Boot.
+Experiencia previa en soporte técnico, aportando capacidad analítica,
+resolución de problemas y experiencia trabajando con usuarios y sistemas
+tecnológicos.
 -->
