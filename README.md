@@ -23,7 +23,7 @@ Me considero una persona autodidacta, con capacidad para aprender nuevas tecnolo
 
 
 
-Tecnologías principales
+Tecnologías principales:
 
 • Backend: Node.js, Express.js, TypeScript, Prisma ORM, TypeORM, APIs REST, JWT, validación de datos y arquitectura por capas.
 
