@@ -16,7 +16,7 @@ Me considero una persona orientada a la resolución de problemas, con facilidad
 para aprender nuevas tecnologías y adaptarme a distintos entornos de trabajo.
 
 Actualmente continúo ampliando mis conocimientos en desarrollo backend con
-Java y Spring Boot
+Java y Spring Boot.
 
 
 Tecnologías principales:
