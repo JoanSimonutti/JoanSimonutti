@@ -5,37 +5,34 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:00ff87,50:00d9ff,100:0055ff&height=160&section=header&text=Hola!%20Soy%20Joan%20Simonutti%20%F0%9F%91%8B&fontSize=50&fontColor=FFFFFF&fontAlignY=35)
 
 ### ¡Qué bueno verte por acá!
-Soy Desarrollador Full Stack con enfoque en Backend, especializado en el desarrollo de aplicaciones web y APIs REST utilizando Node.js y TypeScript.
 
+Profesional IT con experiencia en desarrollo backend, soporte técnico y
+operación de sistemas. Especializado en el desarrollo de APIs REST con Node.js
+y TypeScript, con experiencia previa en monitorización de procesos batch
+mediante Control-M y resolución de incidencias en entornos críticos
 
+Desarrollo aplicaciones web utilizando arquitecturas desacopladas, bases de
+datos relacionales, Docker y plataformas cloud.
+Me considero una persona orientada a la resolución de problemas, con facilidad
+para aprender nuevas tecnologías y adaptarme a distintos entornos de trabajo.
 
-Me interesa construir soluciones completas, abarcando todas las etapas del desarrollo, desde el modelado de datos y el diseño de la arquitectura hasta la implementación, las pruebas y el despliegue. He desarrollado proyectos utilizando arquitecturas desacopladas, bases de datos relacionales y no relacionales, autenticación mediante JWT, testing automatizado y containerización con Docker.
-
-
-
-Tengo especial interés en el desarrollo backend, la arquitectura de software y el diseño de sistemas mantenibles, con especial atención a la calidad del código, la escalabilidad y las buenas prácticas de desarrollo. Actualmente continúo ampliando mis conocimientos en Java y Spring Boot para fortalecer mi perfil como desarrollador backend.
-
-
-
-Me considero una persona autodidacta, con capacidad para aprender nuevas tecnologías, adaptarme rápidamente a distintos entornos y afrontar problemas de forma analítica y práctica.
-
+Actualmente continúo ampliando mis conocimientos en desarrollo backend con
+Java y Spring Boot
 
 
 Tecnologías principales:
-
-• Backend: Node.js, Express.js, TypeScript, Prisma ORM, TypeORM, APIs REST, JWT, validación de datos y arquitectura por capas.
-
-• Bases de datos: PostgreSQL, MySQL y MongoDB.
-
-• Frontend: React, Next.js, JavaScript, HTML5, CSS3 y Tailwind CSS.
-
-• Testing: Jest y Supertest.
-
-• Herramientas: Git, GitHub, Docker, Vercel y Render.
+• Backend: Node.js, Express.js, TypeScript, APIs REST, Prisma ORM, TypeORM,
+autenticación JWT, validación de datos, arquitectura por capas
+• Bases de datos: PostgreSQL, MySQL, MongoDB
+• Operación de Sistemas: Control-M, Linux, monitorización de procesos batch,
+gestión de incidencias, análisis de logs
+• Herramientas: Docker, Git, GitHub, Vercel, Render
+• Testing: Jest, Supertest, pruebas unitarias y de integración
+• Frontend: React, Next.js, JavaScript, HTML5, CSS3, Tailwind CSS
 
 
 
-Busco incorporarme a un equipo donde pueda seguir creciendo como desarrollador Backend o Full Stack, contribuir al desarrollo de soluciones de software y continuar consolidando mi experiencia profesional.
+Busco incorporarme a un equipo donde pueda seguir creciendo como desarrollador Backend, donde pueda contribuir con lo que ya sé y continuar aprendiendo.
 
 ## Proyectos
 
