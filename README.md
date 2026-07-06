@@ -9,11 +9,12 @@
 Profesional IT con experiencia en desarrollo backend, soporte técnico y
 operación de sistemas. Especializado en el desarrollo de APIs REST con Node.js
 y TypeScript.
+
 Desarrollo aplicaciones web utilizando arquitecturas desacopladas, bases de
 datos relacionales, Docker y plataformas cloud.
-
 Me considero una persona orientada a la resolución de problemas, con facilidad
 para aprender nuevas tecnologías y adaptarme a distintos entornos de trabajo.
+
 Actualmente continúo ampliando mis conocimientos en desarrollo backend con
 Java y Spring Boot
 
