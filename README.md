@@ -8,31 +8,36 @@
 
 Profesional IT con experiencia en desarrollo backend, soporte técnico y
 operación de sistemas. Especializado en el desarrollo de APIs REST con Node.js
-y TypeScript, con experiencia previa en monitorización de procesos batch
-mediante Control-M y resolución de incidencias en entornos críticos
-
+y TypeScript.
 Desarrollo aplicaciones web utilizando arquitecturas desacopladas, bases de
 datos relacionales, Docker y plataformas cloud.
+
 Me considero una persona orientada a la resolución de problemas, con facilidad
 para aprender nuevas tecnologías y adaptarme a distintos entornos de trabajo.
-
 Actualmente continúo ampliando mis conocimientos en desarrollo backend con
 Java y Spring Boot
 
 
 Tecnologías principales:
+
 • Backend: Node.js, Express.js, TypeScript, APIs REST, Prisma ORM, TypeORM,
-autenticación JWT, validación de datos, arquitectura por capas
-• Bases de datos: PostgreSQL, MySQL, MongoDB
+autenticación JWT, validación de datos, arquitectura por capas.
+
+
+• Bases de datos: PostgreSQL, MySQL, MongoDB.
+
+
 • Operación de Sistemas: Control-M, Linux, monitorización de procesos batch,
-gestión de incidencias, análisis de logs
-• Herramientas: Docker, Git, GitHub, Vercel, Render
-• Testing: Jest, Supertest, pruebas unitarias y de integración
-• Frontend: React, Next.js, JavaScript, HTML5, CSS3, Tailwind CSS
+gestión de incidencias, análisis de logs.
 
 
+• Herramientas: Docker, Git, GitHub, Vercel, Render.
 
-Busco incorporarme a un equipo donde pueda seguir creciendo como desarrollador Backend, donde pueda contribuir con lo que ya sé y continuar aprendiendo.
+
+• Testing: Jest, Supertest, pruebas unitarias y de integración.
+
+
+• Frontend: React, Next.js, JavaScript, HTML5, CSS3, Tailwind CSS.
 
 ## Proyectos
 
