@@ -1,6 +1,4 @@
 <!--![header](https://capsule-render.vercel.app/api?type=waving&color=0:00ff87,50:00d9ff,100:0055ff&height=160&section=header&text=Hi,%20I’m%20Joan%20Simonutti%20%F0%9F%91%8B&fontSize=50&fontColor=FFFFFF&fontAlignY=35)
-asdasdsadsadsadsadsadsadad
-lallaala
 
 -->
 
