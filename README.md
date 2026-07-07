@@ -30,7 +30,7 @@ Frontend: React, Next.js, JavaScript, HTML5, CSS3, Tailwind CSS.
 
 ## Proyectos
 
-**[SERVIPLACE](https://github.com/JoanSimonutti/SERVIPLACE-FRONTEND)**  
+**[SERVIPLACE](https://github.com/JoanSimonutti/SERVIPLACE-BACKEND)**  
 Plataforma web para búsqueda y gestión de proveedores de servicios locales. 
 
 **[LEARNING MANAGEMENT SYSTEM](https://github.com/JoanSimonutti/LMS-BACKEND-NODE)**  
