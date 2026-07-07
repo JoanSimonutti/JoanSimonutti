@@ -6,39 +6,27 @@
 
 ### ¡Qué bueno verte por acá!
 
-Profesional IT con experiencia en desarrollo backend, soporte técnico y
-operación de sistemas. Especializado en el desarrollo de APIs REST con Node.js
-y TypeScript.
+Informático con experiencia en desarrollo backend, operación de sistemas y soporte técnico. 
 
-Desarrollo aplicaciones web utilizando arquitecturas desacopladas, bases de
-datos relacionales, Docker y plataformas cloud.
-Me considero una persona orientada a la resolución de problemas, con facilidad
-para aprender nuevas tecnologías y adaptarme a distintos entornos de trabajo.
+Desarrollo APIs REST y aplicaciones web con Node.js, TypeScript, Express y PostgreSQL, siguiendo arquitecturas desacopladas y buenas prácticas de desarrollo.
 
-Actualmente continúo ampliando mis conocimientos en desarrollo backend con
-Java y Spring Boot.
+Mi experiencia en la monitorización de procesos batch con Control-M y la resolución de incidencias en entornos críticos me ha permitido desarrollar una sólida capacidad de análisis y resolución de problemas. 
 
+Actualmente continúo formándome en Java y Spring Boot para ampliar mis conocimientos en el desarrollo backend.
 
 Tecnologías principales:
 
-• Backend: Node.js, Express.js, TypeScript, APIs REST, Prisma ORM, TypeORM,
-autenticación JWT, validación de datos, arquitectura por capas.
+Backend: Node.js, TypeScript, Express.js, APIs REST, Prisma ORM, TypeORM, autenticación JWT,  arquitectura en capas, validación de datos.
 
+Bases de datos: PostgreSQL, MySQL, MongoDB.
 
-• Bases de datos: PostgreSQL, MySQL, MongoDB.
+Operación de Sistemas: Control-M, Linux, monitorización de procesos batch, gestión de incidencias, análisis de logs.
+Herramientas: Docker, Git, GitHub, Vercel, Render.
 
+Testing: Jest, Supertest, pruebas unitarias y de integración.
 
-• Operación de Sistemas: Control-M, Linux, monitorización de procesos batch,
-gestión de incidencias, análisis de logs.
+Frontend: React, Next.js, JavaScript, HTML5, CSS3, Tailwind CSS.
 
-
-• Herramientas: Docker, Git, GitHub, Vercel, Render.
-
-
-• Testing: Jest, Supertest, pruebas unitarias y de integración.
-
-
-• Frontend: React, Next.js, JavaScript, HTML5, CSS3, Tailwind CSS.
 
 ## Proyectos
 
