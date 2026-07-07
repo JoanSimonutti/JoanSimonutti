@@ -3,7 +3,6 @@
 -->
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:00ff87,50:00d9ff,100:0055ff&height=160&section=header&text=Hola!%20Soy%20Joan%20Simonutti%20%F0%9F%91%8B&fontSize=50&fontColor=FFFFFF&fontAlignY=35)
-
 ### ¡Qué bueno verte por acá!
 
 Soy informático con experiencia en desarrollo backend, operación de sistemas y soporte técnico. 
@@ -14,13 +13,14 @@ Mi experiencia en la monitorización de procesos batch con Control-M y la resolu
 
 Actualmente continúo formándome en Java y Spring Boot para ampliar mis conocimientos en el desarrollo backend.
 
-Tecnologías principales:
+###Tecnologías principales:
 
 Backend: Node.js, TypeScript, Express.js, APIs REST, Prisma ORM, TypeORM, autenticación JWT,  arquitectura en capas, validación de datos.
 
 Bases de datos: PostgreSQL, MySQL, MongoDB.
 
 Operación de Sistemas: Control-M, Linux, monitorización de procesos batch, gestión de incidencias, análisis de logs.
+
 Herramientas: Docker, Git, GitHub, Vercel, Render.
 
 Testing: Jest, Supertest, pruebas unitarias y de integración.
