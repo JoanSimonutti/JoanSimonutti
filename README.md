@@ -5,13 +5,17 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:00ff87,50:00d9ff,100:0055ff&height=160&section=header&text=Hola!%20Soy%20Joan%20Simonutti%20%F0%9F%91%8B&fontSize=50&fontColor=FFFFFF&fontAlignY=35)
 ### ¡Qué bueno verte por acá!
 
-Soy informático con experiencia en desarrollo backend, operación de sistemas y soporte técnico. 
+Informático con experiencia en desarrollo backend, operación de sistemas y soporte
+técnico.
 
-Desarrollo APIs REST y aplicaciones web con Node.js, TypeScript, Express y PostgreSQL, siguiendo arquitecturas desacopladas y buenas prácticas de desarrollo.
+Desarrollo APIs REST y aplicaciones web con Node.js, TypeScript, Express.js y
+PostgreSQL, aplicando arquitecturas desacopladas y buenas prácticas de desarrollo.
 
-Mi experiencia en la monitorización de procesos batch con Control-M y la resolución de incidencias en entornos críticos me ha permitido desarrollar una sólida capacidad de análisis y resolución de problemas. 
+Mi experiencia previa en operación de sistemas me permitió desarrollar una sólida
+capacidad de análisis y resolución de problemas.
 
-Actualmente continúo formándome en Java y Spring Boot para ampliar mis conocimientos en el desarrollo backend.
+Actualmente continúo formándome en Java y Spring Boot para ampliar mis
+conocimientos en el desarrollo backend.
 
 ## Tecnologías
 
