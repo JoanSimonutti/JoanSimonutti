@@ -6,7 +6,7 @@
 
 ### ¡Qué bueno verte por acá!
 
-Informático con experiencia en desarrollo backend, operación de sistemas y soporte técnico. 
+Soy informático con experiencia en desarrollo backend, operación de sistemas y soporte técnico. 
 
 Desarrollo APIs REST y aplicaciones web con Node.js, TypeScript, Express y PostgreSQL, siguiendo arquitecturas desacopladas y buenas prácticas de desarrollo.
 
