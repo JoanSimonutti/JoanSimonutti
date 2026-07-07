@@ -13,7 +13,7 @@ Mi experiencia en la monitorización de procesos batch con Control-M y la resolu
 
 Actualmente continúo formándome en Java y Spring Boot para ampliar mis conocimientos en el desarrollo backend.
 
-###Tecnologías principales:
+### Tecnologías principales:
 
 Backend: Node.js, TypeScript, Express.js, APIs REST, Prisma ORM, TypeORM, autenticación JWT,  arquitectura en capas, validación de datos.
 
