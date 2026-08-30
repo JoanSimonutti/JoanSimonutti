@@ -5,7 +5,6 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:FF3D81,50:FF7A59,100:8A3FFC&height=160&section=header&text=Hola!%20Soy%20Joan%20Simonutti%20%F0%9F%91%8B&fontSize=50&fontColor=FFFFFF&fontAlignY=35)
 
-
 Soy informático con experiencia en desarrollo backend, operación de sistemas y soporte
 técnico.
 
