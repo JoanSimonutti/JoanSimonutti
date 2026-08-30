@@ -4,8 +4,7 @@
 
 -->
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:FF1493,45:FF4F81,75:FF7A45,100:8A2BE2&height=160&section=header&text=Hola!%20Soy%20Joan%20Simonutti%20%F0%9F%91%8B&fontSize=50&fontColor=FFFFFF&fontAlignY=35)
-
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:8B0A50,45:B3125B,75:C94A3A,100:4B1D6B&height=160&section=header&text=Hola!%20Soy%20Joan%20Simonutti%20%F0%9F%91%8B&fontSize=50&fontColor=FFFFFF&fontAlignY=35)
 
 Soy informático con experiencia en desarrollo backend, operación de sistemas y soporte
 técnico.
@@ -51,7 +50,7 @@ Un blog temático desarrollado con **React**.
 
 </div>
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:FF1493,45:FF4F81,75:FF7A45,100:8A2BE2&height=120&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:8B0A50,45:B3125B,75:C94A3A,100:4B1D6B&height=120&section=footer)
 
 <!-- 
 
