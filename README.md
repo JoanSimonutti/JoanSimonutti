@@ -48,56 +48,6 @@ Juego de Tetris desarrollado con JavaScript, enfocado en la lógica del juego, l
 
 **[STAR WARS BLOG](https://star-wars-blog-navy.vercel.app/)**
 
-
-## Tecnologías
-
-### Backend
-
-![Node.js](https://img.shields.io/badge/Node.js-5B164B?style=flat-square&logo=node.js&logoColor=FFFFFF)
-![TypeScript](https://img.shields.io/badge/TypeScript-A91E65?style=flat-square&logo=typescript&logoColor=FFFFFF)
-![Express.js](https://img.shields.io/badge/Express.js-E94F58?style=flat-square&logo=express&logoColor=FFFFFF)
-![REST API](https://img.shields.io/badge/REST_API-FF8A5B?style=flat-square&logoColor=FFFFFF)
-![Prisma](https://img.shields.io/badge/Prisma-A91E65?style=flat-square&logo=prisma&logoColor=FFFFFF)
-![TypeORM](https://img.shields.io/badge/TypeORM-E94F58?style=flat-square&logo=typeorm&logoColor=FFFFFF)
-![JWT](https://img.shields.io/badge/JWT-5B164B?style=flat-square&logo=jsonwebtokens&logoColor=FFFFFF)
-
-### Bases de datos
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-5B164B?style=flat-square&logo=postgresql&logoColor=FFFFFF)
-![MySQL](https://img.shields.io/badge/MySQL-A91E65?style=flat-square&logo=mysql&logoColor=FFFFFF)
-![MongoDB](https://img.shields.io/badge/MongoDB-E94F58?style=flat-square&logo=mongodb&logoColor=FFFFFF)
-
-### Sistemas y Automatización
-
-![Linux](https://img.shields.io/badge/Linux-5B164B?style=flat-square&logo=linux&logoColor=FFFFFF)
-![Windows](https://img.shields.io/badge/Windows-A91E65?style=flat-square&logo=windows&logoColor=FFFFFF)
-![Control--M](https://img.shields.io/badge/Control--M-E94F58?style=flat-square&logoColor=FFFFFF)
-![BMS](https://img.shields.io/badge/BMS-FF8A5B?style=flat-square&logoColor=FFFFFF)
-![HVAC](https://img.shields.io/badge/HVAC-A91E65?style=flat-square&logoColor=FFFFFF)
-
-### Herramientas
-
-![Docker](https://img.shields.io/badge/Docker-5B164B?style=flat-square&logo=docker&logoColor=FFFFFF)
-![Git](https://img.shields.io/badge/Git-A91E65?style=flat-square&logo=git&logoColor=FFFFFF)
-![GitHub](https://img.shields.io/badge/GitHub-E94F58?style=flat-square&logo=github&logoColor=FFFFFF)
-![Vercel](https://img.shields.io/badge/Vercel-5B164B?style=flat-square&logo=vercel&logoColor=FFFFFF)
-![Render](https://img.shields.io/badge/Render-FF8A5B?style=flat-square&logo=render&logoColor=FFFFFF)
-
-### Testing
-
-![Jest](https://img.shields.io/badge/Jest-A91E65?style=flat-square&logo=jest&logoColor=FFFFFF)
-![Supertest](https://img.shields.io/badge/Supertest-E94F58?style=flat-square&logoColor=FFFFFF)
-
-### Frontend
-
-![React](https://img.shields.io/badge/React-5B164B?style=flat-square&logo=react&logoColor=FFFFFF)
-![Next.js](https://img.shields.io/badge/Next.js-A91E65?style=flat-square&logo=next.js&logoColor=FFFFFF)
-![JavaScript](https://img.shields.io/badge/JavaScript-E94F58?style=flat-square&logo=javascript&logoColor=FFFFFF)
-![HTML5](https://img.shields.io/badge/HTML5-FF8A5B?style=flat-square&logo=html5&logoColor=FFFFFF)
-![CSS3](https://img.shields.io/badge/CSS3-A91E65?style=flat-square&logo=css3&logoColor=FFFFFF)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-5B164B?style=flat-square&logo=tailwindcss&logoColor=FFFFFF)
-
-
 **Blog temático desarrollado con React.**
 
 Proyecto frontend orientado a la creación de una interfaz web basada en el universo de Star Wars.
