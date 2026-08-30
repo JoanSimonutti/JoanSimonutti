@@ -1,8 +1,10 @@
 <!--![header](https://capsule-render.vercel.app/api?type=waving&color=0:00ff87,50:00d9ff,100:0055ff&height=160&section=header&text=Hi,%20I’m%20Joan%20Simonutti%20%F0%9F%91%8B&fontSize=50&fontColor=FFFFFF&fontAlignY=35)
 
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:00ff87,50:00d9ff,100:0055ff&height=160&section=header&text=Hola!%20Soy%20Joan%20Simonutti%20%F0%9F%91%8B&fontSize=50&fontColor=FFFFFF&fontAlignY=35)
+
 -->
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:00ff87,50:00d9ff,100:0055ff&height=160&section=header&text=Hola!%20Soy%20Joan%20Simonutti%20%F0%9F%91%8B&fontSize=50&fontColor=FFFFFF&fontAlignY=35)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:FF1493,45:FF4F81,75:FF7A45,100:8A2BE2&height=160&section=header&text=Hola!%20Soy%20Joan%20Simonutti%20%F0%9F%91%8B&fontSize=50&fontColor=FFFFFF&fontAlignY=35)
 
 
 Soy informático con experiencia en desarrollo backend, operación de sistemas y soporte
@@ -49,11 +51,13 @@ Un blog temático desarrollado con **React**.
 
 </div>
 
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:FF1493,45:FF4F81,75:FF7A45,100:8A2BE2&height=120&section=footer)
 
+<!-- 
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:00ff87,50:00d9ff,100:0055ff&height=120&section=footer)
  
-<!-- 
+
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:00ff87,50:00d9ff,100:0055ff&height=120&section=footer&text=Always%20learning.%20Always%20building.&fontSize=25&fontColor=FFFFFF&fontAlign=50&fontAlignY=70)
 Desarrollador Full Stack con enfoque en backend, especializado en el desarrollo
 de APIs REST utilizando Node.js y TypeScript.
