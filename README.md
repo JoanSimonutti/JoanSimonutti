@@ -3,11 +3,11 @@
 
 ## Sobre mí
 
-Soy informático con más de cinco años de experiencia en **desarrollo backend**, complementados con experiencia en **operación de sistemas y soporte técnico**.
+Soy informático con más de cinco años de experiencia en **desarrollo backend**, además de experiencia en **operación de sistemas y soporte técnico**.
 
 Desarrollo **APIs REST y aplicaciones web** utilizando Node.js, TypeScript, Express.js y PostgreSQL, aplicando arquitecturas desacopladas y buenas prácticas de desarrollo.
 
-También cuento con experiencia trabajando con **sistemas Linux y Windows, monitorización de procesos, gestión de incidencias, análisis de logs y sistemas de automatización y control**.
+También trabajo con **sistemas Linux y Windows, monitorización de procesos, gestión de incidencias, análisis de logs y sistemas de automatización y control**.
 
 Actualmente continúo formándome en **Java y Spring Boot** para ampliar mis conocimientos y seguir creciendo en el desarrollo backend.
 
@@ -17,7 +17,7 @@ Actualmente continúo formándome en **Java y Spring Boot** para ampliar mis con
 
 **Bases de datos:** PostgreSQL, MySQL, MongoDB.
 
-**Sistemas y Automatización:** Linux, Windows, Control-M, BMS, control y monitorización de sistemas HVAC, automatización de iluminación, sensores y dispositivos.
+**Sistemas y Automatización:** Linux, Windows, Control-M, sistemas BMS, control y monitorización de sistemas HVAC, automatización de iluminación, sensores y dispositivos.
 
 **Herramientas:** Docker, Git, GitHub, Vercel, Render.
 
