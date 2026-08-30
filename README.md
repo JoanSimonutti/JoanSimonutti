@@ -71,7 +71,6 @@ tecnológicos.
 
 ![header](https://capsule-render.vercel.app/api?type=waving\&color=0\:FFB36B,22\:FF8A5B,45\:E94F58,70\:A91E65,100:5B164B\&height=160\&section=header\&text=Desarrollador%20Backend\&fontSize=50\&fontColor=FFFFFF\&fontAlignY=35)
 
----
 
 ## Sobre mí
 
@@ -81,7 +80,6 @@ Desarrollo **APIs REST y aplicaciones web** utilizando Node.js, TypeScript, Expr
 
 Actualmente continúo formándome en **Java y Spring Boot** para ampliar mis conocimientos y seguir creciendo en el desarrollo backend.
 
----
 
 ## Tecnologías
 
@@ -97,22 +95,24 @@ Actualmente continúo formándome en **Java y Spring Boot** para ampliar mis con
 
 **Frontend:** React, Next.js, JavaScript, HTML5, CSS3, Tailwind CSS.
 
----
 
 ## Proyectos
 
 **[SERVIPLACE](https://github.com/JoanSimonutti/SERVIPLACE-BACKEND)**
+
 Plataforma web para búsqueda y gestión de proveedores de servicios locales.
 
 **[LEARNING MANAGEMENT SYSTEM](https://github.com/JoanSimonutti/LMS-BACKEND-NODE)**
+
 API Backend para plataforma educativa con gestión de cursos, módulos jerárquicos, lecciones y seguimiento de progreso de usuarios.
 
 **[TETRIS](https://github.com/JoanSimonutti/TETRIS)**
+
 Un juego clásico de Tetris desarrollado en **JavaScript**, enfocado en la lógica del juego y el renderizado gráfico, utilizando **p5.js** para trabajar con interacción en tiempo real.
 
 **[STAR WARS BLOG](https://star-wars-blog-navy.vercel.app/)**
+
 Un blog temático desarrollado con **React**.
 
----
 
-![footer](https://capsule-render.vercel.app/api?type=waving\&color=0\:FFB36B,22\:FF8A5B,45\:E94F58,70\:A91E65,100:5B164B\&height=120\&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:FFB36B,22:FF8A5B,45:E94F58,70:A91E65,100:5B164B&height=140&section=footer&text=Desarrollo%20Backend%20-%20Sistemas%20Inform%C3%A1ticos&fontSize=24&fontColor=FFFFFF&fontAlignY=65)
