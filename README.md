@@ -71,15 +71,9 @@ tecnológicos.
 
 ![header](https://capsule-render.vercel.app/api?type=waving\&color=0\:FFB36B,22\:FF8A5B,45\:E94F58,70\:A91E65,100:5B164B\&height=160\&section=header\&text=Desarrollador%20Backend\&fontSize=50\&fontColor=FFFFFF\&fontAlignY=35)
 
-<div align="center">
-
-### Construyo soluciones backend, trabajo con sistemas y sigo aprendiendo nuevas tecnologías.
-
-</div>
-
 ---
 
-## 👋 Sobre mí
+## Sobre mí
 
 Soy informático con experiencia en **desarrollo backend, operación de sistemas y soporte técnico**.
 
@@ -120,19 +114,5 @@ Un juego clásico de Tetris desarrollado en **JavaScript**, enfocado en la lógi
 Un blog temático desarrollado con **React**.
 
 ---
-
-## 📚 Actualmente aprendiendo
-
-### ☕ Java + Spring Boot
-
-Continúo formándome en el ecosistema de **Java y Spring Boot**, con el objetivo de ampliar mis conocimientos en desarrollo backend y arquitectura de aplicaciones.
-
----
-
-<div align="center">
-
-💻 **Backend** · ⚙️ **Sistemas** · 🚀 **Desarrollo**
-
-</div>
 
 ![footer](https://capsule-render.vercel.app/api?type=waving\&color=0\:FFB36B,22\:FF8A5B,45\:E94F58,70\:A91E65,100:5B164B\&height=120\&section=footer)
