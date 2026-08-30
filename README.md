@@ -87,7 +87,7 @@ Actualmente continúo formándome en **Java y Spring Boot** para ampliar mis con
 
 **Bases de datos:** PostgreSQL, MySQL, MongoDB.
 
-**Operación de Sistemas:** Control-M, Linux, monitorización de procesos batch, gestión de incidencias, análisis de logs.
+**Operación de Sistemas:** Linux, Control-M, monitorización de procesos batch, gestión de incidencias, análisis de logs.
 
 **Herramientas:** Docker, Git, GitHub, Vercel, Render.
 
