@@ -69,13 +69,11 @@ resolución de problemas y experiencia trabajando con usuarios y sistemas
 tecnológicos.
 -->
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:FFB36B,22:FF8A5B,45:E94F58,70:A91E65,100:5B164B&height=160&section=header&text=Hola!%20Soy%20Joan%20Simonutti%20%F0%9F%91%8B&fontSize=50&fontColor=FFFFFF&fontAlignY=35)
+![header](https://capsule-render.vercel.app/api?type=waving\&color=0\:FFB36B,22\:FF8A5B,45\:E94F58,70\:A91E65,100:5B164B\&height=160\&section=header\&text=Desarrollador%20Backend\&fontSize=50\&fontColor=FFFFFF\&fontAlignY=35)
 
 <div align="center">
 
-### 💻 Desarrollador Backend · Sistemas · APIs
-
-**Construyo soluciones backend, trabajo con sistemas y sigo aprendiendo nuevas tecnologías.**
+### Construyo soluciones backend, trabajo con sistemas y sigo aprendiendo nuevas tecnologías.
 
 </div>
 
@@ -91,87 +89,35 @@ Actualmente continúo formándome en **Java y Spring Boot** para ampliar mis con
 
 ---
 
-## 🛠️ Tecnologías
+## Tecnologías
 
-### ⚙️ Backend
+**Backend:** Node.js, TypeScript, Express.js, APIs REST, Prisma ORM, TypeORM, autenticación JWT, arquitectura en capas, validación de datos.
 
-`Node.js` · `TypeScript` · `Express.js` · `APIs REST` · `Prisma ORM` · `TypeORM`
+**Bases de datos:** PostgreSQL, MySQL, MongoDB.
 
-`JWT` · `Arquitectura en capas` · `Validación de datos`
+**Operación de Sistemas:** Control-M, Linux, monitorización de procesos batch, gestión de incidencias, análisis de logs.
 
-### 🗄️ Bases de datos
+**Herramientas:** Docker, Git, GitHub, Vercel, Render.
 
-`PostgreSQL` · `MySQL` · `MongoDB`
+**Testing:** Jest, Supertest, pruebas unitarias y de integración.
 
-### 🖥️ Sistemas y operaciones
-
-`Linux` · `Control-M` · `Monitorización de procesos batch`
-
-`Gestión de incidencias` · `Análisis de logs`
-
-### 🧪 Testing
-
-`Jest` · `Supertest`
-
-Pruebas unitarias · Pruebas de integración
-
-### 🎨 Frontend
-
-`React` · `Next.js` · `JavaScript` · `HTML5` · `CSS3` · `Tailwind CSS`
-
-### 🔧 Herramientas
-
-`Docker` · `Git` · `GitHub` · `Vercel` · `Render`
+**Frontend:** React, Next.js, JavaScript, HTML5, CSS3, Tailwind CSS.
 
 ---
 
-## 🚀 Proyectos
+## Proyectos
 
-### 🏙️ SERVIPLACE
+**[SERVIPLACE](https://github.com/JoanSimonutti/SERVIPLACE-BACKEND)**
+Plataforma web para búsqueda y gestión de proveedores de servicios locales.
 
-**Plataforma web para la búsqueda y gestión de proveedores de servicios locales.**
+**[LEARNING MANAGEMENT SYSTEM](https://github.com/JoanSimonutti/LMS-BACKEND-NODE)**
+API Backend para plataforma educativa con gestión de cursos, módulos jerárquicos, lecciones y seguimiento de progreso de usuarios.
 
-Proyecto enfocado en el desarrollo de una solución backend para conectar usuarios con proveedores de servicios.
+**[TETRIS](https://github.com/JoanSimonutti/TETRIS)**
+Un juego clásico de Tetris desarrollado en **JavaScript**, enfocado en la lógica del juego y el renderizado gráfico, utilizando **p5.js** para trabajar con interacción en tiempo real.
 
-**Tecnologías:** Node.js · TypeScript · Express.js · PostgreSQL
-
-🔗 [Ver proyecto](https://github.com/JoanSimonutti/SERVIPLACE-BACKEND)
-
----
-
-### 🎓 LEARNING MANAGEMENT SYSTEM
-
-**API Backend para una plataforma educativa.**
-
-Sistema orientado a la gestión de cursos, módulos jerárquicos, lecciones y seguimiento del progreso de los usuarios.
-
-**Tecnologías:** Node.js · TypeScript · Express.js · PostgreSQL
-
-🔗 [Ver proyecto](https://github.com/JoanSimonutti/LMS-BACKEND-NODE)
-
----
-
-### 🎮 TETRIS
-
-**Un clásico llevado a JavaScript.**
-
-Juego de Tetris desarrollado con JavaScript, enfocado en la lógica del juego, la interacción en tiempo real y el renderizado gráfico mediante **p5.js**.
-
-**Tecnologías:** JavaScript · p5.js · HTML5 · CSS3
-
-🔗 [Ver proyecto](https://github.com/JoanSimonutti/TETRIS)
-
----
-
-### 🌌 STAR WARS BLOG
-
-**Blog temático desarrollado con React.**
-
-Proyecto frontend orientado a la creación de una interfaz web basada en el universo de Star Wars.
-
-**Tecnologías:** React · JavaScript · CSS
-
-🔗 [Visitar proyecto](https://star-wars-blog-navy.vercel.app/)
+**[STAR WARS BLOG](https://star-wars-blog-navy.vercel.app/)**
+Un blog temático desarrollado con **React**.
 
 ---
 
@@ -185,16 +131,8 @@ Continúo formándome en el ecosistema de **Java y Spring Boot**, con el objetiv
 
 <div align="center">
 
-## 🌴 ¿Charlamos?
-
-Si querés hablar sobre desarrollo backend, APIs, sistemas o simplemente compartir ideas...
-
-**[joansimonutti@proton.me](mailto:joansimonutti@proton.me)**
-
-<br>
-
 💻 **Backend** · ⚙️ **Sistemas** · 🚀 **Desarrollo**
 
 </div>
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:FFB36B,22:FF8A5B,45:E94F58,70:A91E65,100:5B164B&height=120&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=waving\&color=0\:FFB36B,22\:FF8A5B,45\:E94F58,70\:A91E65,100:5B164B\&height=120\&section=footer)
