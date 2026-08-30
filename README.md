@@ -28,29 +28,69 @@ Actualmente continúo formándome en **Java y Spring Boot** para ampliar mis con
 
 ## Proyectos
 
-**[SERVIPLACE](https://github.com/JoanSimonutti/SERVIPLACE-BACKEND)**
-
-**Plataforma web para la búsqueda y gestión de proveedores de servicios locales.**
+**[SERVIPLACE](https://github.com/JoanSimonutti/SERVIPLACE-BACKEND)** **Plataforma web para la búsqueda y gestión de proveedores de servicios locales.**
 
 Proyecto enfocado en el desarrollo de una solución backend para conectar usuarios con proveedores de servicios.
 
-**[LEARNING MANAGEMENT SYSTEM](https://github.com/JoanSimonutti/LMS-BACKEND-NODE)**
-
-**API Backend para una plataforma educativa.**
+**[LEARNING MANAGEMENT SYSTEM](https://github.com/JoanSimonutti/LMS-BACKEND-NODE)** **API Backend para una plataforma educativa.**
 
 Sistema orientado a la gestión de cursos, módulos jerárquicos, lecciones y seguimiento del progreso de los usuarios.
 
-**[TETRIS](https://github.com/JoanSimonutti/TETRIS)**
-
-**Un clásico llevado a JavaScript.**
+**[TETRIS](https://github.com/JoanSimonutti/TETRIS)** **Un clásico llevado a JavaScript.**
 
 Juego de Tetris desarrollado con JavaScript, enfocado en la lógica del juego, la interacción en tiempo real y el renderizado gráfico mediante **p5.js**.
 
-**[STAR WARS BLOG](https://star-wars-blog-navy.vercel.app/)**
-
-**Blog temático desarrollado con React.**
+**[STAR WARS BLOG](https://star-wars-blog-navy.vercel.app/)** **Blog temático desarrollado con React.**
 
 Proyecto frontend orientado a la creación de una interfaz web basada en el universo de Star Wars.
+
+## Tecnologías
+
+### Backend
+
+![Node.js](https://img.shields.io/badge/Node.js-7A1F5C?style=flat-square&logo=node.js&logoColor=FFFFFF)
+![TypeScript](https://img.shields.io/badge/TypeScript-7A1F5C?style=flat-square&logo=typescript&logoColor=FFFFFF)
+![Express.js](https://img.shields.io/badge/Express.js-7A1F5C?style=flat-square&logo=express&logoColor=FFFFFF)
+![REST API](https://img.shields.io/badge/REST_API-7A1F5C?style=flat-square&logoColor=FFFFFF)
+![Prisma](https://img.shields.io/badge/Prisma-7A1F5C?style=flat-square&logo=prisma&logoColor=FFFFFF)
+![TypeORM](https://img.shields.io/badge/TypeORM-7A1F5C?style=flat-square&logo=typeorm&logoColor=FFFFFF)
+![JWT](https://img.shields.io/badge/JWT-7A1F5C?style=flat-square&logo=jsonwebtokens&logoColor=FFFFFF)
+
+### Bases de datos
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-7A1F5C?style=flat-square&logo=postgresql&logoColor=FFFFFF)
+![MySQL](https://img.shields.io/badge/MySQL-7A1F5C?style=flat-square&logo=mysql&logoColor=FFFFFF)
+![MongoDB](https://img.shields.io/badge/MongoDB-7A1F5C?style=flat-square&logo=mongodb&logoColor=FFFFFF)
+
+### Sistemas y Automatización
+
+![Linux](https://img.shields.io/badge/Linux-7A1F5C?style=flat-square&logo=linux&logoColor=FFFFFF)
+![Windows](https://img.shields.io/badge/Windows-7A1F5C?style=flat-square&logo=windows&logoColor=FFFFFF)
+![Control--M](https://img.shields.io/badge/Control--M-7A1F5C?style=flat-square&logoColor=FFFFFF)
+![BMS](https://img.shields.io/badge/BMS-7A1F5C?style=flat-square&logoColor=FFFFFF)
+![HVAC](https://img.shields.io/badge/HVAC-7A1F5C?style=flat-square&logoColor=FFFFFF)
+
+### Herramientas
+
+![Docker](https://img.shields.io/badge/Docker-7A1F5C?style=flat-square&logo=docker&logoColor=FFFFFF)
+![Git](https://img.shields.io/badge/Git-7A1F5C?style=flat-square&logo=git&logoColor=FFFFFF)
+![GitHub](https://img.shields.io/badge/GitHub-7A1F5C?style=flat-square&logo=github&logoColor=FFFFFF)
+![Vercel](https://img.shields.io/badge/Vercel-7A1F5C?style=flat-square&logo=vercel&logoColor=FFFFFF)
+![Render](https://img.shields.io/badge/Render-7A1F5C?style=flat-square&logo=render&logoColor=FFFFFF)
+
+### Testing
+
+![Jest](https://img.shields.io/badge/Jest-7A1F5C?style=flat-square&logo=jest&logoColor=FFFFFF)
+![Supertest](https://img.shields.io/badge/Supertest-7A1F5C?style=flat-square&logoColor=FFFFFF)
+
+### Frontend
+
+![React](https://img.shields.io/badge/React-7A1F5C?style=flat-square&logo=react&logoColor=FFFFFF)
+![Next.js](https://img.shields.io/badge/Next.js-7A1F5C?style=flat-square&logo=next.js&logoColor=FFFFFF)
+![JavaScript](https://img.shields.io/badge/JavaScript-7A1F5C?style=flat-square&logo=javascript&logoColor=FFFFFF)
+![HTML5](https://img.shields.io/badge/HTML5-7A1F5C?style=flat-square&logo=html5&logoColor=FFFFFF)
+![CSS3](https://img.shields.io/badge/CSS3-7A1F5C?style=flat-square&logo=css3&logoColor=FFFFFF)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-7A1F5C?style=flat-square&logo=tailwindcss&logoColor=FFFFFF)
 
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:FFB36B,22:FF8A5B,45:E94F58,70:A91E65,100:5B164B&height=140&section=footer&text=Desarrollo%20Backend%20-%20Sistemas%20Inform%C3%A1ticos&fontSize=24&fontColor=FFFFFF&fontAlignY=65)
