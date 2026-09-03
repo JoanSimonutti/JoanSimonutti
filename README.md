@@ -2,31 +2,22 @@
 
 
 ## Sobre mí
+Desarrollo **aplicaciones web** y **APIs REST** con **Node.js** y **TypeScript**, trabajando desde el modelado de datos y el diseño de la arquitectura hasta la implementación, las pruebas y el despliegue.
 
-Soy informático con más de cinco años de experiencia en **desarrollo backend**, además de experiencia en **operación de sistemas y soporte técnico**.
+Construyo aplicaciones con **arquitecturas desacopladas** y separo responsabilidades para mantener un **código claro, testeable y fácil de evolucionar**. Trabajo con bases de datos relacionales y no relacionales, autenticación mediante JWT, testing automatizado y containerización con Docker. Actualmente amplío mi experiencia con **Java** y **Spring Boot** para complementar mi perfil backend y trabajar con diferentes ecosistemas y arquitecturas.
 
-Desarrollo **APIs REST y aplicaciones web** utilizando Node.js, TypeScript, Express.js y PostgreSQL, aplicando arquitecturas desacopladas y buenas prácticas de desarrollo.
+Mi foco está en el desarrollo backend, la arquitectura de software y el diseño de sistemas mantenibles. Priorizo la calidad del código, la simplicidad de las soluciones y las buenas prácticas que permiten evolucionar un proyecto sin añadir complejidad innecesaria.
 
-También trabajo con **sistemas Linux y Windows, monitorización de procesos, gestión de incidencias, análisis de logs y sistemas de automatización y control**.
-
-Actualmente continúo formándome en **Java y Spring Boot** para ampliar mis conocimientos y seguir creciendo en el desarrollo backend.
+Busco incorporarme a un equipo de desarrollo donde pueda asumir responsabilidades sobre el backend, resolver problemas reales y seguir profundizando en arquitectura y diseño de sistemas, aportando experiencia tanto en desarrollo como en la construcción y evolución de productos.
 
 ## Tecnologías
-
-**Backend:** Node.js, TypeScript, Express.js, APIs REST, Prisma ORM, TypeORM, autenticación JWT, arquitectura en capas, validación de datos.
-
+**Backend:** Node.js, TypeScript, Express.js, Prisma, TypeORM, APIs REST, JWT, arquitectura por capas.
 **Bases de datos:** PostgreSQL, MySQL, MongoDB.
-
-**Sistemas y Automatización:** Linux, Windows, Control-M, sistemas BMS, control y monitorización de sistemas HVAC, automatización de iluminación, sensores y dispositivos.
-
-**Herramientas:** Docker, Git, GitHub, Vercel, Render.
-
-**Testing:** Jest, Supertest, pruebas unitarias y de integración.
-
+**Testing:** Jest, Supertest.
+**DevOps / herramientas:** Git, GitHub, Docker, Vercel, Render.
 **Frontend:** React, Next.js, JavaScript, HTML5, CSS3, Tailwind CSS.
 
-
-## Proyectos
+<!--## Proyectos
 
 **[SERVIPLACE](https://github.com/JoanSimonutti/SERVIPLACE-BACKEND)** 
 
@@ -51,6 +42,6 @@ Juego de Tetris desarrollado con JavaScript, enfocado en la lógica del juego, l
 **Blog temático desarrollado con React.**
 
 Proyecto frontend orientado a la creación de una interfaz web basada en el universo de Star Wars.
-
+-->
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:FFB36B,22:FF8A5B,45:E94F58,70:A91E65,100:5B164B&height=140&section=footer&text=Desarrollo%20Backend%20-%20Sistemas%20Inform%C3%A1ticos&fontSize=24&fontColor=FFFFFF&fontAlignY=65)
