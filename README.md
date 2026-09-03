@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving\&color=0\:FFB36B,22\:FF8A5B,45\:E94F58,70\:A91E65,100:5B164B\&height=160\&section=header\&text=Desarrollador%20Backend\&fontSize=50\&fontColor=FFFFFF\&fontAlignY=35)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:FFB36B,22:FF8A5B,45:E94F58,70:A91E65,100:5B164B&height=160&section=header&text=Joan%20Simonutti%20-%20Backend%20dev&fontSize=50&fontColor=FFFFFF&fontAlignY=35)
 
 
 ## Sobre mí
