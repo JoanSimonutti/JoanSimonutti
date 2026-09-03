@@ -12,9 +12,13 @@ Busco incorporarme a un equipo de desarrollo donde pueda asumir responsabilidade
 
 ## Tecnologías
 **Backend:** Node.js, TypeScript, Express.js, Prisma, TypeORM, APIs REST, JWT, arquitectura por capas.
+
 **Bases de datos:** PostgreSQL, MySQL, MongoDB.
+
 **Testing:** Jest, Supertest.
+
 **DevOps / herramientas:** Git, GitHub, Docker, Vercel, Render.
+
 **Frontend:** React, Next.js, JavaScript, HTML5, CSS3, Tailwind CSS.
 
 <!--## Proyectos
