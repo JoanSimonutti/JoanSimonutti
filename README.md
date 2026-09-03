@@ -11,13 +11,15 @@ Mi foco está en el desarrollo backend, la arquitectura de software y el diseño
 Busco incorporarme a un equipo de desarrollo donde pueda asumir responsabilidades sobre el backend, resolver problemas reales y seguir profundizando en arquitectura y diseño de sistemas, aportando experiencia tanto en desarrollo como en la construcción y evolución de productos.
 
 ## Tecnologías
-**Backend:** Node.js, TypeScript, Express.js, Prisma, TypeORM, APIs REST, JWT, arquitectura por capas.
+**Backend:** Node.js, TypeScript, Express.js, Java, Spring Boot, APIs REST, Prisma, TypeORM, JWT, validación de datos, arquitectura por capas.
 
-**Bases de datos:** PostgreSQL, MySQL, MongoDB.
+**Bases de datos:** PostgreSQL, MySQL, MongoDB, modelado de datos, relaciones, consultas SQL.
 
-**Testing:** Jest, Supertest.
+**Testing:** Jest, Supertest, testing unitario, testing de APIs.
 
-**DevOps / herramientas:** Git, GitHub, Docker, Vercel, Render.
+**Arquitectura y desarrollo:** separación de responsabilidades, principios SOLID, diseño modular, código mantenible, manejo de errores, validación y documentación de APIs.
+
+**Herramientas:** Git, GitHub, Docker, Vercel, Render.
 
 **Frontend:** React, Next.js, JavaScript, HTML5, CSS3, Tailwind CSS.
 
@@ -48,4 +50,4 @@ Juego de Tetris desarrollado con JavaScript, enfocado en la lógica del juego, l
 Proyecto frontend orientado a la creación de una interfaz web basada en el universo de Star Wars.
 -->
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:FFB36B,22:FF8A5B,45:E94F58,70:A91E65,100:5B164B&height=140&section=footer&text=Desarrollo%20Backend%20-%20Sistemas%20Inform%C3%A1ticos&fontSize=24&fontColor=FFFFFF&fontAlignY=65)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:FFB36B,22:FF8A5B,45:E94F58,70:A91E65,100:5B164B&height=140&section=footer)
