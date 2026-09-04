@@ -1,5 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:FFB36B,22:FF8A5B,45:E94F58,70:A91E65,100:5B164B&height=160&section=header&text=Joan%20Simonutti%20-%20Backend%20Dev&fontSize=50&fontColor=FFFFFF&fontAlignY=35)
-
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:111111,50:2B2B2B,100:4A4A4A&height=160&section=header&text=Joan%20Simonutti%20-%20Backend%20Dev&fontSize=50&fontColor=FFFFFF&fontAlignY=35)
 
 ## Sobre mí
 Desarrollo **aplicaciones web** y **APIs REST**, trabajando de manera integral desde el modelado de datos y el diseño de la arquitectura hasta la implementación, las pruebas y el despliegue.
@@ -50,4 +49,4 @@ Juego de Tetris desarrollado con JavaScript, enfocado en la lógica del juego, l
 
 Proyecto frontend orientado a la creación de una interfaz web basada en el universo de Star Wars.
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:FFB36B,22:FF8A5B,45:E94F58,70:A91E65,100:5B164B&height=140&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:111111,50:2B2B2B,100:4A4A4A&height=140&section=footer)
