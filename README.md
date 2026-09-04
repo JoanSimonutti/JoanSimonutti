@@ -6,9 +6,9 @@ Desarrollo **aplicaciones web** y **APIs REST** con **Node.js** y **TypeScript**
 
 Construyo aplicaciones con **arquitecturas desacopladas** y separo responsabilidades para mantener un **código claro, testeable y fácil de evolucionar**. Trabajo con bases de datos relacionales y no relacionales, autenticación mediante JWT, testing automatizado y containerización con Docker. Actualmente amplío mi experiencia con **Java** y **Spring Boot** para complementar mi perfil backend y trabajar con diferentes ecosistemas y arquitecturas.
 
-Mi foco está en el desarrollo backend, la arquitectura de software y el diseño de sistemas mantenibles. Priorizo la calidad del código, la simplicidad de las soluciones y las buenas prácticas que permiten evolucionar un proyecto sin añadir complejidad innecesaria.
+Mi experiencia se centra principalmente en el desarrollo backend y en la construcción de sistemas mantenibles y fáciles de evolucionar. Me interesa especialmente diseñar arquitecturas claras, definir buenas soluciones desde el punto de vista técnico y mantener un equilibrio entre calidad y simplicidad.
 
-Busco incorporarme a un equipo de desarrollo donde pueda asumir responsabilidades sobre el backend, resolver problemas reales y seguir profundizando en arquitectura y diseño de sistemas, aportando experiencia tanto en desarrollo como en la construcción y evolución de productos.
+Busco incorporarme a un equipo de desarrollo donde pueda asumir responsabilidades sobre el backend, resolver problemas reales y seguir profundizando en arquitectura y diseño de sistemas, aportando experiencia en el desarrollo y evolución de productos.
 
 ## Tecnologías
 **Backend:** Node.js, TypeScript, Express.js, Java, Spring Boot, APIs REST, Prisma, TypeORM, JWT, validación de datos, arquitectura por capas.
