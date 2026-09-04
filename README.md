@@ -9,7 +9,7 @@ Me interesa formar parte de un equipo donde pueda **asumir responsabilidades** s
 
 ## Tecnologías
 
-**- Backend:** Node.js, TypeScript, Express.js, Java, Spring Boot, Prisma, TypeORM.
+**- Backend:** Java, Spring Boot, Node.js, TypeScript, Express.js, Prisma, TypeORM.
 
 **- APIs y seguridad:** APIs REST, JWT, validación de datos, documentación de APIs.
 
@@ -23,7 +23,7 @@ Me interesa formar parte de un equipo donde pueda **asumir responsabilidades** s
 
 **- Frontend:** React, Next.js, JavaScript, HTML5, CSS3, Tailwind CSS.
 
-## Proyectos
+<!-- ## Proyectos
 
 **- [SERVIPLACE](https://github.com/JoanSimonutti/SERVIPLACE-BACKEND)** 
 
@@ -47,6 +47,6 @@ Juego de Tetris desarrollado con JavaScript, enfocado en la lógica del juego, l
 
 **Blog temático desarrollado con React.**
 
-Proyecto frontend orientado a la creación de una interfaz web basada en el universo de Star Wars.
+Proyecto frontend orientado a la creación de una interfaz web basada en el universo de Star Wars.-->
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,20:123B63,45:0969DA,70:218BFF,100:58A6FF&height=140&section=footer)
