@@ -2,7 +2,7 @@
 
 
 ## Sobre mí
-Desarrollo **aplicaciones web** y **APIs REST** con **Node.js** y **TypeScript**, trabajando de manera integral desde el modelado de datos y el diseño de la arquitectura hasta la implementación, las pruebas y el despliegue.
+Desarrollo **aplicaciones web** y **APIs REST**, trabajando de manera integral desde el modelado de datos y el diseño de la arquitectura hasta la implementación, las pruebas y el despliegue.
 
 Mi experiencia se centra en la construcción de **sistemas mantenibles**, diseñando **arquitecturas claras**, tomando buenas decisiones técnicas y buscando un **equilibrio entre calidad y simplicidad**.
 
