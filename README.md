@@ -23,7 +23,7 @@ Busco incorporarme a un equipo de desarrollo donde pueda asumir responsabilidade
 
 **Frontend:** React, Next.js, JavaScript, HTML5, CSS3, Tailwind CSS.
 
-<!--## Proyectos
+## Proyectos
 
 **[SERVIPLACE](https://github.com/JoanSimonutti/SERVIPLACE-BACKEND)** 
 
@@ -48,6 +48,5 @@ Juego de Tetris desarrollado con JavaScript, enfocado en la lógica del juego, l
 **Blog temático desarrollado con React.**
 
 Proyecto frontend orientado a la creación de una interfaz web basada en el universo de Star Wars.
--->
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:FFB36B,22:FF8A5B,45:E94F58,70:A91E65,100:5B164B&height=140&section=footer)
