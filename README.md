@@ -2,11 +2,11 @@
 
 
 ## Sobre mí
-**-** Desarrollo **aplicaciones web** y **APIs REST** con **Node.js** y **TypeScript**, participando en todo el proceso, desde el modelado de datos y el diseño de la arquitectura hasta la implementación, las pruebas y el despliegue.
+Desarrollo **aplicaciones web** y **APIs REST** con **Node.js** y **TypeScript**, trabajando de manera integral desde el modelado de datos y el diseño de la arquitectura hasta la implementación, las pruebas y el despliegue.
 
-**-** Mi experiencia se centra en la construcción de **sistemas mantenibles**, diseñando **arquitecturas claras**, tomando buenas decisiones técnicas y buscando un **equilibrio entre calidad y simplicidad**.
+Mi experiencia se centra en la construcción de **sistemas mantenibles**, diseñando **arquitecturas claras**, tomando buenas decisiones técnicas y buscando un **equilibrio entre calidad y simplicidad**.
 
-**-** Me interesa formar parte de un equipo donde pueda **asumir responsabilidades** sobre el backend, involucrarme en las decisiones técnicas y contribuir a **evolucionar productos** con una base sólida y bien diseñada.
+Me interesa formar parte de un equipo donde pueda **asumir responsabilidades** sobre el backend, involucrarme en las decisiones técnicas y contribuir a **evolucionar productos** con una base sólida y bien diseñada.
 
 ## Tecnologías
 **- Backend:** Node.js, TypeScript, Express.js, Java, Spring Boot, APIs REST, Prisma, TypeORM, JWT, validación de datos, arquitectura por capas.
