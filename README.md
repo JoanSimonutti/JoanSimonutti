@@ -9,15 +9,18 @@ Mi experiencia se centra en la construcción de **sistemas mantenibles**, diseñ
 Me interesa formar parte de un equipo donde pueda **asumir responsabilidades** sobre el backend, involucrarme en las decisiones técnicas y contribuir a **evolucionar productos** con una base sólida y bien diseñada.
 
 ## Tecnologías
-**- Backend:** Node.js, TypeScript, Express.js, Java, Spring Boot, APIs REST, Prisma, TypeORM, JWT, validación de datos, arquitectura por capas.
 
-**- Bases de datos:** PostgreSQL, MySQL, MongoDB, modelado de datos, relaciones, consultas SQL.
+**- Backend:** Node.js, TypeScript, Express.js, Java, Spring Boot, Prisma, TypeORM.
 
-**- Testing:** Jest, Supertest, testing unitario, testing de APIs.
+**- APIs y seguridad:** APIs REST, JWT, validación de datos, documentación de APIs.
 
-**- Arquitectura y desarrollo:** separación de responsabilidades, principios SOLID, diseño modular, código mantenible, manejo de errores, validación y documentación de APIs.
+**- Bases de datos:** PostgreSQL, MySQL, MongoDB, SQL, modelado de datos y relaciones.
 
-**- Herramientas:** Git, GitHub, Docker, Vercel, Render.
+**- Testing:** Jest, Supertest, testing unitario y testing de APIs.
+
+**- Arquitectura y buenas prácticas:** separación de responsabilidades, arquitectura por capas, diseño modular, principios SOLID, manejo de errores y código mantenible.
+
+**- Herramientas y despliegue:** Git, GitHub, Docker, Vercel, Render.
 
 **- Frontend:** React, Next.js, JavaScript, HTML5, CSS3, Tailwind CSS.
 
